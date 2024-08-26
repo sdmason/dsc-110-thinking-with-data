@@ -1,5 +1,5 @@
 crime,type,year,rate
-Homocide,Violent,1985,8.0
+Homicide,Violent,1985,8.0
 Rape,Violent,1985,36.8
 Robbery,Violent,1985,209.3
 Aggravated Assault,Violent,1985,304.0
@@ -8,7 +8,7 @@ Burglary,Property,1985,1291.7
 Larceny,Property,1985,2911.2
 Motor Vehicle Theft,Property,1985,463.5
 Total,Total,1985,5268.1
-Homocide,Violent,1986,8.6
+Homicide,Violent,1986,8.6
 Rape,Violent,1986,38.1
 Robbery,Violent,1986,226.0
 Aggravated Assault,Violent,1986,347.4
@@ -17,7 +17,7 @@ Burglary,Property,1986,1349.8
 Larceny,Property,1986,3022.1
 Motor Vehicle Theft,Property,1986,509.8
 Total,Total,1986,5548.1
-Homocide,Violent,1987,8.3
+Homicide,Violent,1987,8.3
 Rape,Violent,1987,37.6
 Robbery,Violent,1987,213.7
 Aggravated Assault,Violent,1987,352.9
@@ -26,7 +26,7 @@ Burglary,Property,1987,1335.7
 Larceny,Property,1987,3095.4
 Motor Vehicle Theft,Property,1987,531.9
 Total,Total,1987,5618.0
-Homocide,Violent,1988,8.5
+Homicide,Violent,1988,8.5
 Rape,Violent,1988,37.8
 Robbery,Violent,1988,222.1
 Aggravated Assault,Violent,1988,372.2
@@ -35,7 +35,7 @@ Burglary,Property,1988,1316.2
 Larceny,Property,1988,3151.7
 Motor Vehicle Theft,Property,1988,586.1
 Total,Total,1988,5735.6
-Homocide,Violent,1989,8.7
+Homicide,Violent,1989,8.7
 Rape,Violent,1989,38.3
 Robbery,Violent,1989,234.3
 Aggravated Assault,Violent,1989,385.6
@@ -44,7 +44,7 @@ Burglary,Property,1989,1283.6
 Larceny,Property,1989,3189.6
 Motor Vehicle Theft,Property,1989,634.0
 Total,Total,1989,5815.5
-Homocide,Violent,1990,9.4
+Homicide,Violent,1990,9.4
 Rape,Violent,1990,41.1
 Robbery,Violent,1990,256.3
 Aggravated Assault,Violent,1990,422.9
@@ -53,7 +53,7 @@ Burglary,Property,1990,1232.2
 Larceny,Property,1990,3185.1
 Motor Vehicle Theft,Property,1990,655.8
 Total,Total,1990,5844.499999999999
-Homocide,Violent,1991,9.8
+Homicide,Violent,1991,9.8
 Rape,Violent,1991,42.3
 Robbery,Violent,1991,272.7
 Aggravated Assault,Violent,1991,433.4
@@ -62,7 +62,7 @@ Burglary,Property,1991,1252.1
 Larceny,Property,1991,3229.1
 Motor Vehicle Theft,Property,1991,659.0
 Total,Total,1991,5939.4
-Homocide,Violent,1992,9.3
+Homicide,Violent,1992,9.3
 Rape,Violent,1992,42.8
 Robbery,Violent,1992,263.7
 Aggravated Assault,Violent,1992,441.9
@@ -71,7 +71,7 @@ Burglary,Property,1992,1168.4
 Larceny,Property,1992,3103.6
 Motor Vehicle Theft,Property,1992,631.6
 Total,Total,1992,5702.099999999999
-Homocide,Violent,1993,9.5
+Homicide,Violent,1993,9.5
 Rape,Violent,1993,41.1
 Robbery,Violent,1993,256.0
 Aggravated Assault,Violent,1993,440.5
@@ -80,7 +80,7 @@ Burglary,Property,1993,1099.7
 Larceny,Property,1993,3033.9
 Motor Vehicle Theft,Property,1993,606.3
 Total,Total,1993,5524.3
-Homocide,Violent,1994,9.0
+Homicide,Violent,1994,9.0
 Rape,Violent,1994,39.3
 Robbery,Violent,1994,237.8
 Aggravated Assault,Violent,1994,427.6
@@ -89,7 +89,7 @@ Burglary,Property,1994,1042.1
 Larceny,Property,1994,3026.9
 Motor Vehicle Theft,Property,1994,591.3
 Total,Total,1994,5413.599999999999
-Homocide,Violent,1995,8.2
+Homicide,Violent,1995,8.2
 Rape,Violent,1995,37.1
 Robbery,Violent,1995,220.9
 Aggravated Assault,Violent,1995,418.3
@@ -98,7 +98,7 @@ Burglary,Property,1995,987.0
 Larceny,Property,1995,3043.2
 Motor Vehicle Theft,Property,1995,560.3
 Total,Total,1995,5311.7
-Homocide,Violent,1996,7.4
+Homicide,Violent,1996,7.4
 Rape,Violent,1996,36.3
 Robbery,Violent,1996,201.9
 Aggravated Assault,Violent,1996,391.0
@@ -107,7 +107,7 @@ Burglary,Property,1996,945.0
 Larceny,Property,1996,2980.3
 Motor Vehicle Theft,Property,1996,525.7
 Total,Total,1996,5122.200000000001
-Homocide,Violent,1997,6.8
+Homicide,Violent,1997,6.8
 Rape,Violent,1997,35.9
 Robbery,Violent,1997,186.2
 Aggravated Assault,Violent,1997,382.1
@@ -116,7 +116,7 @@ Burglary,Property,1997,919.0
 Larceny,Property,1997,2891.8
 Motor Vehicle Theft,Property,1997,505.7
 Total,Total,1997,4960.1
-Homocide,Violent,1998,6.3
+Homicide,Violent,1998,6.3
 Rape,Violent,1998,34.5
 Robbery,Violent,1998,165.5
 Aggravated Assault,Violent,1998,361.4
@@ -125,7 +125,7 @@ Burglary,Property,1998,863.2
 Larceny,Property,1998,2729.5
 Motor Vehicle Theft,Property,1998,459.9
 Total,Total,1998,4650.0
-Homocide,Violent,1999,5.7
+Homicide,Violent,1999,5.7
 Rape,Violent,1999,32.8
 Robbery,Violent,1999,150.1
 Aggravated Assault,Violent,1999,334.3
@@ -134,7 +134,7 @@ Burglary,Property,1999,770.4
 Larceny,Property,1999,2550.7
 Motor Vehicle Theft,Property,1999,422.5
 Total,Total,1999,4295.299999999999
-Homocide,Violent,2000,5.5
+Homicide,Violent,2000,5.5
 Rape,Violent,2000,32.0
 Robbery,Violent,2000,145.0
 Aggravated Assault,Violent,2000,324.0
@@ -143,7 +143,7 @@ Burglary,Property,2000,728.8
 Larceny,Property,2000,2477.3
 Motor Vehicle Theft,Property,2000,412.2
 Total,Total,2000,4149.5
-Homocide,Violent,2001,5.6
+Homicide,Violent,2001,5.6
 Rape,Violent,2001,31.8
 Robbery,Violent,2001,148.5
 Aggravated Assault,Violent,2001,318.6
@@ -152,7 +152,7 @@ Burglary,Property,2001,741.8
 Larceny,Property,2001,2485.7
 Motor Vehicle Theft,Property,2001,430.5
 Total,Total,2001,4190.2
-Homocide,Violent,2002,5.6
+Homicide,Violent,2002,5.6
 Rape,Violent,2002,33.1
 Robbery,Violent,2002,146.1
 Aggravated Assault,Violent,2002,309.5
@@ -161,7 +161,7 @@ Burglary,Property,2002,747.0
 Larceny,Property,2002,2450.7
 Motor Vehicle Theft,Property,2002,432.9
 Total,Total,2002,4151.7
-Homocide,Violent,2003,5.7
+Homicide,Violent,2003,5.7
 Rape,Violent,2003,32.3
 Robbery,Violent,2003,142.5
 Aggravated Assault,Violent,2003,295.4
@@ -170,7 +170,7 @@ Burglary,Property,2003,741.0
 Larceny,Property,2003,2416.5
 Motor Vehicle Theft,Property,2003,433.7
 Total,Total,2003,4092.1
-Homocide,Violent,2004,5.5
+Homicide,Violent,2004,5.5
 Rape,Violent,2004,32.4
 Robbery,Violent,2004,136.7
 Aggravated Assault,Violent,2004,288.6
@@ -179,7 +179,7 @@ Burglary,Property,2004,730.3
 Larceny,Property,2004,2362.3
 Motor Vehicle Theft,Property,2004,421.5
 Total,Total,2004,4000.9
-Homocide,Violent,2005,5.6
+Homicide,Violent,2005,5.6
 Rape,Violent,2005,31.8
 Robbery,Violent,2005,140.8
 Aggravated Assault,Violent,2005,290.8
@@ -188,7 +188,7 @@ Burglary,Property,2005,726.9
 Larceny,Property,2005,2287.8
 Motor Vehicle Theft,Property,2005,416.8
 Total,Total,2005,3923.6000000000004
-Homocide,Violent,2006,5.8
+Homicide,Violent,2006,5.8
 Rape,Violent,2006,31.6
 Robbery,Violent,2006,150.0
 Aggravated Assault,Violent,2006,292.0
@@ -197,7 +197,7 @@ Burglary,Property,2006,733.1
 Larceny,Property,2006,2213.2
 Motor Vehicle Theft,Property,2006,400.2
 Total,Total,2006,3850.2999999999997
-Homocide,Violent,2007,5.7
+Homicide,Violent,2007,5.7
 Rape,Violent,2007,30.6
 Robbery,Violent,2007,148.3
 Aggravated Assault,Violent,2007,287.2
@@ -206,7 +206,7 @@ Burglary,Property,2007,726.1
 Larceny,Property,2007,2185.4
 Motor Vehicle Theft,Property,2007,364.9
 Total,Total,2007,3770.8
-Homocide,Violent,2008,5.4
+Homicide,Violent,2008,5.4
 Rape,Violent,2008,29.8
 Robbery,Violent,2008,145.9
 Aggravated Assault,Violent,2008,277.5
@@ -215,7 +215,7 @@ Burglary,Property,2008,733.0
 Larceny,Property,2008,2166.1
 Motor Vehicle Theft,Property,2008,315.4
 Total,Total,2008,3694.7
-Homocide,Violent,2009,5.0
+Homicide,Violent,2009,5.0
 Rape,Violent,2009,29.1
 Robbery,Violent,2009,133.1
 Aggravated Assault,Violent,2009,264.7
@@ -224,7 +224,7 @@ Burglary,Property,2009,717.7
 Larceny,Property,2009,2064.5
 Motor Vehicle Theft,Property,2009,259.2
 Total,Total,2009,3492.7999999999997
-Homocide,Violent,2010,4.8
+Homicide,Violent,2010,4.8
 Rape,Violent,2010,27.7
 Robbery,Violent,2010,119.3
 Aggravated Assault,Violent,2010,252.8
@@ -233,7 +233,7 @@ Burglary,Property,2010,701.0
 Larceny,Property,2010,2005.8
 Motor Vehicle Theft,Property,2010,239.1
 Total,Total,2010,3368.6
-Homocide,Violent,2011,4.7
+Homicide,Violent,2011,4.7
 Rape,Violent,2011,27.0
 Robbery,Violent,2011,113.9
 Aggravated Assault,Violent,2011,241.5
@@ -242,7 +242,7 @@ Burglary,Property,2011,701.3
 Larceny,Property,2011,1974.1
 Motor Vehicle Theft,Property,2011,230.0
 Total,Total,2011,3309.9999999999995
-Homocide,Violent,2012,4.7
+Homicide,Violent,2012,4.7
 Rape,Violent,2012,27.1
 Robbery,Violent,2012,113.1
 Aggravated Assault,Violent,2012,242.8
@@ -251,7 +251,7 @@ Burglary,Property,2012,672.2
 Larceny,Property,2012,1965.4
 Motor Vehicle Theft,Property,2012,230.4
 Total,Total,2012,3273.3
-Homocide,Violent,2013,4.5
+Homicide,Violent,2013,4.5
 Rape,Violent,2013,35.9
 Robbery,Violent,2013,109.0
 Aggravated Assault,Violent,2013,229.6
@@ -260,7 +260,7 @@ Burglary,Property,2013,610.5
 Larceny,Property,2013,1901.9
 Motor Vehicle Theft,Property,2013,221.3
 Total,Total,2013,3127.6000000000004
-Homocide,Violent,2014,4.4
+Homicide,Violent,2014,4.4
 Rape,Violent,2014,37.0
 Robbery,Violent,2014,101.3
 Aggravated Assault,Violent,2014,229.2
@@ -269,7 +269,7 @@ Burglary,Property,2014,537.2
 Larceny,Property,2014,1821.5
 Motor Vehicle Theft,Property,2014,215.4
 Total,Total,2014,2960.5000000000005
-Homocide,Violent,2015,4.9
+Homicide,Violent,2015,4.9
 Rape,Violent,2015,39.3
 Robbery,Violent,2015,102.2
 Aggravated Assault,Violent,2015,238.1
@@ -278,7 +278,7 @@ Burglary,Property,2015,494.7
 Larceny,Property,2015,1783.6
 Motor Vehicle Theft,Property,2015,222.2
 Total,Total,2015,2898.7
-Homocide,Violent,2016,5.4
+Homicide,Violent,2016,5.4
 Rape,Violent,2016,40.9
 Robbery,Violent,2016,102.9
 Aggravated Assault,Violent,2016,248.3
@@ -287,7 +287,7 @@ Burglary,Property,2016,468.9
 Larceny,Property,2016,1745.4
 Motor Vehicle Theft,Property,2016,237.3
 Total,Total,2016,2863.2
-Homocide,Violent,2017,5.3
+Homicide,Violent,2017,5.3
 Rape,Violent,2017,41.7
 Robbery,Violent,2017,98.6
 Aggravated Assault,Violent,2017,249.2
@@ -296,7 +296,7 @@ Burglary,Property,2017,429.7
 Larceny,Property,2017,1695.5
 Motor Vehicle Theft,Property,2017,237.7
 Total,Total,2017,2770.8999999999996
-Homocide,Violent,2018,5.0
+Homicide,Violent,2018,5.0
 Rape,Violent,2018,44.0
 Robbery,Violent,2018,86.1
 Aggravated Assault,Violent,2018,248.2
@@ -305,7 +305,7 @@ Burglary,Property,2018,378.0
 Larceny,Property,2018,1601.6
 Motor Vehicle Theft,Property,2018,230.2
 Total,Total,2018,2605.1000000000004
-Homocide,Violent,2019,5.1
+Homicide,Violent,2019,5.1
 Rape,Violent,2019,43.6
 Robbery,Violent,2019,81.8
 Aggravated Assault,Violent,2019,250.4
@@ -314,7 +314,7 @@ Burglary,Property,2019,340.5
 Larceny,Property,2019,1569.2
 Motor Vehicle Theft,Property,2019,220.8
 Total,Total,2019,2522.4
-Homocide,Violent,2020,6.5
+Homicide,Violent,2020,6.5
 Rape,Violent,2020,38.4
 Robbery,Violent,2020,73.9
 Aggravated Assault,Violent,2020,279.7
@@ -323,7 +323,7 @@ Burglary,Property,2020,314.2
 Larceny,Property,2020,1398.0
 Motor Vehicle Theft,Property,2020,246.0
 Total,Total,2020,2370.6
-Homocide,Violent,2021,6.8
+Homicide,Violent,2021,6.8
 Rape,Violent,2021,42.4
 Robbery,Violent,2021,65.5
 Aggravated Assault,Violent,2021,272.2
@@ -332,7 +332,7 @@ Burglary,Property,2021,270.9
 Larceny,Property,2021,1305.5
 Motor Vehicle Theft,Property,2021,255.9
 Total,Total,2021,2228.1
-Homocide,Violent,2022,6.3
+Homicide,Violent,2022,6.3
 Rape,Violent,2022,40.0
 Robbery,Violent,2022,66.1
 Aggravated Assault,Violent,2022,268.2

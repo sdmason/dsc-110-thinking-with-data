@@ -25,6 +25,6 @@ fbi = fbi.melt(id_vars = ["crime", "type"], var_name = "year", value_name = "rat
 ```
 
 ```{python exporting}
-gallup.to_csv("cleaned_data/gallup_crime.csv")
-fbi.to_csv("cleaned_data/fbi_crime_rates.csv")
+gallup.to_csv("cleaned_data/gallup_crime.csv", index = False)
+fbi.to_csv("cleaned_data/fbi_crime_rates.csv", index = False)
 ```
