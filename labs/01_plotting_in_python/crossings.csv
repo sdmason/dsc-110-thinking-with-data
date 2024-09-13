@@ -1,0 +1,4096 @@
+port_code,port_name,state,year,month,mode,count
+2302.0,Del Rio,Texas,2023,12,Truck,6552.0
+2310.0,Roma,Texas,2023,11,Truck,3753.0
+2305.0,Hidalgo,Texas,2023,8,Truck,59677.0
+2310.0,Roma,Texas,2023,7,Bus,949.0
+2310.0,Roma,Texas,2023,2,Truck,3179.0
+2602.0,Lukeville,Arizona,2013,10,Truck,17.0
+2310.0,Roma,Texas,2013,8,Bus,702.0
+2404.0,Tornillo,Texas,2013,3,Truck,0.0
+2606.0,Sasabe,Arizona,2003,8,Truck,89.0
+2402.0,El Paso,Texas,2023,10,Pedestrian,399812.0
+2307.0,Rio Grande City,Texas,2023,12,Pedestrian,5697.0
+2502.0,Andrade,California,2023,5,Personal Vehicle,84454.0
+2608.0,San Luis,Arizona,2023,11,Bus,2.0
+2302.0,Del Rio,Texas,2023,5,Personal Vehicle,261653.0
+2303.0,Eagle Pass,Texas,2023,10,Personal Vehicle,425742.0
+2302.0,Del Rio,Texas,2023,10,Bus,82.0
+2608.0,San Luis,Arizona,2023,7,Bus,11.0
+2406.0,Columbus,New Mexico,2023,2,Personal Vehicle,53243.0
+2310.0,Roma,Texas,2023,6,Bus,698.0
+2403.0,Presidio,Texas,2023,5,Personal Vehicle,117727.0
+2608.0,San Luis,Arizona,2023,9,Personal Vehicle,398705.0
+2502.0,Andrade,California,2023,6,Pedestrian,38672.0
+2408.0,Santa Teresa,New Mexico,2023,12,Personal Vehicle,162092.0
+2505.0,Tecate,California,2023,9,Personal Vehicle,147568.0
+2506.0,Otay Mesa,California,2023,11,Train,2.0
+2504.0,San Ysidro,California,2023,9,Pedestrian,565561.0
+2408.0,Santa Teresa,New Mexico,2023,1,Truck,12755.0
+2507.0,Calexico East,California,2023,10,Pedestrian,51214.0
+2309.0,Progreso,Texas,2023,6,Pedestrian,79286.0
+2305.0,Hidalgo,Texas,2023,10,Bus,16955.0
+2608.0,San Luis,Arizona,2023,7,Pedestrian,131662.0
+2301.0,Brownsville,Texas,2023,5,Bus,889.0
+2582.0,Cross Border Xpress,California,2023,1,Pedestrian,228403.0
+2507.0,Calexico East,California,2023,6,Train,22.0
+2303.0,Eagle Pass,Texas,2023,7,Personal Vehicle,546249.0
+2403.0,Presidio,Texas,2023,9,Bus,209.0
+2504.0,San Ysidro,California,2023,1,Bus,23265.0
+2503.0,Calexico,California,2023,7,Personal Vehicle,711125.0
+2506.0,Otay Mesa,California,2023,5,Personal Vehicle,770008.0
+2506.0,Otay Mesa,California,2023,5,Truck,91829.0
+2506.0,Otay Mesa,California,2023,1,Pedestrian,206264.0
+2303.0,Eagle Pass,Texas,2023,4,Bus,12915.0
+2505.0,Tecate,California,2023,3,Truck,5453.0
+2402.0,El Paso,Texas,2023,1,Train,560.0
+2304.0,Laredo,Texas,2023,10,Pedestrian,1539.0
+2410.0,Boquillas,Texas,2023,5,Pedestrian,984.0
+2601.0,Douglas,Arizona,2023,6,Pedestrian,52498.0
+2401.0,Ysleta,Texas,2023,10,Pedestrian,93080.0
+2507.0,Calexico East,California,2023,6,Truck,39863.0
+2506.0,Otay Mesa,California,2023,2,Truck,78043.0
+2410.0,Boquillas,Texas,2023,11,Pedestrian,2829.0
+2310.0,Roma,Texas,2023,10,Personal Vehicle,123672.0
+2310.0,Roma,Texas,2023,6,Truck,3931.0
+2602.0,Lukeville,Arizona,2023,2,Personal Vehicle,52220.0
+2404.0,Tornillo,Texas,2023,5,Pedestrian,3393.0
+2404.0,Tornillo,Texas,2023,9,Personal Vehicle,84941.0
+2401.0,Ysleta,Texas,2023,3,Pedestrian,115287.0
+2603.0,Naco,Arizona,2023,2,Personal Vehicle,42878.0
+2402.0,El Paso,Texas,2023,10,Bus,16415.0
+2307.0,Rio Grande City,Texas,2023,3,Truck,4034.0
+2302.0,Del Rio,Texas,2023,7,Pedestrian,10202.0
+2604.0,Nogales,Arizona,2023,7,Bus,20001.0
+2307.0,Rio Grande City,Texas,2023,12,Personal Vehicle,90849.0
+2402.0,El Paso,Texas,2023,3,Personal Vehicle,1256754.0
+2602.0,Lukeville,Arizona,2023,4,Personal Vehicle,87562.0
+2305.0,Hidalgo,Texas,2023,8,Bus,19148.0
+2302.0,Del Rio,Texas,2023,4,Pedestrian,16325.0
+2507.0,Calexico East,California,2023,1,Bus,354.0
+2410.0,Boquillas,Texas,2023,1,Pedestrian,2176.0
+2403.0,Presidio,Texas,2023,2,Pedestrian,9732.0
+2301.0,Brownsville,Texas,2023,5,Pedestrian,219131.0
+2402.0,El Paso,Texas,2023,1,Truck,3322.0
+2303.0,Eagle Pass,Texas,2023,4,Personal Vehicle,520797.0
+2408.0,Santa Teresa,New Mexico,2023,3,Bus,1273.0
+2507.0,Calexico East,California,2023,9,Personal Vehicle,425181.0
+2402.0,El Paso,Texas,2023,6,Pedestrian,335257.0
+2602.0,Lukeville,Arizona,2023,7,Pedestrian,6651.0
+2303.0,Eagle Pass,Texas,2023,12,Personal Vehicle,284126.0
+2310.0,Roma,Texas,2023,3,Pedestrian,17179.0
+2608.0,San Luis,Arizona,2023,6,Bus,7.0
+2305.0,Hidalgo,Texas,2023,5,Truck,66372.0
+2404.0,Tornillo,Texas,2023,7,Personal Vehicle,81552.0
+2406.0,Columbus,New Mexico,2023,11,Bus,871.0
+2504.0,San Ysidro,California,2023,5,Pedestrian,623939.0
+2305.0,Hidalgo,Texas,2023,6,Pedestrian,172288.0
+2505.0,Tecate,California,2023,4,Personal Vehicle,155612.0
+2408.0,Santa Teresa,New Mexico,2023,2,Pedestrian,8130.0
+2309.0,Progreso,Texas,2023,10,Pedestrian,81924.0
+2601.0,Douglas,Arizona,2023,9,Bus,455.0
+2304.0,Laredo,Texas,2023,2,Truck,229763.0
+2309.0,Progreso,Texas,2023,3,Personal Vehicle,254672.0
+2302.0,Del Rio,Texas,2023,8,Truck,7103.0
+2505.0,Tecate,California,2023,1,Personal Vehicle,146176.0
+2406.0,Columbus,New Mexico,2023,7,Pedestrian,15672.0
+2504.0,San Ysidro,California,2023,10,Bus,46158.0
+2404.0,Tornillo,Texas,2023,1,Personal Vehicle,59154.0
+2402.0,El Paso,Texas,2023,9,Personal Vehicle,1123633.0
+2408.0,Santa Teresa,New Mexico,2023,9,Bus,505.0
+2309.0,Progreso,Texas,2023,7,Pedestrian,94534.0
+2305.0,Hidalgo,Texas,2023,8,Pedestrian,194255.0
+2505.0,Tecate,California,2023,1,Truck,4781.0
+2406.0,Columbus,New Mexico,2023,10,Bus,801.0
+2606.0,Sasabe,Arizona,2023,10,Personal Vehicle,4379.0
+2507.0,Calexico East,California,2023,3,Personal Vehicle,429401.0
+2301.0,Brownsville,Texas,2023,8,Pedestrian,233537.0
+2502.0,Andrade,California,2023,9,Personal Vehicle,82177.0
+2601.0,Douglas,Arizona,2023,4,Truck,2144.0
+2601.0,Douglas,Arizona,2023,1,Truck,2183.0
+2502.0,Andrade,California,2023,11,Personal Vehicle,91147.0
+2502.0,Andrade,California,2023,10,Personal Vehicle,92254.0
+2406.0,Columbus,New Mexico,2023,11,Truck,2137.0
+2402.0,El Paso,Texas,2023,12,Pedestrian,547061.0
+2408.0,Santa Teresa,New Mexico,2023,7,Truck,12655.0
+2301.0,Brownsville,Texas,2023,1,Truck,28463.0
+2307.0,Rio Grande City,Texas,2023,6,Pedestrian,4266.0
+2403.0,Presidio,Texas,2023,1,Bus,120.0
+2504.0,San Ysidro,California,2023,4,Pedestrian,614714.0
+2507.0,Calexico East,California,2023,9,Train,190.0
+2502.0,Andrade,California,2023,7,Pedestrian,28708.0
+2507.0,Calexico East,California,2023,7,Pedestrian,36118.0
+2301.0,Brownsville,Texas,2023,10,Personal Vehicle,754681.0
+2506.0,Otay Mesa,California,2023,3,Pedestrian,219208.0
+2408.0,Santa Teresa,New Mexico,2023,5,Personal Vehicle,116649.0
+2302.0,Del Rio,Texas,2023,10,Personal Vehicle,260244.0
+2408.0,Santa Teresa,New Mexico,2023,6,Personal Vehicle,130960.0
+2608.0,San Luis,Arizona,2023,8,Bus,8.0
+2303.0,Eagle Pass,Texas,2023,1,Pedestrian,81749.0
+2608.0,San Luis,Arizona,2023,2,Bus,13.0
+2603.0,Naco,Arizona,2023,7,Pedestrian,5492.0
+2505.0,Tecate,California,2023,12,Truck,4799.0
+2502.0,Andrade,California,2023,2,Pedestrian,78975.0
+2506.0,Otay Mesa,California,2023,1,Truck,79160.0
+2301.0,Brownsville,Texas,2023,9,Pedestrian,222119.0
+2303.0,Eagle Pass,Texas,2023,7,Truck,17988.0
+2505.0,Tecate,California,2023,9,Pedestrian,80243.0
+2303.0,Eagle Pass,Texas,2023,10,Bus,9980.0
+2601.0,Douglas,Arizona,2023,10,Personal Vehicle,209097.0
+2403.0,Presidio,Texas,2023,3,Bus,144.0
+2505.0,Tecate,California,2023,7,Pedestrian,73530.0
+2404.0,Tornillo,Texas,2023,2,Personal Vehicle,57375.0
+2401.0,Ysleta,Texas,2023,5,Truck,59109.0
+2602.0,Lukeville,Arizona,2023,5,Truck,71.0
+2504.0,San Ysidro,California,2023,12,Personal Vehicle,2124723.0
+2303.0,Eagle Pass,Texas,2023,11,Pedestrian,76455.0
+2504.0,San Ysidro,California,2023,8,Bus,34204.0
+2507.0,Calexico East,California,2023,5,Pedestrian,50241.0
+2602.0,Lukeville,Arizona,2023,9,Bus,287.0
+2502.0,Andrade,California,2023,7,Personal Vehicle,86297.0
+2303.0,Eagle Pass,Texas,2023,2,Bus,8360.0
+2309.0,Progreso,Texas,2023,8,Personal Vehicle,242263.0
+2307.0,Rio Grande City,Texas,2023,7,Pedestrian,2632.0
+2408.0,Santa Teresa,New Mexico,2023,6,Pedestrian,11540.0
+2606.0,Sasabe,Arizona,2023,12,Pedestrian,20.0
+2305.0,Hidalgo,Texas,2023,7,Pedestrian,187074.0
+2403.0,Presidio,Texas,2023,3,Pedestrian,13984.0
+2506.0,Otay Mesa,California,2023,1,Train,10.0
+2401.0,Ysleta,Texas,2023,9,Truck,37144.0
+2406.0,Columbus,New Mexico,2023,5,Truck,1684.0
+2504.0,San Ysidro,California,2023,11,Pedestrian,570191.0
+2582.0,Cross Border Xpress,California,2023,8,Pedestrian,198151.0
+2603.0,Naco,Arizona,2023,9,Truck,270.0
+2408.0,Santa Teresa,New Mexico,2023,1,Personal Vehicle,110567.0
+2401.0,Ysleta,Texas,2023,11,Pedestrian,129817.0
+2608.0,San Luis,Arizona,2023,2,Truck,4915.0
+2503.0,Calexico,California,2023,11,Personal Vehicle,686841.0
+2310.0,Roma,Texas,2023,4,Pedestrian,19127.0
+2505.0,Tecate,California,2023,7,Personal Vehicle,169189.0
+2401.0,Ysleta,Texas,2023,9,Personal Vehicle,484967.0
+2309.0,Progreso,Texas,2023,10,Truck,4957.0
+2303.0,Eagle Pass,Texas,2023,8,Pedestrian,79373.0
+2402.0,El Paso,Texas,2023,3,Truck,4050.0
+2608.0,San Luis,Arizona,2023,12,Truck,3599.0
+2608.0,San Luis,Arizona,2023,9,Truck,3265.0
+2310.0,Roma,Texas,2023,9,Bus,561.0
+2502.0,Andrade,California,2023,12,Pedestrian,62578.0
+2404.0,Tornillo,Texas,2023,5,Personal Vehicle,76421.0
+2408.0,Santa Teresa,New Mexico,2023,5,Pedestrian,9617.0
+2310.0,Roma,Texas,2023,4,Personal Vehicle,124690.0
+2601.0,Douglas,Arizona,2023,2,Pedestrian,53278.0
+2302.0,Del Rio,Texas,2023,2,Pedestrian,16073.0
+2504.0,San Ysidro,California,2023,4,Personal Vehicle,2201675.0
+2601.0,Douglas,Arizona,2023,7,Pedestrian,54237.0
+2601.0,Douglas,Arizona,2023,8,Bus,612.0
+2604.0,Nogales,Arizona,2023,4,Pedestrian,254218.0
+2304.0,Laredo,Texas,2023,1,Pedestrian,225422.0
+2309.0,Progreso,Texas,2023,11,Personal Vehicle,264300.0
+2304.0,Laredo,Texas,2023,6,Pedestrian,210073.0
+2602.0,Lukeville,Arizona,2023,3,Bus,253.0
+2309.0,Progreso,Texas,2023,5,Truck,3751.0
+2506.0,Otay Mesa,California,2023,12,Pedestrian,262604.0
+2310.0,Roma,Texas,2023,11,Personal Vehicle,130550.0
+2507.0,Calexico East,California,2023,8,Truck,39022.0
+2505.0,Tecate,California,2023,8,Pedestrian,76362.0
+2502.0,Andrade,California,2023,6,Personal Vehicle,82126.0
+2507.0,Calexico East,California,2023,5,Bus,459.0
+2606.0,Sasabe,Arizona,2023,7,Pedestrian,50.0
+2309.0,Progreso,Texas,2023,1,Personal Vehicle,248383.0
+2403.0,Presidio,Texas,2023,7,Personal Vehicle,138634.0
+2302.0,Del Rio,Texas,2023,12,Pedestrian,32529.0
+2403.0,Presidio,Texas,2023,12,Truck,893.0
+2406.0,Columbus,New Mexico,2023,6,Personal Vehicle,64777.0
+2504.0,San Ysidro,California,2023,7,Personal Vehicle,2302112.0
+2410.0,Boquillas,Texas,2023,6,Pedestrian,630.0
+2601.0,Douglas,Arizona,2023,5,Pedestrian,65517.0
+2406.0,Columbus,New Mexico,2023,6,Pedestrian,21434.0
+2404.0,Tornillo,Texas,2023,3,Personal Vehicle,68727.0
+2608.0,San Luis,Arizona,2023,11,Truck,3473.0
+2303.0,Eagle Pass,Texas,2023,2,Truck,16071.0
+2406.0,Columbus,New Mexico,2023,10,Personal Vehicle,65815.0
+2309.0,Progreso,Texas,2023,3,Pedestrian,119974.0
+2406.0,Columbus,New Mexico,2023,5,Personal Vehicle,66798.0
+2505.0,Tecate,California,2023,11,Pedestrian,75474.0
+2603.0,Naco,Arizona,2023,4,Pedestrian,7526.0
+2408.0,Santa Teresa,New Mexico,2023,11,Bus,892.0
+2506.0,Otay Mesa,California,2023,1,Personal Vehicle,752296.0
+2506.0,Otay Mesa,California,2023,8,Personal Vehicle,833763.0
+2301.0,Brownsville,Texas,2023,12,Truck,24024.0
+2503.0,Calexico,California,2023,7,Pedestrian,199514.0
+2603.0,Naco,Arizona,2023,7,Personal Vehicle,53222.0
+2602.0,Lukeville,Arizona,2023,8,Personal Vehicle,61999.0
+2401.0,Ysleta,Texas,2023,5,Personal Vehicle,496352.0
+2305.0,Hidalgo,Texas,2023,9,Pedestrian,183439.0
+2305.0,Hidalgo,Texas,2023,9,Truck,55673.0
+2402.0,El Paso,Texas,2023,10,Truck,5859.0
+2506.0,Otay Mesa,California,2023,2,Personal Vehicle,679450.0
+2404.0,Tornillo,Texas,2023,10,Truck,3423.0
+2504.0,San Ysidro,California,2023,4,Bus,24561.0
+2503.0,Calexico,California,2023,3,Pedestrian,246439.0
+2608.0,San Luis,Arizona,2023,5,Truck,3734.0
+2305.0,Hidalgo,Texas,2023,6,Bus,17174.0
+2402.0,El Paso,Texas,2023,8,Bus,22548.0
+2507.0,Calexico East,California,2023,9,Pedestrian,44908.0
+2506.0,Otay Mesa,California,2023,10,Personal Vehicle,785516.0
+2301.0,Brownsville,Texas,2023,1,Pedestrian,170300.0
+2406.0,Columbus,New Mexico,2023,9,Bus,706.0
+2402.0,El Paso,Texas,2023,9,Bus,15452.0
+2506.0,Otay Mesa,California,2023,2,Train,8.0
+2601.0,Douglas,Arizona,2023,11,Bus,280.0
+2505.0,Tecate,California,2023,6,Truck,6336.0
+2309.0,Progreso,Texas,2023,6,Truck,3640.0
+2506.0,Otay Mesa,California,2023,6,Truck,91790.0
+2404.0,Tornillo,Texas,2023,11,Pedestrian,3295.0
+2608.0,San Luis,Arizona,2023,2,Personal Vehicle,459848.0
+2402.0,El Paso,Texas,2023,12,Personal Vehicle,1030218.0
+2304.0,Laredo,Texas,2023,6,Bus,63430.0
+2305.0,Hidalgo,Texas,2023,3,Truck,66062.0
+2304.0,Laredo,Texas,2023,5,Truck,258137.0
+2503.0,Calexico,California,2023,1,Pedestrian,237225.0
+2309.0,Progreso,Texas,2023,5,Personal Vehicle,230858.0
+2307.0,Rio Grande City,Texas,2023,9,Truck,3519.0
+2604.0,Nogales,Arizona,2023,4,Personal Vehicle,602637.0
+2601.0,Douglas,Arizona,2023,12,Truck,2061.0
+2603.0,Naco,Arizona,2023,12,Personal Vehicle,59021.0
+2408.0,Santa Teresa,New Mexico,2023,1,Bus,516.0
+2403.0,Presidio,Texas,2023,10,Bus,177.0
+2506.0,Otay Mesa,California,2023,8,Pedestrian,248128.0
+2503.0,Calexico,California,2023,4,Personal Vehicle,707697.0
+2602.0,Lukeville,Arizona,2023,12,Pedestrian,2062.0
+2601.0,Douglas,Arizona,2023,8,Truck,2466.0
+2303.0,Eagle Pass,Texas,2023,8,Bus,22893.0
+2408.0,Santa Teresa,New Mexico,2023,6,Truck,14141.0
+2401.0,Ysleta,Texas,2023,11,Personal Vehicle,525521.0
+2406.0,Columbus,New Mexico,2023,1,Pedestrian,18354.0
+2507.0,Calexico East,California,2023,11,Train,19.0
+2582.0,Cross Border Xpress,California,2023,6,Pedestrian,189394.0
+2301.0,Brownsville,Texas,2023,5,Truck,28168.0
+2502.0,Andrade,California,2023,3,Pedestrian,82906.0
+2404.0,Tornillo,Texas,2023,8,Pedestrian,3918.0
+2507.0,Calexico East,California,2023,7,Bus,111.0
+2602.0,Lukeville,Arizona,2023,12,Bus,37.0
+2406.0,Columbus,New Mexico,2023,1,Personal Vehicle,62987.0
+2507.0,Calexico East,California,2023,8,Personal Vehicle,433750.0
+2305.0,Hidalgo,Texas,2023,4,Bus,20559.0
+2604.0,Nogales,Arizona,2023,1,Personal Vehicle,634772.0
+2503.0,Calexico,California,2023,9,Personal Vehicle,661638.0
+2408.0,Santa Teresa,New Mexico,2023,8,Personal Vehicle,139484.0
+2601.0,Douglas,Arizona,2023,6,Truck,2429.0
+2601.0,Douglas,Arizona,2023,1,Bus,257.0
+2604.0,Nogales,Arizona,2023,9,Truck,20963.0
+2303.0,Eagle Pass,Texas,2023,10,Pedestrian,93774.0
+2601.0,Douglas,Arizona,2023,6,Bus,361.0
+2303.0,Eagle Pass,Texas,2023,11,Truck,18579.0
+2608.0,San Luis,Arizona,2023,6,Truck,3728.0
+2307.0,Rio Grande City,Texas,2023,6,Truck,3884.0
+2403.0,Presidio,Texas,2023,8,Pedestrian,17549.0
+2305.0,Hidalgo,Texas,2023,7,Bus,20193.0
+2401.0,Ysleta,Texas,2023,8,Personal Vehicle,533473.0
+2504.0,San Ysidro,California,2023,12,Pedestrian,541411.0
+2401.0,Ysleta,Texas,2023,7,Truck,55090.0
+2307.0,Rio Grande City,Texas,2023,6,Personal Vehicle,64330.0
+2301.0,Brownsville,Texas,2023,1,Personal Vehicle,745700.0
+2303.0,Eagle Pass,Texas,2023,12,Pedestrian,86409.0
+2403.0,Presidio,Texas,2023,8,Bus,237.0
+2601.0,Douglas,Arizona,2023,7,Bus,597.0
+2604.0,Nogales,Arizona,2023,9,Pedestrian,247319.0
+2402.0,El Paso,Texas,2023,2,Pedestrian,277874.0
+2303.0,Eagle Pass,Texas,2023,7,Pedestrian,91644.0
+2302.0,Del Rio,Texas,2023,3,Personal Vehicle,243123.0
+2603.0,Naco,Arizona,2023,9,Personal Vehicle,49795.0
+2403.0,Presidio,Texas,2023,5,Pedestrian,19623.0
+2402.0,El Paso,Texas,2023,6,Truck,11199.0
+2408.0,Santa Teresa,New Mexico,2023,3,Personal Vehicle,106342.0
+2608.0,San Luis,Arizona,2023,3,Truck,5948.0
+2602.0,Lukeville,Arizona,2023,10,Pedestrian,5694.0
+2404.0,Tornillo,Texas,2023,10,Pedestrian,3320.0
+2504.0,San Ysidro,California,2023,11,Personal Vehicle,2155086.0
+2305.0,Hidalgo,Texas,2023,4,Truck,57309.0
+2301.0,Brownsville,Texas,2023,10,Pedestrian,234117.0
+2402.0,El Paso,Texas,2023,8,Truck,11190.0
+2504.0,San Ysidro,California,2023,9,Bus,36181.0
+2305.0,Hidalgo,Texas,2023,3,Bus,21692.0
+2301.0,Brownsville,Texas,2023,1,Bus,32895.0
+2408.0,Santa Teresa,New Mexico,2023,12,Truck,11751.0
+2603.0,Naco,Arizona,2023,11,Pedestrian,8626.0
+2307.0,Rio Grande City,Texas,2023,7,Personal Vehicle,70892.0
+2305.0,Hidalgo,Texas,2023,10,Pedestrian,190144.0
+2404.0,Tornillo,Texas,2023,9,Truck,2785.0
+2602.0,Lukeville,Arizona,2023,8,Truck,80.0
+2309.0,Progreso,Texas,2023,10,Personal Vehicle,247503.0
+2507.0,Calexico East,California,2023,1,Train,22.0
+2406.0,Columbus,New Mexico,2023,2,Truck,501.0
+2304.0,Laredo,Texas,2023,3,Bus,71299.0
+2305.0,Hidalgo,Texas,2023,11,Pedestrian,345645.0
+2601.0,Douglas,Arizona,2023,4,Bus,313.0
+2401.0,Ysleta,Texas,2023,9,Pedestrian,139444.0
+2507.0,Calexico East,California,2023,2,Pedestrian,39683.0
+2305.0,Hidalgo,Texas,2023,4,Pedestrian,190863.0
+2408.0,Santa Teresa,New Mexico,2023,10,Truck,26046.0
+2404.0,Tornillo,Texas,2023,1,Pedestrian,3136.0
+2310.0,Roma,Texas,2023,5,Personal Vehicle,121360.0
+2310.0,Roma,Texas,2023,2,Pedestrian,15241.0
+2310.0,Roma,Texas,2023,9,Truck,3662.0
+2401.0,Ysleta,Texas,2023,4,Truck,49856.0
+2507.0,Calexico East,California,2023,6,Bus,435.0
+2507.0,Calexico East,California,2023,11,Bus,243.0
+2305.0,Hidalgo,Texas,2023,12,Pedestrian,191102.0
+2505.0,Tecate,California,2023,10,Personal Vehicle,161551.0
+2506.0,Otay Mesa,California,2023,6,Personal Vehicle,791198.0
+2608.0,San Luis,Arizona,2023,5,Pedestrian,184595.0
+2302.0,Del Rio,Texas,2023,12,Personal Vehicle,229038.0
+2601.0,Douglas,Arizona,2023,12,Personal Vehicle,224897.0
+2402.0,El Paso,Texas,2023,8,Pedestrian,364113.0
+2503.0,Calexico,California,2023,12,Pedestrian,267882.0
+2303.0,Eagle Pass,Texas,2023,1,Bus,18140.0
+2505.0,Tecate,California,2023,11,Personal Vehicle,158277.0
+2503.0,Calexico,California,2023,10,Personal Vehicle,720247.0
+2406.0,Columbus,New Mexico,2023,10,Pedestrian,20563.0
+2507.0,Calexico East,California,2023,6,Personal Vehicle,416685.0
+2408.0,Santa Teresa,New Mexico,2023,8,Bus,643.0
+2505.0,Tecate,California,2023,2,Pedestrian,59669.0
+2601.0,Douglas,Arizona,2023,10,Bus,374.0
+2601.0,Douglas,Arizona,2023,9,Truck,2346.0
+2309.0,Progreso,Texas,2023,12,Pedestrian,117481.0
+2602.0,Lukeville,Arizona,2023,9,Truck,93.0
+2302.0,Del Rio,Texas,2023,7,Personal Vehicle,265589.0
+2604.0,Nogales,Arizona,2023,11,Truck,30524.0
+2408.0,Santa Teresa,New Mexico,2023,4,Personal Vehicle,125432.0
+2502.0,Andrade,California,2023,2,Personal Vehicle,78634.0
+2604.0,Nogales,Arizona,2023,8,Pedestrian,246621.0
+2506.0,Otay Mesa,California,2023,9,Truck,87958.0
+2604.0,Nogales,Arizona,2023,3,Bus,16896.0
+2408.0,Santa Teresa,New Mexico,2023,3,Truck,15258.0
+2404.0,Tornillo,Texas,2023,8,Personal Vehicle,78077.0
+2309.0,Progreso,Texas,2023,7,Personal Vehicle,277680.0
+2404.0,Tornillo,Texas,2023,11,Truck,453.0
+2604.0,Nogales,Arizona,2023,6,Pedestrian,224178.0
+2603.0,Naco,Arizona,2023,10,Truck,250.0
+2505.0,Tecate,California,2023,10,Truck,6271.0
+2603.0,Naco,Arizona,2023,3,Personal Vehicle,49132.0
+2305.0,Hidalgo,Texas,2023,2,Bus,13997.0
+2305.0,Hidalgo,Texas,2023,10,Personal Vehicle,809967.0
+2408.0,Santa Teresa,New Mexico,2023,2,Personal Vehicle,87184.0
+2304.0,Laredo,Texas,2023,7,Bus,97877.0
+2310.0,Roma,Texas,2023,7,Pedestrian,13620.0
+2406.0,Columbus,New Mexico,2023,1,Truck,542.0
+2304.0,Laredo,Texas,2023,8,Truck,260288.0
+2582.0,Cross Border Xpress,California,2023,7,Pedestrian,254418.0
+2303.0,Eagle Pass,Texas,2023,11,Personal Vehicle,496732.0
+2506.0,Otay Mesa,California,2023,4,Pedestrian,214144.0
+2408.0,Santa Teresa,New Mexico,2023,8,Truck,13558.0
+2302.0,Del Rio,Texas,2023,10,Pedestrian,21198.0
+2602.0,Lukeville,Arizona,2023,9,Pedestrian,5630.0
+2302.0,Del Rio,Texas,2023,8,Personal Vehicle,253736.0
+2303.0,Eagle Pass,Texas,2023,3,Pedestrian,79039.0
+2506.0,Otay Mesa,California,2023,10,Truck,92196.0
+2507.0,Calexico East,California,2023,10,Truck,38867.0
+2301.0,Brownsville,Texas,2023,11,Personal Vehicle,722114.0
+2301.0,Brownsville,Texas,2023,6,Truck,28115.0
+2602.0,Lukeville,Arizona,2023,6,Bus,260.0
+2604.0,Nogales,Arizona,2023,4,Truck,35085.0
+2506.0,Otay Mesa,California,2023,11,Personal Vehicle,778319.0
+2608.0,San Luis,Arizona,2023,9,Pedestrian,178844.0
+2305.0,Hidalgo,Texas,2023,1,Truck,60882.0
+2603.0,Naco,Arizona,2023,4,Truck,227.0
+2502.0,Andrade,California,2023,3,Personal Vehicle,90354.0
+2310.0,Roma,Texas,2023,5,Truck,4028.0
+2602.0,Lukeville,Arizona,2023,3,Truck,62.0
+2504.0,San Ysidro,California,2023,7,Pedestrian,632785.0
+2507.0,Calexico East,California,2023,11,Personal Vehicle,423565.0
+2304.0,Laredo,Texas,2023,2,Personal Vehicle,672427.0
+2408.0,Santa Teresa,New Mexico,2023,9,Personal Vehicle,129753.0
+2604.0,Nogales,Arizona,2023,7,Personal Vehicle,654304.0
+2303.0,Eagle Pass,Texas,2023,2,Pedestrian,39057.0
+2507.0,Calexico East,California,2023,12,Bus,595.0
+2505.0,Tecate,California,2023,2,Personal Vehicle,139228.0
+2603.0,Naco,Arizona,2023,5,Truck,284.0
+2504.0,San Ysidro,California,2023,7,Bus,41571.0
+2304.0,Laredo,Texas,2023,9,Pedestrian,228826.0
+2606.0,Sasabe,Arizona,2023,6,Personal Vehicle,4163.0
+2506.0,Otay Mesa,California,2023,2,Pedestrian,195107.0
+2305.0,Hidalgo,Texas,2023,5,Personal Vehicle,714274.0
+2307.0,Rio Grande City,Texas,2023,8,Personal Vehicle,72674.0
+2603.0,Naco,Arizona,2023,1,Personal Vehicle,47595.0
+2401.0,Ysleta,Texas,2023,2,Truck,56522.0
+2602.0,Lukeville,Arizona,2023,6,Pedestrian,5531.0
+2401.0,Ysleta,Texas,2023,11,Truck,54194.0
+2303.0,Eagle Pass,Texas,2023,1,Personal Vehicle,510460.0
+2603.0,Naco,Arizona,2023,1,Pedestrian,6188.0
+2406.0,Columbus,New Mexico,2023,3,Bus,674.0
+2310.0,Roma,Texas,2023,10,Pedestrian,17153.0
+2403.0,Presidio,Texas,2023,7,Pedestrian,29919.0
+2602.0,Lukeville,Arizona,2023,2,Bus,361.0
+2604.0,Nogales,Arizona,2023,2,Personal Vehicle,527036.0
+2403.0,Presidio,Texas,2023,2,Personal Vehicle,95937.0
+2403.0,Presidio,Texas,2023,5,Bus,165.0
+2502.0,Andrade,California,2023,8,Personal Vehicle,86804.0
+2309.0,Progreso,Texas,2023,5,Pedestrian,80696.0
+2507.0,Calexico East,California,2023,2,Personal Vehicle,385294.0
+2582.0,Cross Border Xpress,California,2023,11,Pedestrian,178180.0
+2604.0,Nogales,Arizona,2023,11,Bus,14391.0
+2403.0,Presidio,Texas,2023,12,Pedestrian,25612.0
+2309.0,Progreso,Texas,2023,1,Pedestrian,118364.0
+2403.0,Presidio,Texas,2023,2,Bus,143.0
+2506.0,Otay Mesa,California,2023,3,Truck,89722.0
+2507.0,Calexico East,California,2023,11,Truck,37447.0
+2608.0,San Luis,Arizona,2023,4,Pedestrian,184365.0
+2310.0,Roma,Texas,2023,6,Pedestrian,13281.0
+2406.0,Columbus,New Mexico,2023,9,Truck,1804.0
+2608.0,San Luis,Arizona,2023,9,Bus,8.0
+2502.0,Andrade,California,2023,8,Pedestrian,28586.0
+2402.0,El Paso,Texas,2023,11,Personal Vehicle,1168217.0
+2403.0,Presidio,Texas,2023,6,Personal Vehicle,116688.0
+2604.0,Nogales,Arizona,2023,2,Bus,13039.0
+2603.0,Naco,Arizona,2023,11,Truck,225.0
+2310.0,Roma,Texas,2023,2,Bus,290.0
+2608.0,San Luis,Arizona,2023,10,Bus,3.0
+2304.0,Laredo,Texas,2023,11,Pedestrian,238164.0
+2307.0,Rio Grande City,Texas,2023,11,Truck,3327.0
+2303.0,Eagle Pass,Texas,2023,6,Personal Vehicle,479442.0
+2310.0,Roma,Texas,2023,3,Personal Vehicle,124073.0
+2604.0,Nogales,Arizona,2023,7,Pedestrian,244542.0
+2408.0,Santa Teresa,New Mexico,2023,11,Personal Vehicle,118326.0
+2601.0,Douglas,Arizona,2023,4,Personal Vehicle,248719.0
+2507.0,Calexico East,California,2023,12,Train,20.0
+2410.0,Boquillas,Texas,2023,8,Pedestrian,367.0
+2504.0,San Ysidro,California,2023,1,Personal Vehicle,2051126.0
+2506.0,Otay Mesa,California,2023,12,Truck,74355.0
+2305.0,Hidalgo,Texas,2023,4,Personal Vehicle,804245.0
+2503.0,Calexico,California,2023,2,Personal Vehicle,604506.0
+2608.0,San Luis,Arizona,2023,4,Truck,4121.0
+2503.0,Calexico,California,2023,5,Personal Vehicle,721139.0
+2604.0,Nogales,Arizona,2023,3,Personal Vehicle,580732.0
+2403.0,Presidio,Texas,2023,1,Pedestrian,24450.0
+2301.0,Brownsville,Texas,2023,9,Personal Vehicle,716354.0
+2404.0,Tornillo,Texas,2023,9,Pedestrian,3996.0
+2604.0,Nogales,Arizona,2023,10,Truck,30712.0
+2304.0,Laredo,Texas,2023,7,Pedestrian,230890.0
+2506.0,Otay Mesa,California,2023,7,Truck,89332.0
+2303.0,Eagle Pass,Texas,2023,8,Personal Vehicle,514262.0
+2304.0,Laredo,Texas,2023,9,Personal Vehicle,770285.0
+2507.0,Calexico East,California,2023,12,Truck,35384.0
+2301.0,Brownsville,Texas,2023,10,Bus,1050.0
+2301.0,Brownsville,Texas,2023,7,Personal Vehicle,694073.0
+2310.0,Roma,Texas,2023,8,Personal Vehicle,118119.0
+2310.0,Roma,Texas,2023,12,Personal Vehicle,150393.0
+2404.0,Tornillo,Texas,2023,2,Pedestrian,2904.0
+2602.0,Lukeville,Arizona,2023,11,Bus,233.0
+2606.0,Sasabe,Arizona,2023,4,Pedestrian,74.0
+2303.0,Eagle Pass,Texas,2023,1,Truck,16800.0
+2582.0,Cross Border Xpress,California,2023,3,Pedestrian,179406.0
+2301.0,Brownsville,Texas,2023,7,Pedestrian,359632.0
+2309.0,Progreso,Texas,2023,1,Truck,3550.0
+2307.0,Rio Grande City,Texas,2023,10,Personal Vehicle,75593.0
+2307.0,Rio Grande City,Texas,2023,1,Personal Vehicle,73533.0
+2505.0,Tecate,California,2023,5,Personal Vehicle,158831.0
+2503.0,Calexico,California,2023,8,Pedestrian,199695.0
+2603.0,Naco,Arizona,2023,6,Personal Vehicle,47513.0
+2601.0,Douglas,Arizona,2023,3,Truck,2567.0
+2301.0,Brownsville,Texas,2023,7,Bus,1464.0
+2402.0,El Paso,Texas,2023,1,Personal Vehicle,1201079.0
+2502.0,Andrade,California,2023,4,Personal Vehicle,87920.0
+2305.0,Hidalgo,Texas,2023,2,Pedestrian,163546.0
+2303.0,Eagle Pass,Texas,2023,4,Pedestrian,76152.0
+2305.0,Hidalgo,Texas,2023,9,Bus,19200.0
+2408.0,Santa Teresa,New Mexico,2023,2,Truck,12500.0
+2406.0,Columbus,New Mexico,2023,12,Truck,1772.0
+2401.0,Ysleta,Texas,2023,7,Personal Vehicle,549464.0
+2403.0,Presidio,Texas,2023,9,Truck,951.0
+2406.0,Columbus,New Mexico,2023,3,Truck,488.0
+2608.0,San Luis,Arizona,2023,10,Truck,3299.0
+2310.0,Roma,Texas,2023,3,Truck,3613.0
+2608.0,San Luis,Arizona,2023,4,Personal Vehicle,478667.0
+2309.0,Progreso,Texas,2023,6,Personal Vehicle,237954.0
+2404.0,Tornillo,Texas,2023,11,Personal Vehicle,88812.0
+2408.0,Santa Teresa,New Mexico,2023,7,Bus,910.0
+2504.0,San Ysidro,California,2023,3,Pedestrian,583790.0
+2603.0,Naco,Arizona,2023,2,Truck,209.0
+2302.0,Del Rio,Texas,2023,4,Personal Vehicle,246303.0
+2604.0,Nogales,Arizona,2023,11,Personal Vehicle,566706.0
+2602.0,Lukeville,Arizona,2023,12,Personal Vehicle,7412.0
+2410.0,Boquillas,Texas,2023,12,Pedestrian,2619.0
+2406.0,Columbus,New Mexico,2023,10,Truck,2540.0
+2505.0,Tecate,California,2023,8,Personal Vehicle,159192.0
+2402.0,El Paso,Texas,2023,4,Pedestrian,329232.0
+2403.0,Presidio,Texas,2023,3,Truck,946.0
+2406.0,Columbus,New Mexico,2023,6,Bus,848.0
+2601.0,Douglas,Arizona,2023,11,Personal Vehicle,208811.0
+2309.0,Progreso,Texas,2023,3,Truck,4704.0
+2403.0,Presidio,Texas,2023,6,Pedestrian,15078.0
+2303.0,Eagle Pass,Texas,2023,9,Truck,15255.0
+2402.0,El Paso,Texas,2023,6,Personal Vehicle,1150849.0
+2305.0,Hidalgo,Texas,2023,1,Personal Vehicle,785925.0
+2503.0,Calexico,California,2023,10,Pedestrian,259696.0
+2401.0,Ysleta,Texas,2023,2,Personal Vehicle,455338.0
+2403.0,Presidio,Texas,2023,6,Bus,196.0
+2502.0,Andrade,California,2023,1,Personal Vehicle,85120.0
+2505.0,Tecate,California,2023,3,Personal Vehicle,156362.0
+2603.0,Naco,Arizona,2023,5,Pedestrian,7129.0
+2604.0,Nogales,Arizona,2023,3,Truck,38768.0
+2307.0,Rio Grande City,Texas,2023,4,Pedestrian,6005.0
+2307.0,Rio Grande City,Texas,2023,4,Truck,3731.0
+2507.0,Calexico East,California,2023,1,Pedestrian,45485.0
+2601.0,Douglas,Arizona,2023,8,Pedestrian,66748.0
+2606.0,Sasabe,Arizona,2023,4,Personal Vehicle,4908.0
+2505.0,Tecate,California,2023,11,Truck,5504.0
+2402.0,El Paso,Texas,2023,2,Personal Vehicle,1107415.0
+2503.0,Calexico,California,2023,2,Pedestrian,218532.0
+2408.0,Santa Teresa,New Mexico,2023,12,Bus,920.0
+2301.0,Brownsville,Texas,2023,8,Truck,27045.0
+2309.0,Progreso,Texas,2023,9,Personal Vehicle,242027.0
+2602.0,Lukeville,Arizona,2023,1,Personal Vehicle,60870.0
+2309.0,Progreso,Texas,2023,12,Personal Vehicle,299837.0
+2305.0,Hidalgo,Texas,2023,7,Truck,56440.0
+2608.0,San Luis,Arizona,2023,7,Personal Vehicle,458461.0
+2604.0,Nogales,Arizona,2023,7,Truck,22615.0
+2401.0,Ysleta,Texas,2023,8,Pedestrian,116352.0
+2602.0,Lukeville,Arizona,2023,1,Truck,51.0
+2302.0,Del Rio,Texas,2023,3,Truck,6923.0
+2310.0,Roma,Texas,2023,3,Bus,774.0
+2307.0,Rio Grande City,Texas,2023,2,Pedestrian,9793.0
+2304.0,Laredo,Texas,2023,3,Truck,263896.0
+2302.0,Del Rio,Texas,2023,1,Personal Vehicle,241473.0
+2408.0,Santa Teresa,New Mexico,2023,9,Truck,20032.0
+2307.0,Rio Grande City,Texas,2023,11,Pedestrian,5365.0
+2302.0,Del Rio,Texas,2023,6,Pedestrian,9858.0
+2503.0,Calexico,California,2023,9,Pedestrian,217770.0
+2408.0,Santa Teresa,New Mexico,2023,4,Pedestrian,13638.0
+2507.0,Calexico East,California,2023,2,Truck,36929.0
+2304.0,Laredo,Texas,2023,2,Pedestrian,207458.0
+2604.0,Nogales,Arizona,2023,4,Bus,16755.0
+2310.0,Roma,Texas,2023,10,Bus,552.0
+2304.0,Laredo,Texas,2023,3,Personal Vehicle,764275.0
+2602.0,Lukeville,Arizona,2023,2,Pedestrian,6383.0
+2604.0,Nogales,Arizona,2023,11,Pedestrian,261476.0
+2309.0,Progreso,Texas,2023,12,Truck,4139.0
+2606.0,Sasabe,Arizona,2023,2,Personal Vehicle,3744.0
+2504.0,San Ysidro,California,2023,3,Personal Vehicle,2118140.0
+2606.0,Sasabe,Arizona,2023,8,Personal Vehicle,3987.0
+2401.0,Ysleta,Texas,2023,10,Truck,37188.0
+2408.0,Santa Teresa,New Mexico,2023,10,Pedestrian,10546.0
+2602.0,Lukeville,Arizona,2023,6,Truck,92.0
+2310.0,Roma,Texas,2023,12,Bus,704.0
+2506.0,Otay Mesa,California,2023,7,Pedestrian,248861.0
+2302.0,Del Rio,Texas,2023,6,Personal Vehicle,248538.0
+2606.0,Sasabe,Arizona,2023,3,Pedestrian,45.0
+2408.0,Santa Teresa,New Mexico,2023,8,Pedestrian,12649.0
+2601.0,Douglas,Arizona,2023,2,Personal Vehicle,222857.0
+2302.0,Del Rio,Texas,2023,11,Truck,6202.0
+2604.0,Nogales,Arizona,2023,5,Bus,15128.0
+2606.0,Sasabe,Arizona,2023,1,Personal Vehicle,4701.0
+2402.0,El Paso,Texas,2023,7,Personal Vehicle,1223650.0
+2504.0,San Ysidro,California,2023,1,Pedestrian,545427.0
+2305.0,Hidalgo,Texas,2023,12,Personal Vehicle,890732.0
+2602.0,Lukeville,Arizona,2023,1,Bus,339.0
+2601.0,Douglas,Arizona,2023,1,Personal Vehicle,238672.0
+2507.0,Calexico East,California,2023,11,Pedestrian,59293.0
+2402.0,El Paso,Texas,2023,3,Pedestrian,319564.0
+2601.0,Douglas,Arizona,2023,11,Truck,2078.0
+2582.0,Cross Border Xpress,California,2023,10,Pedestrian,166048.0
+2301.0,Brownsville,Texas,2023,11,Pedestrian,232627.0
+2504.0,San Ysidro,California,2023,2,Personal Vehicle,1895302.0
+2608.0,San Luis,Arizona,2023,3,Bus,13.0
+2310.0,Roma,Texas,2023,5,Bus,701.0
+2408.0,Santa Teresa,New Mexico,2023,12,Pedestrian,22364.0
+2602.0,Lukeville,Arizona,2023,4,Pedestrian,6820.0
+2601.0,Douglas,Arizona,2023,5,Bus,406.0
+2303.0,Eagle Pass,Texas,2023,9,Personal Vehicle,426005.0
+2401.0,Ysleta,Texas,2023,6,Personal Vehicle,513539.0
+2402.0,El Paso,Texas,2023,2,Bus,14640.0
+2505.0,Tecate,California,2023,5,Truck,5668.0
+2601.0,Douglas,Arizona,2023,3,Personal Vehicle,248276.0
+2301.0,Brownsville,Texas,2023,6,Bus,1094.0
+2310.0,Roma,Texas,2023,6,Personal Vehicle,109214.0
+2406.0,Columbus,New Mexico,2023,3,Pedestrian,19487.0
+2307.0,Rio Grande City,Texas,2023,2,Personal Vehicle,67608.0
+2401.0,Ysleta,Texas,2023,3,Personal Vehicle,489628.0
+2310.0,Roma,Texas,2023,9,Pedestrian,16701.0
+2301.0,Brownsville,Texas,2023,2,Truck,27467.0
+2602.0,Lukeville,Arizona,2023,1,Pedestrian,6609.0
+2307.0,Rio Grande City,Texas,2023,9,Personal Vehicle,73861.0
+2403.0,Presidio,Texas,2023,10,Truck,1054.0
+2302.0,Del Rio,Texas,2023,9,Pedestrian,21131.0
+2602.0,Lukeville,Arizona,2023,2,Truck,50.0
+2309.0,Progreso,Texas,2023,9,Truck,4057.0
+2406.0,Columbus,New Mexico,2023,2,Pedestrian,17032.0
+2602.0,Lukeville,Arizona,2023,10,Bus,263.0
+2310.0,Roma,Texas,2023,4,Truck,3304.0
+2303.0,Eagle Pass,Texas,2023,9,Bus,10346.0
+2507.0,Calexico East,California,2023,8,Train,21.0
+2505.0,Tecate,California,2023,4,Pedestrian,74111.0
+2507.0,Calexico East,California,2023,8,Pedestrian,36348.0
+2404.0,Tornillo,Texas,2023,12,Personal Vehicle,127748.0
+2305.0,Hidalgo,Texas,2023,6,Personal Vehicle,712853.0
+2505.0,Tecate,California,2023,6,Pedestrian,75050.0
+2506.0,Otay Mesa,California,2023,3,Personal Vehicle,749007.0
+2403.0,Presidio,Texas,2023,5,Truck,995.0
+2601.0,Douglas,Arizona,2023,1,Pedestrian,55363.0
+2310.0,Roma,Texas,2023,11,Pedestrian,16226.0
+2402.0,El Paso,Texas,2023,2,Truck,3670.0
+2506.0,Otay Mesa,California,2023,12,Personal Vehicle,872454.0
+2608.0,San Luis,Arizona,2023,3,Personal Vehicle,520272.0
+2608.0,San Luis,Arizona,2023,6,Pedestrian,157968.0
+2410.0,Boquillas,Texas,2023,9,Pedestrian,798.0
+2604.0,Nogales,Arizona,2023,6,Truck,37530.0
+2403.0,Presidio,Texas,2023,4,Personal Vehicle,118992.0
+2604.0,Nogales,Arizona,2023,12,Truck,31302.0
+2402.0,El Paso,Texas,2023,4,Truck,6170.0
+2403.0,Presidio,Texas,2023,12,Personal Vehicle,128513.0
+2305.0,Hidalgo,Texas,2023,12,Bus,18139.0
+2406.0,Columbus,New Mexico,2023,3,Personal Vehicle,62810.0
+2402.0,El Paso,Texas,2023,5,Truck,10801.0
+2309.0,Progreso,Texas,2023,7,Truck,4095.0
+2401.0,Ysleta,Texas,2023,6,Truck,58288.0
+2305.0,Hidalgo,Texas,2023,11,Truck,57262.0
+2601.0,Douglas,Arizona,2023,10,Truck,2303.0
+2603.0,Naco,Arizona,2023,6,Pedestrian,5456.0
+2505.0,Tecate,California,2023,5,Pedestrian,80011.0
+2408.0,Santa Teresa,New Mexico,2023,5,Bus,875.0
+2502.0,Andrade,California,2023,9,Pedestrian,38680.0
+2302.0,Del Rio,Texas,2023,9,Truck,7180.0
+2502.0,Andrade,California,2023,12,Personal Vehicle,97607.0
+2404.0,Tornillo,Texas,2023,10,Personal Vehicle,96104.0
+2301.0,Brownsville,Texas,2023,12,Personal Vehicle,817587.0
+2402.0,El Paso,Texas,2023,7,Bus,21351.0
+2302.0,Del Rio,Texas,2023,7,Truck,6186.0
+2301.0,Brownsville,Texas,2023,2,Pedestrian,278440.0
+2304.0,Laredo,Texas,2023,1,Bus,85926.0
+2507.0,Calexico East,California,2023,12,Personal Vehicle,445574.0
+2310.0,Roma,Texas,2023,1,Truck,3458.0
+2504.0,San Ysidro,California,2023,2,Bus,18025.0
+2503.0,Calexico,California,2023,5,Pedestrian,246436.0
+2408.0,Santa Teresa,New Mexico,2023,11,Pedestrian,10992.0
+2402.0,El Paso,Texas,2023,11,Pedestrian,360477.0
+2502.0,Andrade,California,2023,11,Pedestrian,63047.0
+2402.0,El Paso,Texas,2023,9,Pedestrian,338426.0
+2406.0,Columbus,New Mexico,2023,4,Truck,779.0
+2604.0,Nogales,Arizona,2023,12,Personal Vehicle,652705.0
+2408.0,Santa Teresa,New Mexico,2023,4,Bus,1123.0
+2402.0,El Paso,Texas,2023,4,Personal Vehicle,1199769.0
+2606.0,Sasabe,Arizona,2023,5,Personal Vehicle,4787.0
+2402.0,El Paso,Texas,2023,9,Truck,5203.0
+2406.0,Columbus,New Mexico,2023,12,Bus,985.0
+2606.0,Sasabe,Arizona,2023,6,Pedestrian,43.0
+2504.0,San Ysidro,California,2023,8,Pedestrian,618010.0
+2506.0,Otay Mesa,California,2023,9,Pedestrian,247747.0
+2305.0,Hidalgo,Texas,2023,6,Truck,59389.0
+2301.0,Brownsville,Texas,2023,6,Personal Vehicle,621486.0
+2582.0,Cross Border Xpress,California,2023,2,Pedestrian,165809.0
+2305.0,Hidalgo,Texas,2023,3,Pedestrian,176426.0
+2301.0,Brownsville,Texas,2023,4,Pedestrian,210827.0
+2304.0,Laredo,Texas,2023,4,Pedestrian,231001.0
+2603.0,Naco,Arizona,2023,11,Personal Vehicle,54636.0
+2603.0,Naco,Arizona,2023,3,Pedestrian,7037.0
+2401.0,Ysleta,Texas,2023,12,Pedestrian,156297.0
+2601.0,Douglas,Arizona,2023,9,Pedestrian,76551.0
+2304.0,Laredo,Texas,2023,8,Bus,78143.0
+2504.0,San Ysidro,California,2023,8,Personal Vehicle,2254015.0
+2603.0,Naco,Arizona,2023,7,Truck,227.0
+2602.0,Lukeville,Arizona,2023,4,Truck,59.0
+2310.0,Roma,Texas,2023,11,Bus,563.0
+2307.0,Rio Grande City,Texas,2023,9,Pedestrian,6433.0
+2506.0,Otay Mesa,California,2023,10,Train,12.0
+2505.0,Tecate,California,2023,8,Truck,6299.0
+2402.0,El Paso,Texas,2023,1,Pedestrian,300467.0
+2603.0,Naco,Arizona,2023,1,Truck,235.0
+2608.0,San Luis,Arizona,2023,3,Pedestrian,220066.0
+2304.0,Laredo,Texas,2023,4,Truck,225025.0
+2601.0,Douglas,Arizona,2023,4,Pedestrian,62537.0
+2406.0,Columbus,New Mexico,2023,2,Bus,482.0
+2305.0,Hidalgo,Texas,2023,9,Personal Vehicle,769401.0
+2604.0,Nogales,Arizona,2023,6,Bus,15588.0
+2507.0,Calexico East,California,2023,12,Pedestrian,70926.0
+2310.0,Roma,Texas,2023,12,Truck,3355.0
+2401.0,Ysleta,Texas,2023,4,Pedestrian,124304.0
+2408.0,Santa Teresa,New Mexico,2023,1,Pedestrian,9004.0
+2505.0,Tecate,California,2023,4,Truck,4776.0
+2309.0,Progreso,Texas,2023,2,Pedestrian,120660.0
+2408.0,Santa Teresa,New Mexico,2023,7,Personal Vehicle,159044.0
+2601.0,Douglas,Arizona,2023,7,Truck,2184.0
+2402.0,El Paso,Texas,2023,5,Bus,16985.0
+2406.0,Columbus,New Mexico,2023,5,Bus,770.0
+2606.0,Sasabe,Arizona,2023,11,Pedestrian,24.0
+2303.0,Eagle Pass,Texas,2023,5,Bus,10455.0
+2305.0,Hidalgo,Texas,2023,5,Bus,376718.0
+2404.0,Tornillo,Texas,2023,12,Pedestrian,6120.0
+2503.0,Calexico,California,2023,4,Pedestrian,221945.0
+2604.0,Nogales,Arizona,2023,10,Personal Vehicle,550317.0
+2307.0,Rio Grande City,Texas,2023,3,Pedestrian,9197.0
+2402.0,El Paso,Texas,2023,7,Pedestrian,326605.0
+2404.0,Tornillo,Texas,2023,6,Pedestrian,1198.0
+2608.0,San Luis,Arizona,2023,1,Pedestrian,204329.0
+2604.0,Nogales,Arizona,2023,12,Bus,15945.0
+2602.0,Lukeville,Arizona,2023,3,Pedestrian,6669.0
+2310.0,Roma,Texas,2023,8,Bus,689.0
+2507.0,Calexico East,California,2023,1,Truck,38345.0
+2602.0,Lukeville,Arizona,2023,7,Personal Vehicle,118080.0
+2608.0,San Luis,Arizona,2023,12,Pedestrian,236573.0
+2302.0,Del Rio,Texas,2023,5,Pedestrian,17462.0
+2403.0,Presidio,Texas,2023,9,Pedestrian,19397.0
+2504.0,San Ysidro,California,2023,11,Bus,36836.0
+2604.0,Nogales,Arizona,2023,12,Pedestrian,267036.0
+2305.0,Hidalgo,Texas,2023,1,Pedestrian,175268.0
+2301.0,Brownsville,Texas,2023,9,Bus,996.0
+2406.0,Columbus,New Mexico,2023,5,Pedestrian,21434.0
+2506.0,Otay Mesa,California,2023,7,Train,6.0
+2601.0,Douglas,Arizona,2023,12,Pedestrian,81546.0
+2506.0,Otay Mesa,California,2023,4,Personal Vehicle,736652.0
+2403.0,Presidio,Texas,2023,11,Bus,134.0
+2406.0,Columbus,New Mexico,2023,9,Personal Vehicle,65059.0
+2507.0,Calexico East,California,2023,3,Train,23.0
+2401.0,Ysleta,Texas,2023,1,Truck,60032.0
+2410.0,Boquillas,Texas,2023,7,Pedestrian,487.0
+2310.0,Roma,Texas,2023,7,Truck,3605.0
+2507.0,Calexico East,California,2023,4,Train,19.0
+2301.0,Brownsville,Texas,2023,8,Personal Vehicle,736194.0
+2402.0,El Paso,Texas,2023,4,Bus,17567.0
+2304.0,Laredo,Texas,2023,9,Truck,244489.0
+2401.0,Ysleta,Texas,2023,4,Personal Vehicle,498382.0
+2305.0,Hidalgo,Texas,2023,11,Personal Vehicle,832757.0
+2604.0,Nogales,Arizona,2023,5,Personal Vehicle,592221.0
+2504.0,San Ysidro,California,2023,3,Bus,25063.0
+2304.0,Laredo,Texas,2023,12,Personal Vehicle,947472.0
+2507.0,Calexico East,California,2023,2,Train,19.0
+2402.0,El Paso,Texas,2023,6,Bus,17054.0
+2310.0,Roma,Texas,2023,4,Bus,813.0
+2606.0,Sasabe,Arizona,2023,11,Personal Vehicle,1861.0
+2303.0,Eagle Pass,Texas,2023,6,Pedestrian,87999.0
+2406.0,Columbus,New Mexico,2023,12,Pedestrian,20400.0
+2606.0,Sasabe,Arizona,2023,10,Pedestrian,24.0
+2305.0,Hidalgo,Texas,2023,11,Bus,7038.0
+2402.0,El Paso,Texas,2023,11,Truck,9739.0
+2406.0,Columbus,New Mexico,2023,12,Personal Vehicle,71548.0
+2301.0,Brownsville,Texas,2023,10,Truck,25198.0
+2404.0,Tornillo,Texas,2023,4,Personal Vehicle,73443.0
+2310.0,Roma,Texas,2023,8,Truck,2772.0
+2403.0,Presidio,Texas,2023,2,Truck,956.0
+2602.0,Lukeville,Arizona,2023,10,Truck,99.0
+2606.0,Sasabe,Arizona,2023,12,Personal Vehicle,1286.0
+2608.0,San Luis,Arizona,2023,8,Truck,3311.0
+2507.0,Calexico East,California,2023,8,Bus,180.0
+2304.0,Laredo,Texas,2023,8,Pedestrian,228839.0
+2608.0,San Luis,Arizona,2023,12,Bus,13.0
+2301.0,Brownsville,Texas,2023,3,Bus,1054.0
+2601.0,Douglas,Arizona,2023,3,Bus,387.0
+2604.0,Nogales,Arizona,2023,10,Pedestrian,250851.0
+2404.0,Tornillo,Texas,2023,6,Personal Vehicle,68759.0
+2603.0,Naco,Arizona,2023,8,Personal Vehicle,52787.0
+2604.0,Nogales,Arizona,2023,9,Personal Vehicle,554267.0
+2608.0,San Luis,Arizona,2023,7,Truck,3068.0
+2602.0,Lukeville,Arizona,2023,10,Personal Vehicle,97358.0
+2310.0,Roma,Texas,2023,7,Personal Vehicle,121451.0
+2406.0,Columbus,New Mexico,2023,11,Personal Vehicle,65726.0
+2408.0,Santa Teresa,New Mexico,2023,2,Bus,459.0
+2506.0,Otay Mesa,California,2023,10,Pedestrian,261226.0
+2504.0,San Ysidro,California,2023,2,Pedestrian,362406.0
+2582.0,Cross Border Xpress,California,2023,5,Pedestrian,185857.0
+2505.0,Tecate,California,2023,10,Pedestrian,82338.0
+2304.0,Laredo,Texas,2023,11,Personal Vehicle,809856.0
+2503.0,Calexico,California,2023,8,Personal Vehicle,660414.0
+2309.0,Progreso,Texas,2023,11,Truck,4372.0
+2608.0,San Luis,Arizona,2023,12,Personal Vehicle,461353.0
+2507.0,Calexico East,California,2023,7,Personal Vehicle,441776.0
+2606.0,Sasabe,Arizona,2023,7,Personal Vehicle,4076.0
+2403.0,Presidio,Texas,2023,11,Personal Vehicle,120944.0
+2401.0,Ysleta,Texas,2023,10,Personal Vehicle,496149.0
+2504.0,San Ysidro,California,2023,6,Pedestrian,615232.0
+2603.0,Naco,Arizona,2023,12,Truck,219.0
+2401.0,Ysleta,Texas,2023,5,Pedestrian,125507.0
+2608.0,San Luis,Arizona,2023,4,Bus,10.0
+2506.0,Otay Mesa,California,2023,6,Pedestrian,237856.0
+2302.0,Del Rio,Texas,2023,1,Truck,6154.0
+2604.0,Nogales,Arizona,2023,8,Bus,15399.0
+2601.0,Douglas,Arizona,2023,11,Pedestrian,62242.0
+2401.0,Ysleta,Texas,2023,12,Truck,47446.0
+2603.0,Naco,Arizona,2023,12,Pedestrian,7712.0
+2304.0,Laredo,Texas,2023,4,Personal Vehicle,802713.0
+2404.0,Tornillo,Texas,2023,7,Pedestrian,1386.0
+2403.0,Presidio,Texas,2023,10,Personal Vehicle,115165.0
+2608.0,San Luis,Arizona,2023,8,Pedestrian,149632.0
+2403.0,Presidio,Texas,2023,8,Truck,1133.0
+2309.0,Progreso,Texas,2023,4,Truck,3067.0
+2507.0,Calexico East,California,2023,5,Truck,40676.0
+2305.0,Hidalgo,Texas,2023,7,Personal Vehicle,797858.0
+2406.0,Columbus,New Mexico,2023,6,Truck,2156.0
+2604.0,Nogales,Arizona,2023,6,Personal Vehicle,586164.0
+2606.0,Sasabe,Arizona,2023,1,Pedestrian,31.0
+2304.0,Laredo,Texas,2023,6,Personal Vehicle,729871.0
+2608.0,San Luis,Arizona,2023,1,Truck,4727.0
+2307.0,Rio Grande City,Texas,2023,1,Pedestrian,7181.0
+2403.0,Presidio,Texas,2023,10,Pedestrian,24404.0
+2307.0,Rio Grande City,Texas,2023,8,Pedestrian,5132.0
+2505.0,Tecate,California,2023,9,Truck,5855.0
+2301.0,Brownsville,Texas,2023,3,Truck,32782.0
+2507.0,Calexico East,California,2023,4,Truck,34698.0
+2604.0,Nogales,Arizona,2023,5,Truck,42538.0
+2507.0,Calexico East,California,2023,4,Personal Vehicle,420790.0
+2401.0,Ysleta,Texas,2023,7,Pedestrian,107457.0
+2305.0,Hidalgo,Texas,2023,2,Truck,57298.0
+2302.0,Del Rio,Texas,2023,4,Truck,6032.0
+2606.0,Sasabe,Arizona,2023,5,Pedestrian,31.0
+2504.0,San Ysidro,California,2023,10,Personal Vehicle,2239623.0
+2602.0,Lukeville,Arizona,2023,7,Bus,226.0
+2304.0,Laredo,Texas,2023,7,Truck,239167.0
+2505.0,Tecate,California,2023,6,Personal Vehicle,154405.0
+2303.0,Eagle Pass,Texas,2023,3,Bus,14493.0
+2301.0,Brownsville,Texas,2023,7,Truck,25015.0
+2602.0,Lukeville,Arizona,2023,3,Personal Vehicle,95941.0
+2608.0,San Luis,Arizona,2023,5,Personal Vehicle,424914.0
+2304.0,Laredo,Texas,2023,5,Personal Vehicle,771727.0
+2309.0,Progreso,Texas,2023,2,Truck,3610.0
+2401.0,Ysleta,Texas,2023,6,Pedestrian,76505.0
+2404.0,Tornillo,Texas,2023,8,Truck,7.0
+2603.0,Naco,Arizona,2023,4,Personal Vehicle,51150.0
+2602.0,Lukeville,Arizona,2023,8,Bus,288.0
+2307.0,Rio Grande City,Texas,2023,5,Pedestrian,6637.0
+2602.0,Lukeville,Arizona,2023,5,Personal Vehicle,94904.0
+2502.0,Andrade,California,2023,4,Pedestrian,57228.0
+2606.0,Sasabe,Arizona,2023,9,Personal Vehicle,4520.0
+2408.0,Santa Teresa,New Mexico,2023,9,Pedestrian,9468.0
+2307.0,Rio Grande City,Texas,2023,2,Truck,3531.0
+2506.0,Otay Mesa,California,2023,5,Pedestrian,223072.0
+2309.0,Progreso,Texas,2023,4,Personal Vehicle,257032.0
+2310.0,Roma,Texas,2023,8,Pedestrian,16611.0
+2303.0,Eagle Pass,Texas,2023,11,Bus,11225.0
+2603.0,Naco,Arizona,2023,10,Pedestrian,8304.0
+2601.0,Douglas,Arizona,2023,9,Personal Vehicle,221760.0
+2504.0,San Ysidro,California,2023,5,Personal Vehicle,2176681.0
+2406.0,Columbus,New Mexico,2023,7,Bus,1071.0
+2301.0,Brownsville,Texas,2023,12,Pedestrian,253143.0
+2401.0,Ysleta,Texas,2023,1,Pedestrian,108023.0
+2602.0,Lukeville,Arizona,2023,4,Bus,237.0
+2402.0,El Paso,Texas,2023,3,Bus,111674.0
+2305.0,Hidalgo,Texas,2023,3,Personal Vehicle,782604.0
+2406.0,Columbus,New Mexico,2023,4,Bus,764.0
+2303.0,Eagle Pass,Texas,2023,12,Bus,13006.0
+2603.0,Naco,Arizona,2023,5,Personal Vehicle,52799.0
+2406.0,Columbus,New Mexico,2023,4,Pedestrian,19580.0
+2608.0,San Luis,Arizona,2023,5,Bus,5.0
+2307.0,Rio Grande City,Texas,2023,11,Personal Vehicle,77240.0
+2604.0,Nogales,Arizona,2023,9,Bus,12687.0
+2503.0,Calexico,California,2023,12,Personal Vehicle,755533.0
+2404.0,Tornillo,Texas,2023,12,Truck,471.0
+2301.0,Brownsville,Texas,2023,11,Bus,1091.0
+2604.0,Nogales,Arizona,2023,1,Pedestrian,215284.0
+2303.0,Eagle Pass,Texas,2023,9,Pedestrian,78535.0
+2303.0,Eagle Pass,Texas,2023,2,Personal Vehicle,439609.0
+2408.0,Santa Teresa,New Mexico,2023,11,Truck,12687.0
+2504.0,San Ysidro,California,2023,9,Personal Vehicle,2123688.0
+2507.0,Calexico East,California,2023,4,Bus,270.0
+2601.0,Douglas,Arizona,2023,7,Personal Vehicle,248022.0
+2304.0,Laredo,Texas,2023,1,Truck,232840.0
+2608.0,San Luis,Arizona,2023,11,Pedestrian,229968.0
+2408.0,Santa Teresa,New Mexico,2023,3,Pedestrian,10787.0
+2502.0,Andrade,California,2023,1,Pedestrian,77971.0
+2403.0,Presidio,Texas,2023,1,Truck,1075.0
+2506.0,Otay Mesa,California,2023,4,Truck,80787.0
+2582.0,Cross Border Xpress,California,2023,9,Pedestrian,153201.0
+2305.0,Hidalgo,Texas,2023,8,Personal Vehicle,796850.0
+2604.0,Nogales,Arizona,2023,8,Personal Vehicle,647972.0
+2302.0,Del Rio,Texas,2023,11,Personal Vehicle,249301.0
+2503.0,Calexico,California,2023,3,Personal Vehicle,707663.0
+2408.0,Santa Teresa,New Mexico,2023,5,Truck,14314.0
+2601.0,Douglas,Arizona,2023,2,Bus,385.0
+2606.0,Sasabe,Arizona,2023,9,Pedestrian,30.0
+2309.0,Progreso,Texas,2023,4,Pedestrian,94278.0
+2304.0,Laredo,Texas,2023,4,Bus,75809.0
+2309.0,Progreso,Texas,2023,8,Truck,2578.0
+2502.0,Andrade,California,2023,5,Pedestrian,45744.0
+2608.0,San Luis,Arizona,2023,1,Personal Vehicle,504693.0
+2301.0,Brownsville,Texas,2023,6,Pedestrian,208976.0
+2603.0,Naco,Arizona,2023,8,Pedestrian,8340.0
+2301.0,Brownsville,Texas,2023,4,Personal Vehicle,750891.0
+2505.0,Tecate,California,2023,1,Pedestrian,61258.0
+2304.0,Laredo,Texas,2023,12,Pedestrian,266937.0
+2304.0,Laredo,Texas,2023,7,Personal Vehicle,816540.0
+2303.0,Eagle Pass,Texas,2023,7,Bus,25860.0
+2604.0,Nogales,Arizona,2023,3,Pedestrian,256018.0
+2301.0,Brownsville,Texas,2023,4,Bus,1590.0
+2303.0,Eagle Pass,Texas,2023,5,Truck,20252.0
+2504.0,San Ysidro,California,2023,6,Personal Vehicle,2177654.0
+2310.0,Roma,Texas,2023,10,Truck,3789.0
+2309.0,Progreso,Texas,2023,8,Pedestrian,77944.0
+2406.0,Columbus,New Mexico,2023,8,Pedestrian,25079.0
+2403.0,Presidio,Texas,2023,4,Bus,178.0
+2603.0,Naco,Arizona,2023,10,Personal Vehicle,55383.0
+2303.0,Eagle Pass,Texas,2023,4,Truck,17244.0
+2304.0,Laredo,Texas,2023,10,Personal Vehicle,793313.0
+2604.0,Nogales,Arizona,2023,2,Pedestrian,209297.0
+2309.0,Progreso,Texas,2023,11,Pedestrian,89521.0
+2307.0,Rio Grande City,Texas,2023,5,Personal Vehicle,74334.0
+2506.0,Otay Mesa,California,2023,9,Train,16.0
+2505.0,Tecate,California,2023,7,Truck,5818.0
+2304.0,Laredo,Texas,2023,2,Bus,45665.0
+2303.0,Eagle Pass,Texas,2023,6,Truck,20083.0
+2601.0,Douglas,Arizona,2023,12,Bus,471.0
+2505.0,Tecate,California,2023,12,Personal Vehicle,168318.0
+2301.0,Brownsville,Texas,2023,4,Truck,28724.0
+2301.0,Brownsville,Texas,2023,8,Bus,1654.0
+2303.0,Eagle Pass,Texas,2023,8,Truck,19558.0
+2301.0,Brownsville,Texas,2023,5,Personal Vehicle,695535.0
+2301.0,Brownsville,Texas,2023,3,Personal Vehicle,746940.0
+2310.0,Roma,Texas,2023,5,Pedestrian,18051.0
+2403.0,Presidio,Texas,2023,11,Truck,936.0
+2604.0,Nogales,Arizona,2023,1,Bus,15278.0
+2302.0,Del Rio,Texas,2023,9,Personal Vehicle,245019.0
+2304.0,Laredo,Texas,2023,11,Bus,55948.0
+2602.0,Lukeville,Arizona,2023,5,Pedestrian,6629.0
+2506.0,Otay Mesa,California,2023,7,Personal Vehicle,884956.0
+2604.0,Nogales,Arizona,2023,10,Bus,14186.0
+2304.0,Laredo,Texas,2023,10,Truck,261166.0
+2606.0,Sasabe,Arizona,2023,3,Personal Vehicle,4417.0
+2408.0,Santa Teresa,New Mexico,2023,10,Personal Vehicle,133971.0
+2401.0,Ysleta,Texas,2023,8,Truck,62030.0
+2408.0,Santa Teresa,New Mexico,2023,10,Bus,863.0
+2606.0,Sasabe,Arizona,2023,8,Pedestrian,27.0
+2307.0,Rio Grande City,Texas,2023,10,Truck,3552.0
+2505.0,Tecate,California,2023,12,Pedestrian,88107.0
+2506.0,Otay Mesa,California,2023,9,Personal Vehicle,737016.0
+2303.0,Eagle Pass,Texas,2023,10,Truck,18808.0
+2403.0,Presidio,Texas,2023,6,Truck,826.0
+2303.0,Eagle Pass,Texas,2023,5,Train,4182.0
+2608.0,San Luis,Arizona,2023,10,Personal Vehicle,436848.0
+2301.0,Brownsville,Texas,2023,9,Truck,24891.0
+2507.0,Calexico East,California,2023,7,Train,20.0
+2503.0,Calexico,California,2023,11,Pedestrian,261087.0
+2402.0,El Paso,Texas,2023,8,Personal Vehicle,1225218.0
+2506.0,Otay Mesa,California,2023,11,Truck,84424.0
+2608.0,San Luis,Arizona,2023,10,Pedestrian,214946.0
+2601.0,Douglas,Arizona,2023,10,Pedestrian,82811.0
+2406.0,Columbus,New Mexico,2023,4,Personal Vehicle,62991.0
+2505.0,Tecate,California,2023,3,Pedestrian,66844.0
+2504.0,San Ysidro,California,2023,5,Bus,23331.0
+2310.0,Roma,Texas,2023,9,Personal Vehicle,121258.0
+2304.0,Laredo,Texas,2023,6,Truck,252039.0
+2402.0,El Paso,Texas,2023,5,Personal Vehicle,1248945.0
+2504.0,San Ysidro,California,2023,6,Bus,25367.0
+2602.0,Lukeville,Arizona,2023,11,Personal Vehicle,73039.0
+2401.0,Ysleta,Texas,2023,3,Truck,63768.0
+2603.0,Naco,Arizona,2023,2,Pedestrian,5749.0
+2305.0,Hidalgo,Texas,2023,1,Bus,15823.0
+2305.0,Hidalgo,Texas,2023,5,Pedestrian,173120.0
+2402.0,El Paso,Texas,2023,7,Truck,9945.0
+2309.0,Progreso,Texas,2023,2,Personal Vehicle,231798.0
+2404.0,Tornillo,Texas,2023,4,Pedestrian,3281.0
+2301.0,Brownsville,Texas,2023,11,Truck,25332.0
+2302.0,Del Rio,Texas,2023,11,Pedestrian,18240.0
+2507.0,Calexico East,California,2023,3,Truck,43614.0
+2403.0,Presidio,Texas,2023,3,Personal Vehicle,117046.0
+2608.0,San Luis,Arizona,2023,6,Personal Vehicle,419433.0
+2401.0,Ysleta,Texas,2023,12,Personal Vehicle,572703.0
+2507.0,Calexico East,California,2023,5,Train,23.0
+2606.0,Sasabe,Arizona,2023,2,Pedestrian,34.0
+2307.0,Rio Grande City,Texas,2023,8,Truck,3563.0
+2406.0,Columbus,New Mexico,2023,8,Bus,777.0
+2402.0,El Paso,Texas,2023,12,Bus,21579.0
+2507.0,Calexico East,California,2023,10,Personal Vehicle,441673.0
+2303.0,Eagle Pass,Texas,2023,3,Personal Vehicle,504250.0
+2304.0,Laredo,Texas,2023,12,Bus,64814.0
+2303.0,Eagle Pass,Texas,2023,12,Truck,10504.0
+2608.0,San Luis,Arizona,2023,11,Personal Vehicle,448668.0
+2403.0,Presidio,Texas,2023,7,Bus,190.0
+2601.0,Douglas,Arizona,2023,2,Truck,2094.0
+2302.0,Del Rio,Texas,2023,8,Pedestrian,15798.0
+2507.0,Calexico East,California,2023,4,Pedestrian,45560.0
+2406.0,Columbus,New Mexico,2023,8,Personal Vehicle,68237.0
+2403.0,Presidio,Texas,2023,4,Pedestrian,17830.0
+2307.0,Rio Grande City,Texas,2023,1,Truck,3664.0
+2304.0,Laredo,Texas,2023,12,Truck,223977.0
+2302.0,Del Rio,Texas,2023,2,Truck,5823.0
+2582.0,Cross Border Xpress,California,2023,12,Pedestrian,183272.0
+2402.0,El Paso,Texas,2023,12,Truck,8624.0
+2602.0,Lukeville,Arizona,2023,12,Truck,7.0
+2503.0,Calexico,California,2023,1,Personal Vehicle,648912.0
+2301.0,Brownsville,Texas,2023,3,Pedestrian,214888.0
+2310.0,Roma,Texas,2023,12,Pedestrian,20183.0
+2602.0,Lukeville,Arizona,2023,11,Pedestrian,6820.0
+2503.0,Calexico,California,2023,6,Personal Vehicle,666208.0
+2303.0,Eagle Pass,Texas,2023,5,Pedestrian,74564.0
+2504.0,San Ysidro,California,2023,10,Pedestrian,574271.0
+2608.0,San Luis,Arizona,2023,1,Bus,6.0
+2507.0,Calexico East,California,2023,1,Personal Vehicle,424322.0
+2307.0,Rio Grande City,Texas,2023,12,Truck,2940.0
+2302.0,Del Rio,Texas,2023,1,Pedestrian,18100.0
+2406.0,Columbus,New Mexico,2023,7,Personal Vehicle,74126.0
+2507.0,Calexico East,California,2023,9,Truck,36980.0
+2403.0,Presidio,Texas,2023,12,Bus,134.0
+2507.0,Calexico East,California,2023,6,Pedestrian,47445.0
+2403.0,Presidio,Texas,2023,7,Truck,790.0
+2604.0,Nogales,Arizona,2023,1,Truck,36530.0
+2582.0,Cross Border Xpress,California,2023,4,Pedestrian,209149.0
+2406.0,Columbus,New Mexico,2023,9,Pedestrian,20717.0
+2304.0,Laredo,Texas,2023,1,Personal Vehicle,831433.0
+2310.0,Roma,Texas,2023,2,Personal Vehicle,111286.0
+2608.0,San Luis,Arizona,2023,2,Pedestrian,197860.0
+2302.0,Del Rio,Texas,2023,3,Pedestrian,16110.0
+2406.0,Columbus,New Mexico,2023,8,Truck,1665.0
+2603.0,Naco,Arizona,2023,9,Pedestrian,8026.0
+2406.0,Columbus,New Mexico,2023,7,Truck,2134.0
+2506.0,Otay Mesa,California,2023,8,Truck,94592.0
+2602.0,Lukeville,Arizona,2023,6,Personal Vehicle,111215.0
+2403.0,Presidio,Texas,2023,11,Pedestrian,17324.0
+2506.0,Otay Mesa,California,2023,12,Train,2.0
+2403.0,Presidio,Texas,2023,9,Personal Vehicle,109693.0
+2507.0,Calexico East,California,2023,7,Truck,36334.0
+2602.0,Lukeville,Arizona,2023,11,Truck,70.0
+2601.0,Douglas,Arizona,2023,6,Personal Vehicle,238389.0
+2302.0,Del Rio,Texas,2023,2,Personal Vehicle,211973.0
+2307.0,Rio Grande City,Texas,2023,4,Personal Vehicle,74014.0
+2502.0,Andrade,California,2023,10,Pedestrian,38359.0
+2604.0,Nogales,Arizona,2023,5,Pedestrian,257376.0
+2404.0,Tornillo,Texas,2023,3,Pedestrian,2251.0
+2302.0,Del Rio,Texas,2023,5,Truck,6777.0
+2507.0,Calexico East,California,2023,5,Personal Vehicle,415458.0
+2302.0,Del Rio,Texas,2023,6,Truck,6675.0
+2301.0,Brownsville,Texas,2023,2,Bus,957.0
+2402.0,El Paso,Texas,2023,5,Pedestrian,348883.0
+2301.0,Brownsville,Texas,2023,2,Personal Vehicle,675656.0
+2506.0,Otay Mesa,California,2023,6,Train,14.0
+2602.0,Lukeville,Arizona,2023,7,Truck,74.0
+2505.0,Tecate,California,2023,2,Truck,4829.0
+2507.0,Calexico East,California,2023,9,Bus,1020.0
+2604.0,Nogales,Arizona,2023,8,Truck,21352.0
+2310.0,Roma,Texas,2023,1,Personal Vehicle,123836.0
+2304.0,Laredo,Texas,2023,5,Pedestrian,238375.0
+2604.0,Nogales,Arizona,2023,2,Truck,34050.0
+2403.0,Presidio,Texas,2023,1,Personal Vehicle,124143.0
+2601.0,Douglas,Arizona,2023,5,Personal Vehicle,262035.0
+2406.0,Columbus,New Mexico,2023,11,Pedestrian,18821.0
+2603.0,Naco,Arizona,2023,6,Truck,241.0
+2304.0,Laredo,Texas,2023,3,Pedestrian,242685.0
+2507.0,Calexico East,California,2023,10,Bus,197.0
+2601.0,Douglas,Arizona,2023,3,Pedestrian,62737.0
+2602.0,Lukeville,Arizona,2023,5,Bus,206.0
+2601.0,Douglas,Arizona,2023,5,Truck,2417.0
+2305.0,Hidalgo,Texas,2023,12,Truck,53669.0
+2603.0,Naco,Arizona,2023,8,Truck,281.0
+2601.0,Douglas,Arizona,2023,8,Personal Vehicle,263097.0
+2304.0,Laredo,Texas,2023,8,Personal Vehicle,802882.0
+2503.0,Calexico,California,2023,6,Pedestrian,239133.0
+2307.0,Rio Grande City,Texas,2023,3,Personal Vehicle,73532.0
+2401.0,Ysleta,Texas,2023,1,Personal Vehicle,493582.0
+2304.0,Laredo,Texas,2023,5,Bus,61367.0
+2504.0,San Ysidro,California,2023,12,Bus,54700.0
+2305.0,Hidalgo,Texas,2023,10,Truck,58693.0
+2303.0,Eagle Pass,Texas,2023,5,Personal Vehicle,522728.0
+2507.0,Calexico East,California,2023,2,Bus,225.0
+2307.0,Rio Grande City,Texas,2023,10,Pedestrian,6470.0
+2307.0,Rio Grande City,Texas,2023,5,Truck,4174.0
+2304.0,Laredo,Texas,2023,9,Bus,52103.0
+2304.0,Laredo,Texas,2023,11,Truck,245343.0
+2602.0,Lukeville,Arizona,2023,9,Personal Vehicle,72447.0
+2402.0,El Paso,Texas,2023,10,Personal Vehicle,1089877.0
+2402.0,El Paso,Texas,2023,11,Bus,18584.0
+2305.0,Hidalgo,Texas,2023,2,Personal Vehicle,692700.0
+2608.0,San Luis,Arizona,2023,8,Personal Vehicle,439126.0
+2303.0,Eagle Pass,Texas,2023,3,Truck,19567.0
+2408.0,Santa Teresa,New Mexico,2023,4,Truck,13057.0
+2403.0,Presidio,Texas,2023,8,Personal Vehicle,118484.0
+2403.0,Presidio,Texas,2023,4,Truck,840.0
+2506.0,Otay Mesa,California,2023,11,Pedestrian,249795.0
+2410.0,Boquillas,Texas,2023,10,Pedestrian,1789.0
+2302.0,Del Rio,Texas,2023,10,Truck,6889.0
+2301.0,Brownsville,Texas,2023,12,Bus,3547.0
+2408.0,Santa Teresa,New Mexico,2023,7,Pedestrian,18046.0
+2406.0,Columbus,New Mexico,2023,1,Bus,743.0
+2402.0,El Paso,Texas,2023,1,Bus,20497.0
+2603.0,Naco,Arizona,2023,3,Truck,278.0
+2307.0,Rio Grande City,Texas,2023,7,Truck,3638.0
+2602.0,Lukeville,Arizona,2023,8,Pedestrian,6271.0
+2502.0,Andrade,California,2013,10,Personal Vehicle,62466.0
+2403.0,Presidio,Texas,2013,12,Pedestrian,9185.0
+2302.0,Del Rio,Texas,2013,10,Pedestrian,8560.0
+2406.0,Columbus,New Mexico,2013,8,Pedestrian,30686.0
+2506.0,Otay Mesa,California,2013,6,Truck,63615.0
+2601.0,Douglas,Arizona,2013,7,Personal Vehicle,231865.0
+2505.0,Tecate,California,2013,8,Pedestrian,62548.0
+2307.0,Rio Grande City,Texas,2013,10,Bus,0.0
+2502.0,Andrade,California,2013,5,Truck,0.0
+2408.0,Santa Teresa,New Mexico,2013,8,Pedestrian,12358.0
+2504.0,San Ysidro,California,2013,5,Pedestrian,620144.0
+2601.0,Douglas,Arizona,2013,5,Personal Vehicle,232663.0
+2403.0,Presidio,Texas,2013,5,Pedestrian,4858.0
+2606.0,Sasabe,Arizona,2013,8,Pedestrian,69.0
+2402.0,El Paso,Texas,2013,8,Train,0.0
+2604.0,Nogales,Arizona,2013,10,Bus,10869.0
+2603.0,Naco,Arizona,2013,11,Truck,316.0
+2301.0,Brownsville,Texas,2013,8,Personal Vehicle,731415.0
+2606.0,Sasabe,Arizona,2013,5,Pedestrian,140.0
+2606.0,Sasabe,Arizona,2013,12,Personal Vehicle,3037.0
+2604.0,Nogales,Arizona,2013,7,Train,292.0
+2606.0,Sasabe,Arizona,2013,8,Train,0.0
+2304.0,Laredo,Texas,2013,12,Pedestrian,342535.0
+2507.0,Calexico East,California,2013,11,Pedestrian,30207.0
+2502.0,Andrade,California,2013,11,Truck,0.0
+2604.0,Nogales,Arizona,2013,10,Truck,21928.0
+2606.0,Sasabe,Arizona,2013,7,Personal Vehicle,1753.0
+2310.0,Roma,Texas,2013,9,Pedestrian,20270.0
+2601.0,Douglas,Arizona,2013,8,Train,0.0
+2305.0,Hidalgo,Texas,2013,8,Truck,42193.0
+2408.0,Santa Teresa,New Mexico,2013,12,Truck,6028.0
+2603.0,Naco,Arizona,2013,10,Bus,52.0
+2310.0,Roma,Texas,2013,10,Bus,405.0
+2504.0,San Ysidro,California,2013,9,Personal Vehicle,1623048.0
+2502.0,Andrade,California,2013,9,Truck,0.0
+2303.0,Eagle Pass,Texas,2013,11,Truck,10155.0
+2601.0,Douglas,Arizona,2013,6,Personal Vehicle,219320.0
+2406.0,Columbus,New Mexico,2013,5,Truck,236.0
+2507.0,Calexico East,California,2013,10,Train,23.0
+2507.0,Calexico East,California,2013,8,Personal Vehicle,484639.0
+2309.0,Progreso,Texas,2013,6,Truck,3330.0
+2504.0,San Ysidro,California,2013,5,Personal Vehicle,1675863.0
+2301.0,Brownsville,Texas,2013,6,Train,0.0
+2304.0,Laredo,Texas,2013,9,Truck,150067.0
+2601.0,Douglas,Arizona,2013,10,Truck,3013.0
+2406.0,Columbus,New Mexico,2013,8,Train,0.0
+2406.0,Columbus,New Mexico,2013,8,Truck,1341.0
+2303.0,Eagle Pass,Texas,2013,10,Pedestrian,64285.0
+2601.0,Douglas,Arizona,2013,12,Truck,2544.0
+2507.0,Calexico East,California,2013,12,Personal Vehicle,657737.0
+2406.0,Columbus,New Mexico,2013,11,Pedestrian,26457.0
+2503.0,Calexico,California,2013,6,Train,0.0
+2502.0,Andrade,California,2013,6,Truck,0.0
+2404.0,Tornillo,Texas,2013,6,Train,0.0
+2505.0,Tecate,California,2013,12,Bus,425.0
+2602.0,Lukeville,Arizona,2013,9,Personal Vehicle,47302.0
+2310.0,Roma,Texas,2013,7,Bus,1260.0
+2406.0,Columbus,New Mexico,2013,5,Train,0.0
+2503.0,Calexico,California,2013,11,Bus,0.0
+2603.0,Naco,Arizona,2013,12,Bus,39.0
+2404.0,Tornillo,Texas,2013,12,Personal Vehicle,55445.0
+2309.0,Progreso,Texas,2013,7,Personal Vehicle,206306.0
+2503.0,Calexico,California,2013,8,Personal Vehicle,602834.0
+2601.0,Douglas,Arizona,2013,10,Bus,748.0
+2503.0,Calexico,California,2013,5,Pedestrian,416722.0
+2310.0,Roma,Texas,2013,8,Personal Vehicle,106337.0
+2606.0,Sasabe,Arizona,2013,9,Bus,0.0
+2503.0,Calexico,California,2013,12,Train,0.0
+2505.0,Tecate,California,2013,6,Pedestrian,64453.0
+2408.0,Santa Teresa,New Mexico,2013,12,Pedestrian,21118.0
+2502.0,Andrade,California,2013,6,Personal Vehicle,64802.0
+2502.0,Andrade,California,2013,8,Train,0.0
+2606.0,Sasabe,Arizona,2013,10,Personal Vehicle,2306.0
+2604.0,Nogales,Arizona,2013,9,Pedestrian,203344.0
+2305.0,Hidalgo,Texas,2013,12,Pedestrian,184519.0
+2307.0,Rio Grande City,Texas,2013,9,Personal Vehicle,57862.0
+2608.0,San Luis,Arizona,2013,11,Pedestrian,233046.0
+2604.0,Nogales,Arizona,2013,7,Pedestrian,242825.0
+2402.0,El Paso,Texas,2013,5,Personal Vehicle,1448458.0
+2603.0,Naco,Arizona,2013,6,Train,0.0
+2502.0,Andrade,California,2013,9,Personal Vehicle,62171.0
+2608.0,San Luis,Arizona,2013,5,Train,0.0
+2504.0,San Ysidro,California,2013,12,Train,0.0
+2303.0,Eagle Pass,Texas,2013,11,Train,0.0
+2304.0,Laredo,Texas,2013,8,Train,0.0
+2307.0,Rio Grande City,Texas,2013,5,Personal Vehicle,60540.0
+2507.0,Calexico East,California,2013,6,Pedestrian,15645.0
+2304.0,Laredo,Texas,2013,6,Train,0.0
+2307.0,Rio Grande City,Texas,2013,5,Train,0.0
+2307.0,Rio Grande City,Texas,2013,11,Bus,0.0
+2301.0,Brownsville,Texas,2013,9,Train,0.0
+2310.0,Roma,Texas,2013,10,Personal Vehicle,107985.0
+2301.0,Brownsville,Texas,2013,9,Pedestrian,160500.0
+2601.0,Douglas,Arizona,2013,8,Bus,1144.0
+2402.0,El Paso,Texas,2013,8,Truck,64513.0
+2604.0,Nogales,Arizona,2013,6,Train,292.0
+2406.0,Columbus,New Mexico,2013,10,Pedestrian,31867.0
+2608.0,San Luis,Arizona,2013,11,Train,0.0
+2604.0,Nogales,Arizona,2013,11,Pedestrian,248338.0
+2402.0,El Paso,Texas,2013,11,Personal Vehicle,1510375.0
+2503.0,Calexico,California,2013,11,Pedestrian,408164.0
+2309.0,Progreso,Texas,2013,9,Bus,0.0
+2406.0,Columbus,New Mexico,2013,11,Personal Vehicle,44244.0
+2302.0,Del Rio,Texas,2013,11,Train,0.0
+2403.0,Presidio,Texas,2013,7,Bus,1294.0
+2504.0,San Ysidro,California,2013,10,Bus,21925.0
+2504.0,San Ysidro,California,2013,5,Train,0.0
+2403.0,Presidio,Texas,2013,8,Train,0.0
+2505.0,Tecate,California,2013,9,Truck,3890.0
+2604.0,Nogales,Arizona,2013,6,Truck,25251.0
+2303.0,Eagle Pass,Texas,2013,10,Train,0.0
+2602.0,Lukeville,Arizona,2013,5,Bus,226.0
+2503.0,Calexico,California,2013,10,Pedestrian,405023.0
+2606.0,Sasabe,Arizona,2013,5,Truck,0.0
+2310.0,Roma,Texas,2013,8,Train,0.0
+2606.0,Sasabe,Arizona,2013,8,Personal Vehicle,2051.0
+2301.0,Brownsville,Texas,2013,8,Truck,17789.0
+2507.0,Calexico East,California,2013,11,Truck,26258.0
+2603.0,Naco,Arizona,2013,5,Train,0.0
+2304.0,Laredo,Texas,2013,6,Bus,79840.0
+2309.0,Progreso,Texas,2013,11,Truck,2471.0
+2506.0,Otay Mesa,California,2013,11,Personal Vehicle,922796.0
+2404.0,Tornillo,Texas,2013,9,Truck,0.0
+2608.0,San Luis,Arizona,2013,7,Bus,0.0
+2302.0,Del Rio,Texas,2013,7,Train,0.0
+2502.0,Andrade,California,2013,12,Truck,0.0
+2506.0,Otay Mesa,California,2013,10,Truck,71886.0
+2606.0,Sasabe,Arizona,2013,11,Personal Vehicle,2408.0
+2304.0,Laredo,Texas,2013,5,Personal Vehicle,756578.0
+2403.0,Presidio,Texas,2013,8,Bus,784.0
+2606.0,Sasabe,Arizona,2013,5,Personal Vehicle,2187.0
+2406.0,Columbus,New Mexico,2013,9,Personal Vehicle,43603.0
+2606.0,Sasabe,Arizona,2013,10,Truck,0.0
+2403.0,Presidio,Texas,2013,9,Train,0.0
+2303.0,Eagle Pass,Texas,2013,9,Truck,9773.0
+2505.0,Tecate,California,2013,7,Train,0.0
+2601.0,Douglas,Arizona,2013,5,Pedestrian,133307.0
+2602.0,Lukeville,Arizona,2013,5,Pedestrian,1568.0
+2503.0,Calexico,California,2013,7,Personal Vehicle,610787.0
+2307.0,Rio Grande City,Texas,2013,7,Personal Vehicle,59969.0
+2406.0,Columbus,New Mexico,2013,5,Pedestrian,24746.0
+2404.0,Tornillo,Texas,2013,11,Bus,0.0
+2403.0,Presidio,Texas,2013,10,Bus,710.0
+2507.0,Calexico East,California,2013,9,Personal Vehicle,454401.0
+2507.0,Calexico East,California,2013,8,Pedestrian,19371.0
+2403.0,Presidio,Texas,2013,12,Train,0.0
+2601.0,Douglas,Arizona,2013,6,Train,0.0
+2404.0,Tornillo,Texas,2013,12,Truck,0.0
+2304.0,Laredo,Texas,2013,9,Personal Vehicle,745774.0
+2603.0,Naco,Arizona,2013,8,Bus,84.0
+2310.0,Roma,Texas,2013,6,Pedestrian,18915.0
+2304.0,Laredo,Texas,2013,10,Truck,169751.0
+2505.0,Tecate,California,2013,8,Truck,4293.0
+2502.0,Andrade,California,2013,6,Pedestrian,30815.0
+2301.0,Brownsville,Texas,2013,10,Personal Vehicle,704968.0
+2406.0,Columbus,New Mexico,2013,8,Personal Vehicle,48822.0
+2602.0,Lukeville,Arizona,2013,5,Personal Vehicle,63128.0
+2504.0,San Ysidro,California,2013,11,Bus,29246.0
+2502.0,Andrade,California,2013,7,Pedestrian,26080.0
+2507.0,Calexico East,California,2013,12,Train,19.0
+2402.0,El Paso,Texas,2013,12,Truck,53976.0
+2602.0,Lukeville,Arizona,2013,7,Pedestrian,4877.0
+2301.0,Brownsville,Texas,2013,8,Pedestrian,182939.0
+2505.0,Tecate,California,2013,11,Truck,3908.0
+2408.0,Santa Teresa,New Mexico,2013,7,Pedestrian,21473.0
+2404.0,Tornillo,Texas,2013,11,Truck,0.0
+2402.0,El Paso,Texas,2013,7,Train,0.0
+2603.0,Naco,Arizona,2013,11,Personal Vehicle,44955.0
+2601.0,Douglas,Arizona,2013,10,Personal Vehicle,226923.0
+2307.0,Rio Grande City,Texas,2013,6,Truck,2138.0
+2506.0,Otay Mesa,California,2013,9,Pedestrian,253759.0
+2502.0,Andrade,California,2013,6,Train,0.0
+2402.0,El Paso,Texas,2013,5,Truck,64451.0
+2403.0,Presidio,Texas,2013,8,Personal Vehicle,105765.0
+2402.0,El Paso,Texas,2013,7,Truck,63459.0
+2604.0,Nogales,Arizona,2013,8,Train,296.0
+2301.0,Brownsville,Texas,2013,6,Pedestrian,170185.0
+2601.0,Douglas,Arizona,2013,9,Truck,2568.0
+2504.0,San Ysidro,California,2013,5,Bus,51050.0
+2303.0,Eagle Pass,Texas,2013,5,Pedestrian,69055.0
+2504.0,San Ysidro,California,2013,5,Truck,0.0
+2507.0,Calexico East,California,2013,10,Personal Vehicle,485478.0
+2305.0,Hidalgo,Texas,2013,10,Train,0.0
+2408.0,Santa Teresa,New Mexico,2013,10,Bus,235.0
+2406.0,Columbus,New Mexico,2013,12,Bus,1381.0
+2303.0,Eagle Pass,Texas,2013,7,Pedestrian,72503.0
+2507.0,Calexico East,California,2013,7,Truck,28371.0
+2502.0,Andrade,California,2013,8,Personal Vehicle,64195.0
+2310.0,Roma,Texas,2013,7,Truck,616.0
+2304.0,Laredo,Texas,2013,7,Train,0.0
+2507.0,Calexico East,California,2013,6,Personal Vehicle,488218.0
+2307.0,Rio Grande City,Texas,2013,12,Truck,2222.0
+2502.0,Andrade,California,2013,10,Truck,0.0
+2604.0,Nogales,Arizona,2013,9,Train,272.0
+2601.0,Douglas,Arizona,2013,8,Pedestrian,182475.0
+2408.0,Santa Teresa,New Mexico,2013,6,Train,0.0
+2403.0,Presidio,Texas,2013,6,Bus,922.0
+2404.0,Tornillo,Texas,2013,9,Train,0.0
+2302.0,Del Rio,Texas,2013,7,Personal Vehicle,227637.0
+2504.0,San Ysidro,California,2013,12,Bus,38000.0
+2402.0,El Paso,Texas,2013,7,Bus,39147.0
+2309.0,Progreso,Texas,2013,12,Truck,2335.0
+2604.0,Nogales,Arizona,2013,10,Personal Vehicle,554278.0
+2302.0,Del Rio,Texas,2013,9,Personal Vehicle,213925.0
+2604.0,Nogales,Arizona,2013,11,Truck,24978.0
+2608.0,San Luis,Arizona,2013,12,Truck,2703.0
+2602.0,Lukeville,Arizona,2013,6,Train,0.0
+2603.0,Naco,Arizona,2013,8,Personal Vehicle,44677.0
+2604.0,Nogales,Arizona,2013,6,Personal Vehicle,529054.0
+2404.0,Tornillo,Texas,2013,8,Train,0.0
+2504.0,San Ysidro,California,2013,6,Personal Vehicle,1639260.0
+2506.0,Otay Mesa,California,2013,11,Train,30.0
+2506.0,Otay Mesa,California,2013,8,Train,42.0
+2303.0,Eagle Pass,Texas,2013,12,Train,0.0
+2408.0,Santa Teresa,New Mexico,2013,11,Truck,6432.0
+2301.0,Brownsville,Texas,2013,9,Bus,3412.0
+2406.0,Columbus,New Mexico,2013,6,Bus,1464.0
+2403.0,Presidio,Texas,2013,10,Pedestrian,4552.0
+2505.0,Tecate,California,2013,6,Train,0.0
+2403.0,Presidio,Texas,2013,12,Bus,1042.0
+2608.0,San Luis,Arizona,2013,11,Personal Vehicle,436360.0
+2303.0,Eagle Pass,Texas,2013,6,Truck,9463.0
+2503.0,Calexico,California,2013,5,Truck,0.0
+2305.0,Hidalgo,Texas,2013,5,Bus,25157.0
+2309.0,Progreso,Texas,2013,7,Bus,0.0
+2505.0,Tecate,California,2013,7,Truck,4283.0
+2301.0,Brownsville,Texas,2013,11,Bus,3824.0
+2406.0,Columbus,New Mexico,2013,7,Train,0.0
+2603.0,Naco,Arizona,2013,9,Bus,31.0
+2305.0,Hidalgo,Texas,2013,11,Bus,27823.0
+2404.0,Tornillo,Texas,2013,7,Train,0.0
+2505.0,Tecate,California,2013,12,Train,0.0
+2403.0,Presidio,Texas,2013,7,Truck,746.0
+2302.0,Del Rio,Texas,2013,5,Truck,5841.0
+2506.0,Otay Mesa,California,2013,12,Train,40.0
+2406.0,Columbus,New Mexico,2013,12,Truck,1774.0
+2505.0,Tecate,California,2013,12,Pedestrian,69994.0
+2309.0,Progreso,Texas,2013,10,Bus,0.0
+2406.0,Columbus,New Mexico,2013,11,Truck,1989.0
+2307.0,Rio Grande City,Texas,2013,11,Pedestrian,5208.0
+2303.0,Eagle Pass,Texas,2013,12,Personal Vehicle,450898.0
+2310.0,Roma,Texas,2013,6,Personal Vehicle,101485.0
+2504.0,San Ysidro,California,2013,7,Train,0.0
+2307.0,Rio Grande City,Texas,2013,9,Train,0.0
+2303.0,Eagle Pass,Texas,2013,8,Personal Vehicle,427218.0
+2602.0,Lukeville,Arizona,2013,10,Pedestrian,3031.0
+2606.0,Sasabe,Arizona,2013,12,Pedestrian,60.0
+2309.0,Progreso,Texas,2013,11,Bus,0.0
+2504.0,San Ysidro,California,2013,11,Truck,0.0
+2305.0,Hidalgo,Texas,2013,10,Bus,24578.0
+2402.0,El Paso,Texas,2013,11,Truck,60633.0
+2602.0,Lukeville,Arizona,2013,9,Pedestrian,3119.0
+2402.0,El Paso,Texas,2013,6,Truck,60798.0
+2402.0,El Paso,Texas,2013,11,Train,0.0
+2403.0,Presidio,Texas,2013,5,Train,0.0
+2304.0,Laredo,Texas,2013,8,Truck,158729.0
+2506.0,Otay Mesa,California,2013,6,Train,40.0
+2601.0,Douglas,Arizona,2013,7,Truck,2743.0
+2502.0,Andrade,California,2013,9,Pedestrian,35752.0
+2310.0,Roma,Texas,2013,11,Truck,675.0
+2404.0,Tornillo,Texas,2013,10,Bus,0.0
+2504.0,San Ysidro,California,2013,8,Pedestrian,657034.0
+2310.0,Roma,Texas,2013,11,Pedestrian,21783.0
+2304.0,Laredo,Texas,2013,11,Personal Vehicle,811929.0
+2310.0,Roma,Texas,2013,10,Truck,801.0
+2307.0,Rio Grande City,Texas,2013,8,Truck,2192.0
+2503.0,Calexico,California,2013,8,Train,0.0
+2603.0,Naco,Arizona,2013,10,Pedestrian,8374.0
+2506.0,Otay Mesa,California,2013,11,Bus,14531.0
+2309.0,Progreso,Texas,2013,9,Pedestrian,40565.0
+2602.0,Lukeville,Arizona,2013,12,Pedestrian,5035.0
+2505.0,Tecate,California,2013,10,Train,0.0
+2404.0,Tornillo,Texas,2013,12,Pedestrian,6249.0
+2406.0,Columbus,New Mexico,2013,9,Pedestrian,28778.0
+2503.0,Calexico,California,2013,6,Bus,0.0
+2504.0,San Ysidro,California,2013,7,Bus,57066.0
+2603.0,Naco,Arizona,2013,9,Train,0.0
+2602.0,Lukeville,Arizona,2013,12,Truck,3.0
+2406.0,Columbus,New Mexico,2013,6,Train,0.0
+2505.0,Tecate,California,2013,11,Bus,424.0
+2606.0,Sasabe,Arizona,2013,6,Train,0.0
+2602.0,Lukeville,Arizona,2013,10,Train,0.0
+2403.0,Presidio,Texas,2013,9,Pedestrian,5153.0
+2303.0,Eagle Pass,Texas,2013,7,Truck,9971.0
+2408.0,Santa Teresa,New Mexico,2013,7,Bus,335.0
+2309.0,Progreso,Texas,2013,10,Truck,3024.0
+2505.0,Tecate,California,2013,10,Personal Vehicle,121058.0
+2305.0,Hidalgo,Texas,2013,12,Train,0.0
+2507.0,Calexico East,California,2013,10,Bus,10600.0
+2601.0,Douglas,Arizona,2013,10,Train,0.0
+2408.0,Santa Teresa,New Mexico,2013,10,Personal Vehicle,75488.0
+2606.0,Sasabe,Arizona,2013,11,Train,0.0
+2310.0,Roma,Texas,2013,6,Train,0.0
+2302.0,Del Rio,Texas,2013,8,Truck,5997.0
+2302.0,Del Rio,Texas,2013,5,Pedestrian,8368.0
+2307.0,Rio Grande City,Texas,2013,6,Pedestrian,4409.0
+2403.0,Presidio,Texas,2013,8,Truck,750.0
+2304.0,Laredo,Texas,2013,6,Personal Vehicle,779668.0
+2606.0,Sasabe,Arizona,2013,8,Bus,0.0
+2303.0,Eagle Pass,Texas,2013,7,Bus,2977.0
+2606.0,Sasabe,Arizona,2013,5,Train,0.0
+2503.0,Calexico,California,2013,8,Bus,0.0
+2603.0,Naco,Arizona,2013,12,Pedestrian,6887.0
+2307.0,Rio Grande City,Texas,2013,12,Personal Vehicle,71914.0
+2608.0,San Luis,Arizona,2013,12,Pedestrian,250328.0
+2602.0,Lukeville,Arizona,2013,6,Pedestrian,3463.0
+2303.0,Eagle Pass,Texas,2013,9,Pedestrian,59930.0
+2307.0,Rio Grande City,Texas,2013,8,Train,0.0
+2608.0,San Luis,Arizona,2013,12,Bus,1.0
+2307.0,Rio Grande City,Texas,2013,9,Truck,1926.0
+2309.0,Progreso,Texas,2013,12,Personal Vehicle,267749.0
+2602.0,Lukeville,Arizona,2013,10,Personal Vehicle,57332.0
+2406.0,Columbus,New Mexico,2013,6,Truck,282.0
+2604.0,Nogales,Arizona,2013,9,Personal Vehicle,529632.0
+2507.0,Calexico East,California,2013,9,Pedestrian,18309.0
+2404.0,Tornillo,Texas,2013,7,Personal Vehicle,49459.0
+2402.0,El Paso,Texas,2013,9,Train,0.0
+2504.0,San Ysidro,California,2013,9,Bus,27471.0
+2309.0,Progreso,Texas,2013,6,Personal Vehicle,193236.0
+2307.0,Rio Grande City,Texas,2013,11,Truck,1893.0
+2403.0,Presidio,Texas,2013,10,Personal Vehicle,98431.0
+2601.0,Douglas,Arizona,2013,11,Train,0.0
+2602.0,Lukeville,Arizona,2013,7,Train,0.0
+2505.0,Tecate,California,2013,5,Bus,11.0
+2404.0,Tornillo,Texas,2013,8,Pedestrian,3781.0
+2302.0,Del Rio,Texas,2013,5,Bus,0.0
+2408.0,Santa Teresa,New Mexico,2013,6,Bus,200.0
+2404.0,Tornillo,Texas,2013,5,Personal Vehicle,52756.0
+2503.0,Calexico,California,2013,10,Bus,0.0
+2305.0,Hidalgo,Texas,2013,7,Pedestrian,172779.0
+2601.0,Douglas,Arizona,2013,11,Truck,2746.0
+2301.0,Brownsville,Texas,2013,11,Train,0.0
+2404.0,Tornillo,Texas,2013,12,Bus,0.0
+2502.0,Andrade,California,2013,12,Pedestrian,84568.0
+2506.0,Otay Mesa,California,2013,5,Truck,69108.0
+2406.0,Columbus,New Mexico,2013,7,Personal Vehicle,51702.0
+2403.0,Presidio,Texas,2013,12,Truck,895.0
+2503.0,Calexico,California,2013,9,Train,0.0
+2302.0,Del Rio,Texas,2013,12,Personal Vehicle,255775.0
+2403.0,Presidio,Texas,2013,11,Pedestrian,5886.0
+2402.0,El Paso,Texas,2013,10,Personal Vehicle,1512411.0
+2307.0,Rio Grande City,Texas,2013,10,Personal Vehicle,58613.0
+2507.0,Calexico East,California,2013,9,Truck,24364.0
+2608.0,San Luis,Arizona,2013,9,Train,0.0
+2303.0,Eagle Pass,Texas,2013,6,Bus,1822.0
+2608.0,San Luis,Arizona,2013,10,Train,0.0
+2606.0,Sasabe,Arizona,2013,7,Pedestrian,50.0
+2305.0,Hidalgo,Texas,2013,7,Truck,42851.0
+2302.0,Del Rio,Texas,2013,6,Personal Vehicle,218002.0
+2310.0,Roma,Texas,2013,6,Bus,440.0
+2304.0,Laredo,Texas,2013,12,Bus,89308.0
+2302.0,Del Rio,Texas,2013,12,Bus,0.0
+2303.0,Eagle Pass,Texas,2013,12,Truck,9202.0
+2503.0,Calexico,California,2013,7,Bus,0.0
+2406.0,Columbus,New Mexico,2013,9,Bus,984.0
+2601.0,Douglas,Arizona,2013,8,Truck,2788.0
+2406.0,Columbus,New Mexico,2013,7,Bus,1704.0
+2301.0,Brownsville,Texas,2013,7,Personal Vehicle,748622.0
+2502.0,Andrade,California,2013,11,Bus,0.0
+2506.0,Otay Mesa,California,2013,6,Personal Vehicle,926914.0
+2506.0,Otay Mesa,California,2013,5,Train,82.0
+2606.0,Sasabe,Arizona,2013,6,Pedestrian,29.0
+2603.0,Naco,Arizona,2013,5,Personal Vehicle,42797.0
+2305.0,Hidalgo,Texas,2013,10,Pedestrian,178814.0
+2402.0,El Paso,Texas,2013,9,Personal Vehicle,1428815.0
+2608.0,San Luis,Arizona,2013,10,Truck,2238.0
+2603.0,Naco,Arizona,2013,7,Bus,92.0
+2302.0,Del Rio,Texas,2013,7,Pedestrian,9001.0
+2307.0,Rio Grande City,Texas,2013,8,Pedestrian,4787.0
+2403.0,Presidio,Texas,2013,11,Train,0.0
+2503.0,Calexico,California,2013,7,Train,0.0
+2507.0,Calexico East,California,2013,5,Pedestrian,22599.0
+2408.0,Santa Teresa,New Mexico,2013,11,Personal Vehicle,96671.0
+2504.0,San Ysidro,California,2013,12,Pedestrian,740260.0
+2506.0,Otay Mesa,California,2013,9,Train,0.0
+2604.0,Nogales,Arizona,2013,8,Truck,15568.0
+2502.0,Andrade,California,2013,8,Pedestrian,29089.0
+2603.0,Naco,Arizona,2013,6,Truck,295.0
+2403.0,Presidio,Texas,2013,9,Bus,641.0
+2503.0,Calexico,California,2013,12,Personal Vehicle,562596.0
+2604.0,Nogales,Arizona,2013,12,Bus,14877.0
+2404.0,Tornillo,Texas,2013,6,Personal Vehicle,51477.0
+2304.0,Laredo,Texas,2013,5,Bus,74522.0
+2408.0,Santa Teresa,New Mexico,2013,7,Truck,7561.0
+2603.0,Naco,Arizona,2013,10,Personal Vehicle,41876.0
+2403.0,Presidio,Texas,2013,11,Bus,405.0
+2303.0,Eagle Pass,Texas,2013,6,Train,0.0
+2304.0,Laredo,Texas,2013,7,Bus,132906.0
+2309.0,Progreso,Texas,2013,10,Train,0.0
+2304.0,Laredo,Texas,2013,10,Train,0.0
+2503.0,Calexico,California,2013,11,Train,0.0
+2504.0,San Ysidro,California,2013,8,Bus,45506.0
+2601.0,Douglas,Arizona,2013,7,Bus,1484.0
+2309.0,Progreso,Texas,2013,8,Bus,0.0
+2309.0,Progreso,Texas,2013,12,Bus,37.0
+2505.0,Tecate,California,2013,8,Personal Vehicle,130591.0
+2302.0,Del Rio,Texas,2013,10,Train,0.0
+2507.0,Calexico East,California,2013,10,Pedestrian,20478.0
+2602.0,Lukeville,Arizona,2013,12,Train,0.0
+2602.0,Lukeville,Arizona,2013,12,Personal Vehicle,42345.0
+2506.0,Otay Mesa,California,2013,6,Bus,14904.0
+2307.0,Rio Grande City,Texas,2013,7,Bus,0.0
+2406.0,Columbus,New Mexico,2013,12,Personal Vehicle,52870.0
+2302.0,Del Rio,Texas,2013,11,Bus,0.0
+2402.0,El Paso,Texas,2013,6,Bus,23550.0
+2408.0,Santa Teresa,New Mexico,2013,12,Personal Vehicle,123526.0
+2403.0,Presidio,Texas,2013,11,Personal Vehicle,100148.0
+2504.0,San Ysidro,California,2013,9,Truck,0.0
+2504.0,San Ysidro,California,2013,8,Train,0.0
+2302.0,Del Rio,Texas,2013,9,Truck,5557.0
+2603.0,Naco,Arizona,2013,9,Pedestrian,7915.0
+2601.0,Douglas,Arizona,2013,6,Bus,1398.0
+2305.0,Hidalgo,Texas,2013,6,Pedestrian,158967.0
+2305.0,Hidalgo,Texas,2013,9,Train,0.0
+2608.0,San Luis,Arizona,2013,9,Bus,2.0
+2604.0,Nogales,Arizona,2013,12,Truck,25550.0
+2302.0,Del Rio,Texas,2013,6,Truck,5412.0
+2503.0,Calexico,California,2013,9,Personal Vehicle,575707.0
+2408.0,Santa Teresa,New Mexico,2013,7,Personal Vehicle,105688.0
+2504.0,San Ysidro,California,2013,11,Personal Vehicle,1640324.0
+2507.0,Calexico East,California,2013,11,Bus,9520.0
+2309.0,Progreso,Texas,2013,9,Personal Vehicle,182883.0
+2507.0,Calexico East,California,2013,12,Bus,8560.0
+2604.0,Nogales,Arizona,2013,6,Pedestrian,231755.0
+2304.0,Laredo,Texas,2013,8,Bus,121284.0
+2403.0,Presidio,Texas,2013,10,Truck,892.0
+2408.0,Santa Teresa,New Mexico,2013,9,Pedestrian,10256.0
+2408.0,Santa Teresa,New Mexico,2013,5,Truck,7217.0
+2503.0,Calexico,California,2013,12,Pedestrian,449030.0
+2310.0,Roma,Texas,2013,8,Pedestrian,19513.0
+2301.0,Brownsville,Texas,2013,11,Personal Vehicle,669986.0
+2304.0,Laredo,Texas,2013,5,Train,0.0
+2305.0,Hidalgo,Texas,2013,12,Truck,38107.0
+2310.0,Roma,Texas,2013,9,Train,0.0
+2309.0,Progreso,Texas,2013,12,Train,0.0
+2505.0,Tecate,California,2013,6,Personal Vehicle,121231.0
+2504.0,San Ysidro,California,2013,6,Train,0.0
+2601.0,Douglas,Arizona,2013,9,Pedestrian,174904.0
+2502.0,Andrade,California,2013,10,Pedestrian,55573.0
+2506.0,Otay Mesa,California,2013,12,Personal Vehicle,1039606.0
+2604.0,Nogales,Arizona,2013,8,Bus,14668.0
+2404.0,Tornillo,Texas,2013,5,Bus,0.0
+2305.0,Hidalgo,Texas,2013,5,Train,0.0
+2406.0,Columbus,New Mexico,2013,11,Bus,1236.0
+2503.0,Calexico,California,2013,11,Truck,0.0
+2502.0,Andrade,California,2013,10,Train,0.0
+2402.0,El Paso,Texas,2013,12,Bus,31167.0
+2403.0,Presidio,Texas,2013,7,Pedestrian,6064.0
+2608.0,San Luis,Arizona,2013,12,Train,0.0
+2604.0,Nogales,Arizona,2013,9,Bus,10274.0
+2507.0,Calexico East,California,2013,9,Train,22.0
+2307.0,Rio Grande City,Texas,2013,6,Personal Vehicle,57981.0
+2304.0,Laredo,Texas,2013,7,Truck,158834.0
+2601.0,Douglas,Arizona,2013,12,Train,0.0
+2606.0,Sasabe,Arizona,2013,6,Truck,0.0
+2606.0,Sasabe,Arizona,2013,11,Pedestrian,44.0
+2402.0,El Paso,Texas,2013,12,Personal Vehicle,1702710.0
+2601.0,Douglas,Arizona,2013,6,Truck,2604.0
+2305.0,Hidalgo,Texas,2013,12,Personal Vehicle,953934.0
+2302.0,Del Rio,Texas,2013,11,Pedestrian,7976.0
+2602.0,Lukeville,Arizona,2013,7,Truck,1.0
+2310.0,Roma,Texas,2013,7,Pedestrian,19157.0
+2504.0,San Ysidro,California,2013,11,Train,0.0
+2304.0,Laredo,Texas,2013,9,Pedestrian,271885.0
+2304.0,Laredo,Texas,2013,8,Pedestrian,305225.0
+2404.0,Tornillo,Texas,2013,10,Personal Vehicle,45605.0
+2403.0,Presidio,Texas,2013,8,Pedestrian,4888.0
+2602.0,Lukeville,Arizona,2013,8,Train,0.0
+2606.0,Sasabe,Arizona,2013,9,Train,0.0
+2506.0,Otay Mesa,California,2013,5,Personal Vehicle,866210.0
+2301.0,Brownsville,Texas,2013,7,Train,0.0
+2305.0,Hidalgo,Texas,2013,5,Personal Vehicle,791984.0
+2403.0,Presidio,Texas,2013,7,Train,0.0
+2406.0,Columbus,New Mexico,2013,10,Personal Vehicle,41447.0
+2507.0,Calexico East,California,2013,11,Personal Vehicle,498614.0
+2503.0,Calexico,California,2013,9,Bus,0.0
+2504.0,San Ysidro,California,2013,12,Truck,0.0
+2601.0,Douglas,Arizona,2013,11,Bus,787.0
+2301.0,Brownsville,Texas,2013,7,Bus,6904.0
+2310.0,Roma,Texas,2013,12,Train,0.0
+2404.0,Tornillo,Texas,2013,8,Personal Vehicle,48295.0
+2601.0,Douglas,Arizona,2013,9,Bus,791.0
+2608.0,San Luis,Arizona,2013,7,Truck,2057.0
+2404.0,Tornillo,Texas,2013,7,Bus,0.0
+2307.0,Rio Grande City,Texas,2013,11,Personal Vehicle,62054.0
+2403.0,Presidio,Texas,2013,11,Truck,842.0
+2503.0,Calexico,California,2013,7,Truck,0.0
+2303.0,Eagle Pass,Texas,2013,9,Personal Vehicle,387776.0
+2402.0,El Paso,Texas,2013,8,Personal Vehicle,1542670.0
+2606.0,Sasabe,Arizona,2013,11,Truck,0.0
+2307.0,Rio Grande City,Texas,2013,10,Truck,2463.0
+2304.0,Laredo,Texas,2013,11,Truck,153908.0
+2604.0,Nogales,Arizona,2013,7,Bus,21409.0
+2408.0,Santa Teresa,New Mexico,2013,11,Bus,120.0
+2503.0,Calexico,California,2013,10,Personal Vehicle,616449.0
+2301.0,Brownsville,Texas,2013,11,Pedestrian,175981.0
+2503.0,Calexico,California,2013,11,Personal Vehicle,607517.0
+2305.0,Hidalgo,Texas,2013,12,Bus,41434.0
+2601.0,Douglas,Arizona,2013,12,Pedestrian,190455.0
+2309.0,Progreso,Texas,2013,11,Personal Vehicle,213656.0
+2502.0,Andrade,California,2013,12,Personal Vehicle,74255.0
+2305.0,Hidalgo,Texas,2013,6,Train,0.0
+2303.0,Eagle Pass,Texas,2013,8,Pedestrian,67610.0
+2505.0,Tecate,California,2013,6,Bus,95.0
+2502.0,Andrade,California,2013,11,Personal Vehicle,63362.0
+2309.0,Progreso,Texas,2013,7,Train,0.0
+2601.0,Douglas,Arizona,2013,12,Bus,1119.0
+2502.0,Andrade,California,2013,5,Personal Vehicle,65181.0
+2602.0,Lukeville,Arizona,2013,6,Bus,226.0
+2310.0,Roma,Texas,2013,10,Pedestrian,21810.0
+2406.0,Columbus,New Mexico,2013,10,Train,0.0
+2408.0,Santa Teresa,New Mexico,2013,8,Personal Vehicle,98327.0
+2506.0,Otay Mesa,California,2013,11,Pedestrian,261707.0
+2506.0,Otay Mesa,California,2013,10,Train,38.0
+2406.0,Columbus,New Mexico,2013,9,Truck,1951.0
+2606.0,Sasabe,Arizona,2013,7,Train,0.0
+2408.0,Santa Teresa,New Mexico,2013,12,Bus,105.0
+2604.0,Nogales,Arizona,2013,11,Personal Vehicle,595030.0
+2304.0,Laredo,Texas,2013,11,Pedestrian,285624.0
+2402.0,El Paso,Texas,2013,6,Train,0.0
+2505.0,Tecate,California,2013,11,Pedestrian,63898.0
+2303.0,Eagle Pass,Texas,2013,12,Pedestrian,85116.0
+2502.0,Andrade,California,2013,12,Train,0.0
+2602.0,Lukeville,Arizona,2013,10,Bus,194.0
+2604.0,Nogales,Arizona,2013,7,Personal Vehicle,611143.0
+2507.0,Calexico East,California,2013,11,Train,20.0
+2301.0,Brownsville,Texas,2013,9,Personal Vehicle,666120.0
+2307.0,Rio Grande City,Texas,2013,7,Truck,2269.0
+2604.0,Nogales,Arizona,2013,5,Pedestrian,262866.0
+2302.0,Del Rio,Texas,2013,9,Train,0.0
+2603.0,Naco,Arizona,2013,12,Personal Vehicle,51857.0
+2302.0,Del Rio,Texas,2013,8,Train,0.0
+2506.0,Otay Mesa,California,2013,7,Bus,17900.0
+2309.0,Progreso,Texas,2013,10,Personal Vehicle,188029.0
+2604.0,Nogales,Arizona,2013,9,Truck,14399.0
+2503.0,Calexico,California,2013,10,Train,0.0
+2303.0,Eagle Pass,Texas,2013,7,Train,0.0
+2309.0,Progreso,Texas,2013,11,Pedestrian,57348.0
+2606.0,Sasabe,Arizona,2013,12,Train,0.0
+2406.0,Columbus,New Mexico,2013,7,Truck,664.0
+2506.0,Otay Mesa,California,2013,8,Bus,14009.0
+2504.0,San Ysidro,California,2013,9,Train,0.0
+2301.0,Brownsville,Texas,2013,5,Pedestrian,189919.0
+2404.0,Tornillo,Texas,2013,6,Pedestrian,4246.0
+2603.0,Naco,Arizona,2013,10,Train,0.0
+2408.0,Santa Teresa,New Mexico,2013,10,Train,0.0
+2408.0,Santa Teresa,New Mexico,2013,5,Personal Vehicle,73668.0
+2504.0,San Ysidro,California,2013,6,Bus,44343.0
+2608.0,San Luis,Arizona,2013,7,Pedestrian,137184.0
+2307.0,Rio Grande City,Texas,2013,6,Train,0.0
+2304.0,Laredo,Texas,2013,10,Bus,59054.0
+2503.0,Calexico,California,2013,9,Pedestrian,389821.0
+2507.0,Calexico East,California,2013,10,Truck,27907.0
+2505.0,Tecate,California,2013,5,Pedestrian,66796.0
+2403.0,Presidio,Texas,2013,6,Pedestrian,4644.0
+2310.0,Roma,Texas,2013,5,Truck,620.0
+2406.0,Columbus,New Mexico,2013,7,Pedestrian,21586.0
+2604.0,Nogales,Arizona,2013,7,Truck,16888.0
+2606.0,Sasabe,Arizona,2013,9,Truck,0.0
+2602.0,Lukeville,Arizona,2013,9,Truck,1.0
+2404.0,Tornillo,Texas,2013,11,Train,0.0
+2307.0,Rio Grande City,Texas,2013,6,Bus,0.0
+2502.0,Andrade,California,2013,5,Bus,0.0
+2307.0,Rio Grande City,Texas,2013,9,Pedestrian,3949.0
+2305.0,Hidalgo,Texas,2013,9,Bus,22169.0
+2305.0,Hidalgo,Texas,2013,11,Personal Vehicle,810354.0
+2301.0,Brownsville,Texas,2013,5,Bus,4138.0
+2402.0,El Paso,Texas,2013,8,Bus,38373.0
+2304.0,Laredo,Texas,2013,7,Pedestrian,323406.0
+2504.0,San Ysidro,California,2013,6,Truck,0.0
+2506.0,Otay Mesa,California,2013,7,Pedestrian,321816.0
+2305.0,Hidalgo,Texas,2013,10,Truck,45592.0
+2408.0,Santa Teresa,New Mexico,2013,9,Bus,178.0
+2604.0,Nogales,Arizona,2013,5,Bus,13899.0
+2302.0,Del Rio,Texas,2013,6,Train,0.0
+2505.0,Tecate,California,2013,11,Personal Vehicle,118906.0
+2310.0,Roma,Texas,2013,11,Train,0.0
+2604.0,Nogales,Arizona,2013,11,Bus,13764.0
+2403.0,Presidio,Texas,2013,9,Personal Vehicle,98184.0
+2408.0,Santa Teresa,New Mexico,2013,9,Personal Vehicle,75811.0
+2408.0,Santa Teresa,New Mexico,2013,12,Train,0.0
+2606.0,Sasabe,Arizona,2013,12,Truck,0.0
+2408.0,Santa Teresa,New Mexico,2013,9,Train,0.0
+2608.0,San Luis,Arizona,2013,9,Truck,1860.0
+2403.0,Presidio,Texas,2013,12,Personal Vehicle,114295.0
+2304.0,Laredo,Texas,2013,12,Personal Vehicle,967883.0
+2608.0,San Luis,Arizona,2013,11,Bus,4.0
+2602.0,Lukeville,Arizona,2013,11,Personal Vehicle,42452.0
+2302.0,Del Rio,Texas,2013,10,Bus,0.0
+2504.0,San Ysidro,California,2013,10,Pedestrian,709197.0
+2302.0,Del Rio,Texas,2013,7,Bus,0.0
+2303.0,Eagle Pass,Texas,2013,5,Bus,1774.0
+2507.0,Calexico East,California,2013,12,Truck,26580.0
+2602.0,Lukeville,Arizona,2013,9,Train,0.0
+2304.0,Laredo,Texas,2013,10,Personal Vehicle,763530.0
+2305.0,Hidalgo,Texas,2013,8,Bus,29113.0
+2406.0,Columbus,New Mexico,2013,9,Train,0.0
+2601.0,Douglas,Arizona,2013,7,Train,0.0
+2608.0,San Luis,Arizona,2013,8,Truck,1961.0
+2309.0,Progreso,Texas,2013,5,Truck,3919.0
+2502.0,Andrade,California,2013,7,Bus,0.0
+2307.0,Rio Grande City,Texas,2013,12,Train,0.0
+2507.0,Calexico East,California,2013,12,Pedestrian,53607.0
+2602.0,Lukeville,Arizona,2013,8,Pedestrian,3560.0
+2502.0,Andrade,California,2013,7,Train,0.0
+2507.0,Calexico East,California,2013,7,Bus,9240.0
+2402.0,El Paso,Texas,2013,5,Pedestrian,422575.0
+2602.0,Lukeville,Arizona,2013,7,Bus,243.0
+2608.0,San Luis,Arizona,2013,8,Bus,3.0
+2608.0,San Luis,Arizona,2013,10,Bus,3.0
+2601.0,Douglas,Arizona,2013,11,Pedestrian,175727.0
+2604.0,Nogales,Arizona,2013,10,Pedestrian,230020.0
+2301.0,Brownsville,Texas,2013,7,Pedestrian,180730.0
+2310.0,Roma,Texas,2013,11,Bus,484.0
+2302.0,Del Rio,Texas,2013,12,Pedestrian,8809.0
+2406.0,Columbus,New Mexico,2013,6,Pedestrian,19588.0
+2303.0,Eagle Pass,Texas,2013,11,Pedestrian,71482.0
+2406.0,Columbus,New Mexico,2013,10,Truck,2832.0
+2603.0,Naco,Arizona,2013,9,Personal Vehicle,41505.0
+2602.0,Lukeville,Arizona,2013,11,Bus,199.0
+2305.0,Hidalgo,Texas,2013,11,Train,0.0
+2608.0,San Luis,Arizona,2013,11,Truck,2434.0
+2602.0,Lukeville,Arizona,2013,9,Bus,194.0
+2303.0,Eagle Pass,Texas,2013,7,Personal Vehicle,441274.0
+2502.0,Andrade,California,2013,7,Truck,0.0
+2503.0,Calexico,California,2013,6,Pedestrian,391961.0
+2505.0,Tecate,California,2013,9,Bus,340.0
+2603.0,Naco,Arizona,2013,7,Pedestrian,4454.0
+2303.0,Eagle Pass,Texas,2013,9,Bus,1708.0
+2502.0,Andrade,California,2013,8,Truck,0.0
+2406.0,Columbus,New Mexico,2013,12,Pedestrian,27304.0
+2305.0,Hidalgo,Texas,2013,5,Truck,45343.0
+2502.0,Andrade,California,2013,11,Train,0.0
+2302.0,Del Rio,Texas,2013,10,Truck,6300.0
+2606.0,Sasabe,Arizona,2013,6,Bus,0.0
+2310.0,Roma,Texas,2013,7,Personal Vehicle,106541.0
+2506.0,Otay Mesa,California,2013,12,Truck,59686.0
+2307.0,Rio Grande City,Texas,2013,10,Pedestrian,4738.0
+2506.0,Otay Mesa,California,2013,6,Pedestrian,280744.0
+2504.0,San Ysidro,California,2013,8,Truck,0.0
+2502.0,Andrade,California,2013,9,Bus,0.0
+2402.0,El Paso,Texas,2013,10,Bus,21142.0
+2505.0,Tecate,California,2013,12,Personal Vehicle,137574.0
+2302.0,Del Rio,Texas,2013,8,Pedestrian,8688.0
+2602.0,Lukeville,Arizona,2013,5,Truck,2.0
+2305.0,Hidalgo,Texas,2013,8,Pedestrian,160057.0
+2503.0,Calexico,California,2013,12,Bus,0.0
+2402.0,El Paso,Texas,2013,6,Pedestrian,439662.0
+2303.0,Eagle Pass,Texas,2013,12,Bus,2362.0
+2503.0,Calexico,California,2013,6,Truck,0.0
+2305.0,Hidalgo,Texas,2013,8,Personal Vehicle,841428.0
+2507.0,Calexico East,California,2013,9,Bus,9400.0
+2304.0,Laredo,Texas,2013,9,Bus,63424.0
+2602.0,Lukeville,Arizona,2013,12,Bus,243.0
+2505.0,Tecate,California,2013,7,Personal Vehicle,132669.0
+2402.0,El Paso,Texas,2013,11,Bus,24642.0
+2506.0,Otay Mesa,California,2013,9,Truck,62304.0
+2305.0,Hidalgo,Texas,2013,11,Truck,42001.0
+2504.0,San Ysidro,California,2013,7,Truck,0.0
+2304.0,Laredo,Texas,2013,12,Train,0.0
+2603.0,Naco,Arizona,2013,5,Bus,20.0
+2506.0,Otay Mesa,California,2013,10,Personal Vehicle,950396.0
+2601.0,Douglas,Arizona,2013,5,Train,0.0
+2504.0,San Ysidro,California,2013,8,Personal Vehicle,1757175.0
+2606.0,Sasabe,Arizona,2013,10,Train,0.0
+2402.0,El Paso,Texas,2013,8,Pedestrian,613367.0
+2408.0,Santa Teresa,New Mexico,2013,11,Pedestrian,11509.0
+2505.0,Tecate,California,2013,9,Pedestrian,53309.0
+2307.0,Rio Grande City,Texas,2013,12,Pedestrian,5958.0
+2302.0,Del Rio,Texas,2013,12,Truck,4569.0
+2303.0,Eagle Pass,Texas,2013,10,Personal Vehicle,387749.0
+2303.0,Eagle Pass,Texas,2013,8,Bus,2026.0
+2402.0,El Paso,Texas,2013,10,Pedestrian,515752.0
+2603.0,Naco,Arizona,2013,6,Pedestrian,4583.0
+2503.0,Calexico,California,2013,12,Truck,0.0
+2301.0,Brownsville,Texas,2013,12,Pedestrian,192923.0
+2404.0,Tornillo,Texas,2013,7,Truck,0.0
+2310.0,Roma,Texas,2013,10,Train,0.0
+2504.0,San Ysidro,California,2013,10,Truck,0.0
+2408.0,Santa Teresa,New Mexico,2013,9,Truck,6561.0
+2307.0,Rio Grande City,Texas,2013,8,Bus,0.0
+2606.0,Sasabe,Arizona,2013,6,Personal Vehicle,2023.0
+2310.0,Roma,Texas,2013,7,Train,0.0
+2301.0,Brownsville,Texas,2013,10,Train,0.0
+2608.0,San Luis,Arizona,2013,7,Train,0.0
+2603.0,Naco,Arizona,2013,6,Bus,82.0
+2402.0,El Paso,Texas,2013,10,Train,0.0
+2309.0,Progreso,Texas,2013,12,Pedestrian,69243.0
+2309.0,Progreso,Texas,2013,5,Bus,0.0
+2408.0,Santa Teresa,New Mexico,2013,7,Train,0.0
+2302.0,Del Rio,Texas,2013,9,Bus,0.0
+2403.0,Presidio,Texas,2013,5,Bus,572.0
+2404.0,Tornillo,Texas,2013,8,Bus,0.0
+2309.0,Progreso,Texas,2013,8,Personal Vehicle,205690.0
+2606.0,Sasabe,Arizona,2013,11,Bus,0.0
+2302.0,Del Rio,Texas,2013,6,Pedestrian,7962.0
+2602.0,Lukeville,Arizona,2013,11,Train,0.0
+2404.0,Tornillo,Texas,2013,10,Truck,0.0
+2402.0,El Paso,Texas,2013,12,Pedestrian,584031.0
+2302.0,Del Rio,Texas,2013,8,Bus,0.0
+2507.0,Calexico East,California,2013,8,Bus,9760.0
+2604.0,Nogales,Arizona,2013,8,Pedestrian,233906.0
+2507.0,Calexico East,California,2013,5,Bus,11640.0
+2309.0,Progreso,Texas,2013,11,Train,0.0
+2505.0,Tecate,California,2013,10,Bus,367.0
+2608.0,San Luis,Arizona,2013,10,Pedestrian,206218.0
+2505.0,Tecate,California,2013,10,Pedestrian,60522.0
+2304.0,Laredo,Texas,2013,9,Train,0.0
+2608.0,San Luis,Arizona,2013,5,Bus,18.0
+2502.0,Andrade,California,2013,6,Bus,0.0
+2309.0,Progreso,Texas,2013,6,Pedestrian,43411.0
+2606.0,Sasabe,Arizona,2013,7,Truck,0.0
+2301.0,Brownsville,Texas,2013,9,Truck,16765.0
+2507.0,Calexico East,California,2013,8,Train,22.0
+2301.0,Brownsville,Texas,2013,12,Train,0.0
+2305.0,Hidalgo,Texas,2013,7,Personal Vehicle,900486.0
+2301.0,Brownsville,Texas,2013,12,Truck,15040.0
+2504.0,San Ysidro,California,2013,12,Personal Vehicle,1813172.0
+2310.0,Roma,Texas,2013,12,Personal Vehicle,130851.0
+2309.0,Progreso,Texas,2013,9,Train,0.0
+2608.0,San Luis,Arizona,2013,6,Personal Vehicle,400132.0
+2503.0,Calexico,California,2013,7,Pedestrian,373278.0
+2404.0,Tornillo,Texas,2013,5,Pedestrian,6686.0
+2505.0,Tecate,California,2013,11,Train,0.0
+2402.0,El Paso,Texas,2013,12,Train,0.0
+2301.0,Brownsville,Texas,2013,8,Train,0.0
+2303.0,Eagle Pass,Texas,2013,6,Personal Vehicle,403295.0
+2506.0,Otay Mesa,California,2013,11,Truck,64803.0
+2604.0,Nogales,Arizona,2013,5,Personal Vehicle,515871.0
+2305.0,Hidalgo,Texas,2013,7,Bus,34065.0
+2404.0,Tornillo,Texas,2013,9,Bus,0.0
+2604.0,Nogales,Arizona,2013,12,Pedestrian,284860.0
+2503.0,Calexico,California,2013,6,Personal Vehicle,604387.0
+2302.0,Del Rio,Texas,2013,10,Personal Vehicle,217897.0
+2305.0,Hidalgo,Texas,2013,6,Personal Vehicle,802076.0
+2304.0,Laredo,Texas,2013,7,Personal Vehicle,915383.0
+2504.0,San Ysidro,California,2013,7,Personal Vehicle,1744088.0
+2408.0,Santa Teresa,New Mexico,2013,8,Train,0.0
+2502.0,Andrade,California,2013,11,Pedestrian,81284.0
+2404.0,Tornillo,Texas,2013,10,Pedestrian,7306.0
+2307.0,Rio Grande City,Texas,2013,7,Train,0.0
+2602.0,Lukeville,Arizona,2013,6,Truck,1.0
+2404.0,Tornillo,Texas,2013,11,Personal Vehicle,49252.0
+2307.0,Rio Grande City,Texas,2013,5,Pedestrian,2997.0
+2601.0,Douglas,Arizona,2013,12,Personal Vehicle,252329.0
+2603.0,Naco,Arizona,2013,5,Pedestrian,7259.0
+2502.0,Andrade,California,2013,9,Train,0.0
+2603.0,Naco,Arizona,2013,10,Truck,320.0
+2404.0,Tornillo,Texas,2013,5,Truck,0.0
+2408.0,Santa Teresa,New Mexico,2013,6,Truck,7248.0
+2505.0,Tecate,California,2013,7,Bus,63.0
+2305.0,Hidalgo,Texas,2013,10,Personal Vehicle,753939.0
+2602.0,Lukeville,Arizona,2013,6,Personal Vehicle,71530.0
+2404.0,Tornillo,Texas,2013,7,Pedestrian,3156.0
+2408.0,Santa Teresa,New Mexico,2013,5,Train,0.0
+2504.0,San Ysidro,California,2013,6,Pedestrian,603221.0
+2506.0,Otay Mesa,California,2013,8,Pedestrian,293265.0
+2506.0,Otay Mesa,California,2013,12,Bus,17478.0
+2301.0,Brownsville,Texas,2013,12,Personal Vehicle,789476.0
+2402.0,El Paso,Texas,2013,5,Bus,25856.0
+2404.0,Tornillo,Texas,2013,8,Truck,0.0
+2304.0,Laredo,Texas,2013,11,Bus,65154.0
+2309.0,Progreso,Texas,2013,7,Pedestrian,43846.0
+2601.0,Douglas,Arizona,2013,9,Personal Vehicle,216376.0
+2601.0,Douglas,Arizona,2013,11,Personal Vehicle,226262.0
+2603.0,Naco,Arizona,2013,8,Train,0.0
+2408.0,Santa Teresa,New Mexico,2013,10,Pedestrian,9340.0
+2406.0,Columbus,New Mexico,2013,5,Bus,1164.0
+2307.0,Rio Grande City,Texas,2013,5,Bus,0.0
+2602.0,Lukeville,Arizona,2013,11,Truck,14.0
+2402.0,El Paso,Texas,2013,5,Train,0.0
+2301.0,Brownsville,Texas,2013,6,Truck,17105.0
+2302.0,Del Rio,Texas,2013,9,Pedestrian,8192.0
+2601.0,Douglas,Arizona,2013,9,Train,0.0
+2606.0,Sasabe,Arizona,2013,12,Bus,0.0
+2506.0,Otay Mesa,California,2013,7,Truck,66602.0
+2305.0,Hidalgo,Texas,2013,6,Truck,41184.0
+2303.0,Eagle Pass,Texas,2013,11,Personal Vehicle,377639.0
+2310.0,Roma,Texas,2013,5,Bus,490.0
+2310.0,Roma,Texas,2013,9,Truck,550.0
+2305.0,Hidalgo,Texas,2013,5,Pedestrian,181674.0
+2506.0,Otay Mesa,California,2013,9,Personal Vehicle,920558.0
+2608.0,San Luis,Arizona,2013,6,Train,0.0
+2303.0,Eagle Pass,Texas,2013,8,Truck,10227.0
+2304.0,Laredo,Texas,2013,11,Train,0.0
+2404.0,Tornillo,Texas,2013,10,Train,0.0
+2502.0,Andrade,California,2013,12,Bus,0.0
+2601.0,Douglas,Arizona,2013,6,Pedestrian,136592.0
+2305.0,Hidalgo,Texas,2013,11,Pedestrian,186307.0
+2606.0,Sasabe,Arizona,2013,10,Bus,0.0
+2406.0,Columbus,New Mexico,2013,10,Bus,1284.0
+2402.0,El Paso,Texas,2013,10,Truck,68339.0
+2408.0,Santa Teresa,New Mexico,2013,11,Train,0.0
+2309.0,Progreso,Texas,2013,8,Train,0.0
+2309.0,Progreso,Texas,2013,10,Pedestrian,47985.0
+2406.0,Columbus,New Mexico,2013,8,Bus,1488.0
+2505.0,Tecate,California,2013,5,Train,0.0
+2304.0,Laredo,Texas,2013,12,Truck,142531.0
+2303.0,Eagle Pass,Texas,2013,11,Bus,1807.0
+2602.0,Lukeville,Arizona,2013,8,Truck,1.0
+2309.0,Progreso,Texas,2013,8,Pedestrian,43304.0
+2408.0,Santa Teresa,New Mexico,2013,6,Personal Vehicle,76054.0
+2307.0,Rio Grande City,Texas,2013,10,Train,0.0
+2310.0,Roma,Texas,2013,12,Pedestrian,24833.0
+2408.0,Santa Teresa,New Mexico,2013,6,Pedestrian,9423.0
+2305.0,Hidalgo,Texas,2013,7,Train,0.0
+2608.0,San Luis,Arizona,2013,6,Truck,2265.0
+2310.0,Roma,Texas,2013,8,Truck,567.0
+2403.0,Presidio,Texas,2013,6,Truck,692.0
+2608.0,San Luis,Arizona,2013,9,Personal Vehicle,406349.0
+2602.0,Lukeville,Arizona,2013,11,Pedestrian,3723.0
+2507.0,Calexico East,California,2013,7,Train,21.0
+2602.0,Lukeville,Arizona,2013,7,Personal Vehicle,72607.0
+2505.0,Tecate,California,2013,12,Truck,3984.0
+2310.0,Roma,Texas,2013,6,Truck,597.0
+2503.0,Calexico,California,2013,8,Truck,0.0
+2307.0,Rio Grande City,Texas,2013,11,Train,0.0
+2503.0,Calexico,California,2013,9,Truck,0.0
+2402.0,El Paso,Texas,2013,9,Truck,59693.0
+2502.0,Andrade,California,2013,7,Personal Vehicle,66309.0
+2601.0,Douglas,Arizona,2013,8,Personal Vehicle,229901.0
+2505.0,Tecate,California,2013,9,Personal Vehicle,122018.0
+2601.0,Douglas,Arizona,2013,10,Pedestrian,173954.0
+2403.0,Presidio,Texas,2013,5,Personal Vehicle,101601.0
+2307.0,Rio Grande City,Texas,2013,9,Bus,0.0
+2504.0,San Ysidro,California,2013,9,Pedestrian,638808.0
+2603.0,Naco,Arizona,2013,9,Truck,326.0
+2304.0,Laredo,Texas,2013,5,Pedestrian,300737.0
+2503.0,Calexico,California,2013,5,Personal Vehicle,612518.0
+2506.0,Otay Mesa,California,2013,9,Bus,13795.0
+2302.0,Del Rio,Texas,2013,6,Bus,0.0
+2305.0,Hidalgo,Texas,2013,9,Truck,39363.0
+2403.0,Presidio,Texas,2013,6,Train,0.0
+2606.0,Sasabe,Arizona,2013,8,Truck,0.0
+2404.0,Tornillo,Texas,2013,6,Bus,0.0
+2309.0,Progreso,Texas,2013,8,Truck,4037.0
+2310.0,Roma,Texas,2013,9,Personal Vehicle,104868.0
+2507.0,Calexico East,California,2013,6,Bus,9720.0
+2304.0,Laredo,Texas,2013,6,Pedestrian,285038.0
+2303.0,Eagle Pass,Texas,2013,10,Bus,1350.0
+2402.0,El Paso,Texas,2013,7,Pedestrian,519188.0
+2503.0,Calexico,California,2013,10,Truck,0.0
+2309.0,Progreso,Texas,2013,9,Truck,2811.0
+2601.0,Douglas,Arizona,2013,5,Truck,2750.0
+2402.0,El Paso,Texas,2013,11,Pedestrian,511374.0
+2302.0,Del Rio,Texas,2013,7,Truck,5671.0
+2307.0,Rio Grande City,Texas,2013,12,Bus,0.0
+2404.0,Tornillo,Texas,2013,11,Pedestrian,5687.0
+2310.0,Roma,Texas,2013,9,Bus,404.0
+2504.0,San Ysidro,California,2013,10,Personal Vehicle,1624023.0
+2506.0,Otay Mesa,California,2013,7,Personal Vehicle,1036855.0
+2303.0,Eagle Pass,Texas,2013,6,Pedestrian,59983.0
+2601.0,Douglas,Arizona,2013,7,Pedestrian,137977.0
+2305.0,Hidalgo,Texas,2013,6,Bus,24998.0
+2608.0,San Luis,Arizona,2013,8,Personal Vehicle,423341.0
+2404.0,Tornillo,Texas,2013,12,Train,0.0
+2505.0,Tecate,California,2013,9,Train,0.0
+2507.0,Calexico East,California,2013,6,Truck,26735.0
+2507.0,Calexico East,California,2013,5,Train,22.0
+2408.0,Santa Teresa,New Mexico,2013,8,Bus,349.0
+2506.0,Otay Mesa,California,2013,10,Pedestrian,268796.0
+2506.0,Otay Mesa,California,2013,12,Pedestrian,291416.0
+2603.0,Naco,Arizona,2013,11,Train,0.0
+2304.0,Laredo,Texas,2013,10,Pedestrian,271373.0
+2307.0,Rio Grande City,Texas,2013,7,Pedestrian,4304.0
+2406.0,Columbus,New Mexico,2013,11,Train,0.0
+2504.0,San Ysidro,California,2013,11,Pedestrian,716656.0
+2504.0,San Ysidro,California,2013,10,Train,0.0
+2301.0,Brownsville,Texas,2013,10,Pedestrian,180061.0
+2505.0,Tecate,California,2013,10,Truck,4468.0
+2507.0,Calexico East,California,2013,6,Train,20.0
+2301.0,Brownsville,Texas,2013,8,Bus,5717.0
+2403.0,Presidio,Texas,2013,7,Personal Vehicle,118795.0
+2301.0,Brownsville,Texas,2013,5,Personal Vehicle,712494.0
+2602.0,Lukeville,Arizona,2013,8,Personal Vehicle,43454.0
+2502.0,Andrade,California,2013,10,Bus,0.0
+2310.0,Roma,Texas,2013,12,Truck,626.0
+2408.0,Santa Teresa,New Mexico,2013,10,Truck,7552.0
+2603.0,Naco,Arizona,2013,8,Truck,357.0
+2602.0,Lukeville,Arizona,2013,8,Bus,189.0
+2310.0,Roma,Texas,2013,5,Train,0.0
+2302.0,Del Rio,Texas,2013,8,Personal Vehicle,225776.0
+2604.0,Nogales,Arizona,2013,11,Train,318.0
+2307.0,Rio Grande City,Texas,2013,8,Personal Vehicle,61417.0
+2309.0,Progreso,Texas,2013,5,Train,0.0
+2507.0,Calexico East,California,2013,7,Pedestrian,18801.0
+2309.0,Progreso,Texas,2013,7,Truck,4125.0
+2603.0,Naco,Arizona,2013,8,Pedestrian,7458.0
+2301.0,Brownsville,Texas,2013,12,Bus,5351.0
+2506.0,Otay Mesa,California,2013,10,Bus,25401.0
+2301.0,Brownsville,Texas,2013,11,Truck,16474.0
+2604.0,Nogales,Arizona,2013,10,Train,300.0
+2403.0,Presidio,Texas,2013,10,Train,0.0
+2304.0,Laredo,Texas,2013,6,Truck,149460.0
+2301.0,Brownsville,Texas,2013,6,Personal Vehicle,695744.0
+2301.0,Brownsville,Texas,2013,5,Truck,18174.0
+2608.0,San Luis,Arizona,2013,8,Train,0.0
+2309.0,Progreso,Texas,2013,5,Pedestrian,50172.0
+2503.0,Calexico,California,2013,8,Pedestrian,394447.0
+2506.0,Otay Mesa,California,2013,8,Personal Vehicle,1019263.0
+2406.0,Columbus,New Mexico,2013,5,Personal Vehicle,45584.0
+2505.0,Tecate,California,2013,5,Truck,4247.0
+2301.0,Brownsville,Texas,2013,10,Truck,18696.0
+2408.0,Santa Teresa,New Mexico,2013,8,Truck,7024.0
+2303.0,Eagle Pass,Texas,2013,9,Train,0.0
+2402.0,El Paso,Texas,2013,6,Personal Vehicle,1444921.0
+2404.0,Tornillo,Texas,2013,9,Pedestrian,6455.0
+2402.0,El Paso,Texas,2013,7,Personal Vehicle,1537524.0
+2608.0,San Luis,Arizona,2013,7,Personal Vehicle,424776.0
+2310.0,Roma,Texas,2013,11,Personal Vehicle,110135.0
+2608.0,San Luis,Arizona,2013,6,Pedestrian,147524.0
+2603.0,Naco,Arizona,2013,7,Truck,330.0
+2603.0,Naco,Arizona,2013,12,Truck,281.0
+2606.0,Sasabe,Arizona,2013,10,Pedestrian,59.0
+2305.0,Hidalgo,Texas,2013,9,Personal Vehicle,726304.0
+2604.0,Nogales,Arizona,2013,12,Train,232.0
+2301.0,Brownsville,Texas,2013,10,Bus,3606.0
+2608.0,San Luis,Arizona,2013,6,Bus,0.0
+2603.0,Naco,Arizona,2013,12,Train,0.0
+2406.0,Columbus,New Mexico,2013,6,Personal Vehicle,46363.0
+2504.0,San Ysidro,California,2013,7,Pedestrian,634177.0
+2507.0,Calexico East,California,2013,8,Truck,26971.0
+2301.0,Brownsville,Texas,2013,6,Bus,4164.0
+2608.0,San Luis,Arizona,2013,12,Personal Vehicle,477048.0
+2603.0,Naco,Arizona,2013,6,Personal Vehicle,41363.0
+2505.0,Tecate,California,2013,8,Train,0.0
+2608.0,San Luis,Arizona,2013,8,Pedestrian,151061.0
+2406.0,Columbus,New Mexico,2013,12,Train,0.0
+2606.0,Sasabe,Arizona,2013,7,Bus,0.0
+2302.0,Del Rio,Texas,2013,11,Personal Vehicle,221903.0
+2403.0,Presidio,Texas,2013,6,Personal Vehicle,104685.0
+2304.0,Laredo,Texas,2013,8,Personal Vehicle,861487.0
+2601.0,Douglas,Arizona,2013,5,Bus,1360.0
+2402.0,El Paso,Texas,2013,9,Bus,22452.0
+2402.0,El Paso,Texas,2013,9,Pedestrian,481967.0
+2603.0,Naco,Arizona,2013,11,Pedestrian,7183.0
+2603.0,Naco,Arizona,2013,11,Bus,16.0
+2503.0,Calexico,California,2013,5,Train,0.0
+2309.0,Progreso,Texas,2013,6,Train,0.0
+2604.0,Nogales,Arizona,2013,6,Bus,13811.0
+2309.0,Progreso,Texas,2013,6,Bus,0.0
+2310.0,Roma,Texas,2013,12,Bus,1517.0
+2404.0,Tornillo,Texas,2013,9,Personal Vehicle,45330.0
+2603.0,Naco,Arizona,2013,7,Personal Vehicle,44494.0
+2505.0,Tecate,California,2013,6,Truck,4049.0
+2404.0,Tornillo,Texas,2013,6,Truck,0.0
+2505.0,Tecate,California,2013,8,Bus,227.0
+2302.0,Del Rio,Texas,2013,12,Train,0.0
+2502.0,Andrade,California,2013,8,Bus,0.0
+2606.0,Sasabe,Arizona,2013,9,Pedestrian,58.0
+2302.0,Del Rio,Texas,2013,11,Truck,5622.0
+2608.0,San Luis,Arizona,2013,9,Pedestrian,167734.0
+2301.0,Brownsville,Texas,2013,7,Truck,17657.0
+2303.0,Eagle Pass,Texas,2013,8,Train,0.0
+2303.0,Eagle Pass,Texas,2013,10,Truck,11139.0
+2604.0,Nogales,Arizona,2013,8,Personal Vehicle,577485.0
+2305.0,Hidalgo,Texas,2013,8,Train,0.0
+2506.0,Otay Mesa,California,2013,8,Truck,68102.0
+2606.0,Sasabe,Arizona,2013,9,Personal Vehicle,2199.0
+2506.0,Otay Mesa,California,2013,7,Train,44.0
+2505.0,Tecate,California,2013,7,Pedestrian,63788.0
+2507.0,Calexico East,California,2013,7,Personal Vehicle,495477.0
+2403.0,Presidio,Texas,2013,9,Truck,755.0
+2603.0,Naco,Arizona,2013,7,Train,0.0
+2305.0,Hidalgo,Texas,2013,9,Pedestrian,151355.0
+2608.0,San Luis,Arizona,2013,10,Personal Vehicle,432314.0
+2604.0,Nogales,Arizona,2013,12,Personal Vehicle,661603.0
+2403.0,Presidio,Texas,2013,2,Pedestrian,4222.0
+2504.0,San Ysidro,California,2013,1,Train,0.0
+2604.0,Nogales,Arizona,2013,4,Pedestrian,271769.0
+2506.0,Otay Mesa,California,2013,1,Bus,11036.0
+2304.0,Laredo,Texas,2013,1,Personal Vehicle,808302.0
+2504.0,San Ysidro,California,2013,3,Personal Vehicle,1644178.0
+2601.0,Douglas,Arizona,2013,2,Bus,1182.0
+2408.0,Santa Teresa,New Mexico,2013,3,Personal Vehicle,80893.0
+2404.0,Tornillo,Texas,2013,2,Truck,0.0
+2602.0,Lukeville,Arizona,2013,4,Pedestrian,2198.0
+2301.0,Brownsville,Texas,2013,2,Bus,3626.0
+2408.0,Santa Teresa,New Mexico,2013,2,Pedestrian,7152.0
+2404.0,Tornillo,Texas,2013,2,Personal Vehicle,46241.0
+2606.0,Sasabe,Arizona,2013,4,Truck,0.0
+2503.0,Calexico,California,2013,4,Bus,0.0
+2304.0,Laredo,Texas,2013,4,Truck,163867.0
+2304.0,Laredo,Texas,2013,2,Truck,142181.0
+2402.0,El Paso,Texas,2013,3,Personal Vehicle,1444472.0
+2504.0,San Ysidro,California,2013,4,Truck,0.0
+2406.0,Columbus,New Mexico,2013,4,Personal Vehicle,41716.0
+2404.0,Tornillo,Texas,2013,4,Bus,0.0
+2303.0,Eagle Pass,Texas,2013,1,Pedestrian,54391.0
+2602.0,Lukeville,Arizona,2013,1,Truck,3.0
+2603.0,Naco,Arizona,2013,1,Truck,358.0
+2602.0,Lukeville,Arizona,2013,4,Truck,4.0
+2505.0,Tecate,California,2013,2,Personal Vehicle,106362.0
+2606.0,Sasabe,Arizona,2013,2,Bus,0.0
+2305.0,Hidalgo,Texas,2013,1,Pedestrian,162219.0
+2402.0,El Paso,Texas,2013,2,Train,0.0
+2603.0,Naco,Arizona,2013,2,Pedestrian,6406.0
+2303.0,Eagle Pass,Texas,2013,2,Bus,877.0
+2302.0,Del Rio,Texas,2013,2,Pedestrian,7260.0
+2506.0,Otay Mesa,California,2013,4,Train,46.0
+2505.0,Tecate,California,2013,1,Train,0.0
+2604.0,Nogales,Arizona,2013,2,Pedestrian,213181.0
+2303.0,Eagle Pass,Texas,2013,3,Truck,9271.0
+2502.0,Andrade,California,2013,1,Truck,0.0
+2604.0,Nogales,Arizona,2013,1,Train,272.0
+2307.0,Rio Grande City,Texas,2013,1,Bus,0.0
+2404.0,Tornillo,Texas,2013,3,Pedestrian,6808.0
+2602.0,Lukeville,Arizona,2013,2,Truck,4.0
+2502.0,Andrade,California,2013,3,Truck,0.0
+2303.0,Eagle Pass,Texas,2013,3,Bus,3089.0
+2608.0,San Luis,Arizona,2013,3,Pedestrian,227100.0
+2406.0,Columbus,New Mexico,2013,4,Truck,203.0
+2502.0,Andrade,California,2013,2,Bus,0.0
+2305.0,Hidalgo,Texas,2013,4,Personal Vehicle,751671.0
+2506.0,Otay Mesa,California,2013,1,Personal Vehicle,825712.0
+2303.0,Eagle Pass,Texas,2013,5,Truck,9941.0
+2404.0,Tornillo,Texas,2013,1,Personal Vehicle,49299.0
+2301.0,Brownsville,Texas,2013,2,Train,0.0
+2301.0,Brownsville,Texas,2013,2,Truck,16985.0
+2506.0,Otay Mesa,California,2013,3,Personal Vehicle,847993.0
+2303.0,Eagle Pass,Texas,2013,5,Personal Vehicle,414802.0
+2404.0,Tornillo,Texas,2013,3,Train,0.0
+2403.0,Presidio,Texas,2013,2,Bus,375.0
+2406.0,Columbus,New Mexico,2013,3,Personal Vehicle,48778.0
+2608.0,San Luis,Arizona,2013,1,Personal Vehicle,438764.0
+2307.0,Rio Grande City,Texas,2013,2,Bus,0.0
+2604.0,Nogales,Arizona,2013,4,Train,316.0
+2402.0,El Paso,Texas,2013,4,Pedestrian,484964.0
+2307.0,Rio Grande City,Texas,2013,4,Pedestrian,1580.0
+2601.0,Douglas,Arizona,2013,4,Personal Vehicle,229197.0
+2403.0,Presidio,Texas,2013,4,Pedestrian,4587.0
+2506.0,Otay Mesa,California,2013,2,Train,36.0
+2502.0,Andrade,California,2013,1,Bus,0.0
+2606.0,Sasabe,Arizona,2013,2,Train,0.0
+2403.0,Presidio,Texas,2013,1,Personal Vehicle,100944.0
+2504.0,San Ysidro,California,2013,2,Truck,0.0
+2503.0,Calexico,California,2013,2,Bus,0.0
+2307.0,Rio Grande City,Texas,2013,2,Pedestrian,6036.0
+2301.0,Brownsville,Texas,2013,1,Truck,17350.0
+2602.0,Lukeville,Arizona,2013,2,Bus,199.0
+2302.0,Del Rio,Texas,2013,4,Train,0.0
+2602.0,Lukeville,Arizona,2013,1,Personal Vehicle,35158.0
+2504.0,San Ysidro,California,2013,4,Pedestrian,595983.0
+2404.0,Tornillo,Texas,2013,1,Pedestrian,5610.0
+2504.0,San Ysidro,California,2013,3,Pedestrian,617468.0
+2502.0,Andrade,California,2013,4,Personal Vehicle,65891.0
+2603.0,Naco,Arizona,2013,5,Truck,363.0
+2302.0,Del Rio,Texas,2013,3,Bus,0.0
+2303.0,Eagle Pass,Texas,2013,4,Truck,10206.0
+2507.0,Calexico East,California,2013,3,Truck,27727.0
+2301.0,Brownsville,Texas,2013,3,Personal Vehicle,733914.0
+2402.0,El Paso,Texas,2013,2,Pedestrian,465323.0
+2302.0,Del Rio,Texas,2013,2,Personal Vehicle,193528.0
+2503.0,Calexico,California,2013,3,Pedestrian,414038.0
+2507.0,Calexico East,California,2013,4,Truck,29590.0
+2304.0,Laredo,Texas,2013,2,Personal Vehicle,642132.0
+2602.0,Lukeville,Arizona,2013,1,Bus,211.0
+2608.0,San Luis,Arizona,2013,2,Train,0.0
+2303.0,Eagle Pass,Texas,2013,4,Bus,1502.0
+2305.0,Hidalgo,Texas,2013,2,Train,0.0
+2506.0,Otay Mesa,California,2013,2,Personal Vehicle,733596.0
+2606.0,Sasabe,Arizona,2013,3,Bus,0.0
+2406.0,Columbus,New Mexico,2013,1,Bus,1408.0
+2502.0,Andrade,California,2013,3,Personal Vehicle,70619.0
+2307.0,Rio Grande City,Texas,2013,4,Personal Vehicle,53527.0
+2302.0,Del Rio,Texas,2013,5,Personal Vehicle,224268.0
+2606.0,Sasabe,Arizona,2013,3,Truck,0.0
+2408.0,Santa Teresa,New Mexico,2013,2,Bus,154.0
+2602.0,Lukeville,Arizona,2013,4,Personal Vehicle,52153.0
+2504.0,San Ysidro,California,2013,4,Personal Vehicle,1653543.0
+2309.0,Progreso,Texas,2013,3,Personal Vehicle,233073.0
+2406.0,Columbus,New Mexico,2013,2,Bus,912.0
+2603.0,Naco,Arizona,2013,3,Pedestrian,7231.0
+2503.0,Calexico,California,2013,3,Personal Vehicle,619243.0
+2406.0,Columbus,New Mexico,2013,4,Bus,1092.0
+2304.0,Laredo,Texas,2013,4,Bus,79017.0
+2408.0,Santa Teresa,New Mexico,2013,2,Train,0.0
+2504.0,San Ysidro,California,2013,2,Train,0.0
+2305.0,Hidalgo,Texas,2013,1,Truck,44106.0
+2302.0,Del Rio,Texas,2013,1,Bus,0.0
+2403.0,Presidio,Texas,2013,4,Personal Vehicle,99074.0
+2504.0,San Ysidro,California,2013,1,Pedestrian,629229.0
+2406.0,Columbus,New Mexico,2013,1,Pedestrian,21670.0
+2507.0,Calexico East,California,2013,1,Personal Vehicle,463917.0
+2601.0,Douglas,Arizona,2013,2,Truck,2544.0
+2301.0,Brownsville,Texas,2013,1,Pedestrian,156924.0
+2603.0,Naco,Arizona,2013,4,Pedestrian,6839.0
+2506.0,Otay Mesa,California,2013,2,Bus,10254.0
+2608.0,San Luis,Arizona,2013,5,Truck,2768.0
+2503.0,Calexico,California,2013,4,Personal Vehicle,578691.0
+2302.0,Del Rio,Texas,2013,2,Bus,0.0
+2304.0,Laredo,Texas,2013,1,Pedestrian,284996.0
+2404.0,Tornillo,Texas,2013,4,Train,0.0
+2309.0,Progreso,Texas,2013,1,Bus,0.0
+2310.0,Roma,Texas,2013,1,Truck,544.0
+2507.0,Calexico East,California,2013,4,Train,24.0
+2504.0,San Ysidro,California,2013,4,Bus,49733.0
+2503.0,Calexico,California,2013,1,Bus,0.0
+2406.0,Columbus,New Mexico,2013,3,Pedestrian,25915.0
+2606.0,Sasabe,Arizona,2013,4,Pedestrian,57.0
+2502.0,Andrade,California,2013,1,Personal Vehicle,71363.0
+2603.0,Naco,Arizona,2013,3,Train,0.0
+2506.0,Otay Mesa,California,2013,3,Pedestrian,278070.0
+2604.0,Nogales,Arizona,2013,3,Pedestrian,257573.0
+2604.0,Nogales,Arizona,2013,1,Personal Vehicle,498881.0
+2603.0,Naco,Arizona,2013,3,Personal Vehicle,42487.0
+2608.0,San Luis,Arizona,2013,4,Truck,2893.0
+2507.0,Calexico East,California,2013,2,Personal Vehicle,427258.0
+2602.0,Lukeville,Arizona,2013,1,Train,0.0
+2404.0,Tornillo,Texas,2013,4,Truck,0.0
+2301.0,Brownsville,Texas,2013,3,Train,0.0
+2606.0,Sasabe,Arizona,2013,5,Bus,0.0
+2310.0,Roma,Texas,2013,1,Train,0.0
+2408.0,Santa Teresa,New Mexico,2013,1,Pedestrian,8192.0
+2305.0,Hidalgo,Texas,2013,3,Pedestrian,182651.0
+2506.0,Otay Mesa,California,2013,2,Pedestrian,238858.0
+2504.0,San Ysidro,California,2013,2,Personal Vehicle,1440604.0
+2507.0,Calexico East,California,2013,2,Bus,5600.0
+2608.0,San Luis,Arizona,2013,1,Truck,3848.0
+2601.0,Douglas,Arizona,2013,3,Bus,1812.0
+2304.0,Laredo,Texas,2013,2,Bus,63811.0
+2602.0,Lukeville,Arizona,2013,2,Personal Vehicle,31413.0
+2601.0,Douglas,Arizona,2013,1,Pedestrian,130477.0
+2403.0,Presidio,Texas,2013,4,Truck,768.0
+2310.0,Roma,Texas,2013,3,Personal Vehicle,116650.0
+2403.0,Presidio,Texas,2013,2,Train,0.0
+2310.0,Roma,Texas,2013,3,Bus,1237.0
+2406.0,Columbus,New Mexico,2013,3,Train,0.0
+2303.0,Eagle Pass,Texas,2013,4,Personal Vehicle,393027.0
+2301.0,Brownsville,Texas,2013,3,Bus,5659.0
+2408.0,Santa Teresa,New Mexico,2013,4,Pedestrian,9940.0
+2603.0,Naco,Arizona,2013,1,Train,0.0
+2506.0,Otay Mesa,California,2013,4,Pedestrian,266141.0
+2606.0,Sasabe,Arizona,2013,1,Bus,0.0
+2307.0,Rio Grande City,Texas,2013,4,Train,0.0
+2302.0,Del Rio,Texas,2013,4,Pedestrian,7810.0
+2303.0,Eagle Pass,Texas,2013,4,Pedestrian,62149.0
+2503.0,Calexico,California,2013,3,Train,0.0
+2505.0,Tecate,California,2013,3,Pedestrian,65847.0
+2305.0,Hidalgo,Texas,2013,2,Pedestrian,166935.0
+2601.0,Douglas,Arizona,2013,1,Truck,2837.0
+2602.0,Lukeville,Arizona,2013,2,Pedestrian,2730.0
+2505.0,Tecate,California,2013,4,Pedestrian,67422.0
+2403.0,Presidio,Texas,2013,5,Truck,806.0
+2403.0,Presidio,Texas,2013,3,Train,0.0
+2303.0,Eagle Pass,Texas,2013,1,Bus,2328.0
+2503.0,Calexico,California,2013,2,Personal Vehicle,534529.0
+2506.0,Otay Mesa,California,2013,4,Personal Vehicle,795011.0
+2507.0,Calexico East,California,2013,5,Personal Vehicle,500301.0
+2505.0,Tecate,California,2013,3,Truck,3545.0
+2408.0,Santa Teresa,New Mexico,2013,2,Truck,5925.0
+2406.0,Columbus,New Mexico,2013,2,Truck,229.0
+2604.0,Nogales,Arizona,2013,1,Bus,14049.0
+2506.0,Otay Mesa,California,2013,4,Truck,68186.0
+2304.0,Laredo,Texas,2013,1,Bus,94610.0
+2507.0,Calexico East,California,2013,3,Pedestrian,36613.0
+2503.0,Calexico,California,2013,3,Bus,0.0
+2304.0,Laredo,Texas,2013,1,Truck,149539.0
+2304.0,Laredo,Texas,2013,1,Train,0.0
+2601.0,Douglas,Arizona,2013,3,Personal Vehicle,230816.0
+2309.0,Progreso,Texas,2013,5,Personal Vehicle,197927.0
+2606.0,Sasabe,Arizona,2013,4,Train,0.0
+2303.0,Eagle Pass,Texas,2013,3,Pedestrian,78596.0
+2503.0,Calexico,California,2013,4,Train,0.0
+2604.0,Nogales,Arizona,2013,4,Truck,36270.0
+2303.0,Eagle Pass,Texas,2013,1,Truck,9850.0
+2302.0,Del Rio,Texas,2013,3,Truck,5728.0
+2309.0,Progreso,Texas,2013,1,Personal Vehicle,191551.0
+2303.0,Eagle Pass,Texas,2013,4,Train,0.0
+2403.0,Presidio,Texas,2013,1,Bus,610.0
+2505.0,Tecate,California,2013,2,Pedestrian,53708.0
+2608.0,San Luis,Arizona,2013,3,Personal Vehicle,426014.0
+2502.0,Andrade,California,2013,4,Truck,0.0
+2301.0,Brownsville,Texas,2013,3,Truck,16990.0
+2608.0,San Luis,Arizona,2013,3,Bus,0.0
+2604.0,Nogales,Arizona,2013,3,Train,324.0
+2309.0,Progreso,Texas,2013,4,Train,0.0
+2403.0,Presidio,Texas,2013,4,Train,0.0
+2304.0,Laredo,Texas,2013,2,Train,0.0
+2505.0,Tecate,California,2013,4,Bus,62.0
+2603.0,Naco,Arizona,2013,4,Personal Vehicle,39417.0
+2404.0,Tornillo,Texas,2013,4,Personal Vehicle,50193.0
+2506.0,Otay Mesa,California,2013,1,Pedestrian,250390.0
+2302.0,Del Rio,Texas,2013,2,Truck,5343.0
+2302.0,Del Rio,Texas,2013,2,Train,0.0
+2310.0,Roma,Texas,2013,2,Truck,583.0
+2604.0,Nogales,Arizona,2013,1,Pedestrian,231640.0
+2505.0,Tecate,California,2013,2,Truck,3449.0
+2301.0,Brownsville,Texas,2013,5,Train,0.0
+2604.0,Nogales,Arizona,2013,5,Train,284.0
+2608.0,San Luis,Arizona,2013,1,Pedestrian,223434.0
+2408.0,Santa Teresa,New Mexico,2013,5,Pedestrian,10655.0
+2601.0,Douglas,Arizona,2013,3,Train,0.0
+2503.0,Calexico,California,2013,2,Train,0.0
+2303.0,Eagle Pass,Texas,2013,1,Train,0.0
+2408.0,Santa Teresa,New Mexico,2013,4,Personal Vehicle,68848.0
+2305.0,Hidalgo,Texas,2013,4,Pedestrian,175718.0
+2507.0,Calexico East,California,2013,3,Bus,7650.0
+2309.0,Progreso,Texas,2013,2,Pedestrian,101316.0
+2603.0,Naco,Arizona,2013,2,Personal Vehicle,35735.0
+2505.0,Tecate,California,2013,3,Personal Vehicle,124164.0
+2506.0,Otay Mesa,California,2013,3,Bus,14405.0
+2408.0,Santa Teresa,New Mexico,2013,1,Train,0.0
+2606.0,Sasabe,Arizona,2013,3,Personal Vehicle,2168.0
+2304.0,Laredo,Texas,2013,3,Train,0.0
+2309.0,Progreso,Texas,2013,2,Bus,0.0
+2408.0,Santa Teresa,New Mexico,2013,3,Bus,178.0
+2302.0,Del Rio,Texas,2013,4,Truck,6037.0
+2309.0,Progreso,Texas,2013,2,Train,0.0
+2402.0,El Paso,Texas,2013,3,Pedestrian,514392.0
+2507.0,Calexico East,California,2013,3,Personal Vehicle,489587.0
+2606.0,Sasabe,Arizona,2013,1,Personal Vehicle,2138.0
+2608.0,San Luis,Arizona,2013,3,Truck,4149.0
+2503.0,Calexico,California,2013,5,Bus,0.0
+2604.0,Nogales,Arizona,2013,5,Truck,37717.0
+2601.0,Douglas,Arizona,2013,3,Pedestrian,105975.0
+2309.0,Progreso,Texas,2013,3,Bus,0.0
+2601.0,Douglas,Arizona,2013,4,Train,0.0
+2507.0,Calexico East,California,2013,2,Truck,26070.0
+2505.0,Tecate,California,2013,2,Train,0.0
+2505.0,Tecate,California,2013,4,Truck,4263.0
+2507.0,Calexico East,California,2013,1,Pedestrian,27460.0
+2303.0,Eagle Pass,Texas,2013,2,Pedestrian,58346.0
+2604.0,Nogales,Arizona,2013,3,Personal Vehicle,541726.0
+2408.0,Santa Teresa,New Mexico,2013,4,Truck,7147.0
+2303.0,Eagle Pass,Texas,2013,1,Personal Vehicle,393230.0
+2504.0,San Ysidro,California,2013,3,Truck,0.0
+2309.0,Progreso,Texas,2013,4,Pedestrian,66486.0
+2502.0,Andrade,California,2013,5,Pedestrian,45443.0
+2505.0,Tecate,California,2013,1,Pedestrian,58100.0
+2305.0,Hidalgo,Texas,2013,1,Bus,26103.0
+2608.0,San Luis,Arizona,2013,4,Bus,0.0
+2507.0,Calexico East,California,2013,1,Train,23.0
+2402.0,El Paso,Texas,2013,4,Bus,35736.0
+2302.0,Del Rio,Texas,2013,1,Pedestrian,7645.0
+2604.0,Nogales,Arizona,2013,2,Truck,29652.0
+2601.0,Douglas,Arizona,2013,4,Truck,2865.0
+2309.0,Progreso,Texas,2013,3,Truck,4508.0
+2310.0,Roma,Texas,2013,1,Bus,2195.0
+2402.0,El Paso,Texas,2013,1,Train,0.0
+2406.0,Columbus,New Mexico,2013,1,Personal Vehicle,45408.0
+2403.0,Presidio,Texas,2013,2,Personal Vehicle,87153.0
+2305.0,Hidalgo,Texas,2013,2,Truck,41345.0
+2408.0,Santa Teresa,New Mexico,2013,1,Personal Vehicle,75122.0
+2503.0,Calexico,California,2013,4,Truck,0.0
+2404.0,Tornillo,Texas,2013,5,Train,0.0
+2307.0,Rio Grande City,Texas,2013,3,Pedestrian,5654.0
+2403.0,Presidio,Texas,2013,3,Truck,762.0
+2603.0,Naco,Arizona,2013,2,Truck,316.0
+2404.0,Tornillo,Texas,2013,3,Personal Vehicle,56995.0
+2403.0,Presidio,Texas,2013,3,Pedestrian,6289.0
+2309.0,Progreso,Texas,2013,4,Bus,0.0
+2304.0,Laredo,Texas,2013,3,Pedestrian,325008.0
+2408.0,Santa Teresa,New Mexico,2013,1,Truck,6002.0
+2307.0,Rio Grande City,Texas,2013,1,Pedestrian,3438.0
+2601.0,Douglas,Arizona,2013,3,Truck,2495.0
+2402.0,El Paso,Texas,2013,1,Personal Vehicle,1342333.0
+2503.0,Calexico,California,2013,3,Truck,0.0
+2303.0,Eagle Pass,Texas,2013,2,Personal Vehicle,356287.0
+2503.0,Calexico,California,2013,1,Truck,0.0
+2310.0,Roma,Texas,2013,2,Pedestrian,21363.0
+2608.0,San Luis,Arizona,2013,4,Pedestrian,181017.0
+2608.0,San Luis,Arizona,2013,5,Personal Vehicle,407076.0
+2310.0,Roma,Texas,2013,5,Personal Vehicle,107805.0
+2310.0,Roma,Texas,2013,4,Personal Vehicle,103160.0
+2309.0,Progreso,Texas,2013,1,Train,0.0
+2503.0,Calexico,California,2013,2,Pedestrian,363651.0
+2604.0,Nogales,Arizona,2013,2,Personal Vehicle,423216.0
+2506.0,Otay Mesa,California,2013,5,Bus,16174.0
+2404.0,Tornillo,Texas,2013,2,Pedestrian,5964.0
+2402.0,El Paso,Texas,2013,3,Truck,59609.0
+2307.0,Rio Grande City,Texas,2013,4,Bus,0.0
+2408.0,Santa Teresa,New Mexico,2013,4,Train,0.0
+2502.0,Andrade,California,2013,1,Train,0.0
+2506.0,Otay Mesa,California,2013,3,Train,40.0
+2602.0,Lukeville,Arizona,2013,5,Train,0.0
+2602.0,Lukeville,Arizona,2013,1,Pedestrian,3206.0
+2504.0,San Ysidro,California,2013,2,Pedestrian,579033.0
+2504.0,San Ysidro,California,2013,1,Bus,50055.0
+2606.0,Sasabe,Arizona,2013,1,Train,0.0
+2304.0,Laredo,Texas,2013,3,Personal Vehicle,815579.0
+2402.0,El Paso,Texas,2013,4,Train,0.0
+2606.0,Sasabe,Arizona,2013,1,Pedestrian,34.0
+2606.0,Sasabe,Arizona,2013,3,Pedestrian,102.0
+2302.0,Del Rio,Texas,2013,1,Personal Vehicle,214990.0
+2507.0,Calexico East,California,2013,4,Bus,5320.0
+2608.0,San Luis,Arizona,2013,2,Truck,4226.0
+2602.0,Lukeville,Arizona,2013,3,Truck,2.0
+2303.0,Eagle Pass,Texas,2013,5,Train,0.0
+2303.0,Eagle Pass,Texas,2013,2,Truck,9165.0
+2402.0,El Paso,Texas,2013,2,Bus,31225.0
+2302.0,Del Rio,Texas,2013,3,Personal Vehicle,217615.0
+2302.0,Del Rio,Texas,2013,4,Bus,0.0
+2307.0,Rio Grande City,Texas,2013,3,Bus,0.0
+2404.0,Tornillo,Texas,2013,4,Pedestrian,6785.0
+2602.0,Lukeville,Arizona,2013,2,Train,0.0
+2305.0,Hidalgo,Texas,2013,3,Truck,42913.0
+2601.0,Douglas,Arizona,2013,4,Bus,1342.0
+2505.0,Tecate,California,2013,1,Bus,3.0
+2402.0,El Paso,Texas,2013,3,Train,0.0
+2304.0,Laredo,Texas,2013,4,Train,0.0
+2608.0,San Luis,Arizona,2013,2,Personal Vehicle,401577.0
+2305.0,Hidalgo,Texas,2013,4,Bus,23450.0
+2408.0,Santa Teresa,New Mexico,2013,3,Truck,6247.0
+2502.0,Andrade,California,2013,5,Train,0.0
+2403.0,Presidio,Texas,2013,3,Bus,555.0
+2608.0,San Luis,Arizona,2013,1,Bus,0.0
+2304.0,Laredo,Texas,2013,3,Bus,100481.0
+2307.0,Rio Grande City,Texas,2013,3,Train,0.0
+2310.0,Roma,Texas,2013,2,Bus,282.0
+2408.0,Santa Teresa,New Mexico,2013,1,Bus,266.0
+2307.0,Rio Grande City,Texas,2013,3,Personal Vehicle,62086.0
+2304.0,Laredo,Texas,2013,3,Truck,149010.0
+2502.0,Andrade,California,2013,2,Truck,0.0
+2504.0,San Ysidro,California,2013,3,Bus,54093.0
+2406.0,Columbus,New Mexico,2013,2,Train,0.0
+2305.0,Hidalgo,Texas,2013,3,Train,0.0
+2310.0,Roma,Texas,2013,4,Truck,677.0
+2606.0,Sasabe,Arizona,2013,1,Truck,0.0
+2305.0,Hidalgo,Texas,2013,4,Train,0.0
+2506.0,Otay Mesa,California,2013,5,Pedestrian,284816.0
+2309.0,Progreso,Texas,2013,2,Truck,3802.0
+2305.0,Hidalgo,Texas,2013,1,Personal Vehicle,758195.0
+2307.0,Rio Grande City,Texas,2013,2,Personal Vehicle,56525.0
+2505.0,Tecate,California,2013,3,Bus,129.0
+2307.0,Rio Grande City,Texas,2013,1,Truck,2363.0
+2310.0,Roma,Texas,2013,4,Train,0.0
+2302.0,Del Rio,Texas,2013,5,Train,0.0
+2503.0,Calexico,California,2013,1,Train,0.0
+2309.0,Progreso,Texas,2013,3,Train,0.0
+2402.0,El Paso,Texas,2013,1,Bus,38404.0
+2608.0,San Luis,Arizona,2013,1,Train,0.0
+2608.0,San Luis,Arizona,2013,4,Train,0.0
+2303.0,Eagle Pass,Texas,2013,3,Personal Vehicle,403988.0
+2503.0,Calexico,California,2013,4,Pedestrian,384513.0
+2505.0,Tecate,California,2013,2,Bus,78.0
+2403.0,Presidio,Texas,2013,1,Pedestrian,5475.0
+2604.0,Nogales,Arizona,2013,3,Bus,15644.0
+2403.0,Presidio,Texas,2013,1,Train,0.0
+2404.0,Tornillo,Texas,2013,1,Train,0.0
+2606.0,Sasabe,Arizona,2013,4,Personal Vehicle,2002.0
+2601.0,Douglas,Arizona,2013,1,Personal Vehicle,207226.0
+2402.0,El Paso,Texas,2013,3,Bus,39103.0
+2301.0,Brownsville,Texas,2013,2,Pedestrian,165091.0
+2608.0,San Luis,Arizona,2013,5,Pedestrian,180401.0
+2402.0,El Paso,Texas,2013,2,Truck,58002.0
+2506.0,Otay Mesa,California,2013,3,Truck,60747.0
+2305.0,Hidalgo,Texas,2013,3,Bus,34784.0
+2502.0,Andrade,California,2013,4,Bus,0.0
+2309.0,Progreso,Texas,2013,1,Truck,3733.0
+2504.0,San Ysidro,California,2013,1,Personal Vehicle,1631776.0
+2302.0,Del Rio,Texas,2013,3,Pedestrian,10152.0
+2503.0,Calexico,California,2013,2,Truck,0.0
+2603.0,Naco,Arizona,2013,3,Bus,45.0
+2406.0,Columbus,New Mexico,2013,1,Truck,291.0
+2602.0,Lukeville,Arizona,2013,4,Bus,211.0
+2408.0,Santa Teresa,New Mexico,2013,2,Personal Vehicle,59282.0
+2608.0,San Luis,Arizona,2013,3,Train,0.0
+2305.0,Hidalgo,Texas,2013,4,Truck,45708.0
+2602.0,Lukeville,Arizona,2013,3,Pedestrian,4189.0
+2307.0,Rio Grande City,Texas,2013,2,Train,0.0
+2606.0,Sasabe,Arizona,2013,3,Train,0.0
+2603.0,Naco,Arizona,2013,2,Bus,48.0
+2603.0,Naco,Arizona,2013,1,Personal Vehicle,38015.0
+2603.0,Naco,Arizona,2013,1,Pedestrian,6557.0
+2602.0,Lukeville,Arizona,2013,3,Train,0.0
+2507.0,Calexico East,California,2013,5,Truck,28491.0
+2507.0,Calexico East,California,2013,4,Personal Vehicle,470090.0
+2310.0,Roma,Texas,2013,3,Train,0.0
+2307.0,Rio Grande City,Texas,2013,3,Truck,2408.0
+2505.0,Tecate,California,2013,1,Truck,3383.0
+2310.0,Roma,Texas,2013,4,Pedestrian,21783.0
+2301.0,Brownsville,Texas,2013,4,Train,0.0
+2507.0,Calexico East,California,2013,3,Train,23.0
+2502.0,Andrade,California,2013,2,Train,0.0
+2404.0,Tornillo,Texas,2013,1,Bus,0.0
+2606.0,Sasabe,Arizona,2013,4,Bus,0.0
+2307.0,Rio Grande City,Texas,2013,4,Truck,2591.0
+2301.0,Brownsville,Texas,2013,4,Truck,19123.0
+2304.0,Laredo,Texas,2013,4,Pedestrian,296050.0
+2304.0,Laredo,Texas,2013,4,Personal Vehicle,719955.0
+2602.0,Lukeville,Arizona,2013,3,Personal Vehicle,65865.0
+2307.0,Rio Grande City,Texas,2013,1,Personal Vehicle,56269.0
+2404.0,Tornillo,Texas,2013,1,Truck,0.0
+2301.0,Brownsville,Texas,2013,4,Pedestrian,179320.0
+2310.0,Roma,Texas,2013,5,Pedestrian,22328.0
+2606.0,Sasabe,Arizona,2013,2,Personal Vehicle,1892.0
+2506.0,Otay Mesa,California,2013,1,Truck,59207.0
+2310.0,Roma,Texas,2013,1,Pedestrian,21445.0
+2601.0,Douglas,Arizona,2013,1,Bus,1377.0
+2502.0,Andrade,California,2013,3,Train,0.0
+2404.0,Tornillo,Texas,2013,3,Bus,0.0
+2403.0,Presidio,Texas,2013,4,Bus,620.0
+2406.0,Columbus,New Mexico,2013,1,Train,0.0
+2504.0,San Ysidro,California,2013,4,Train,0.0
+2402.0,El Paso,Texas,2013,4,Personal Vehicle,1383077.0
+2310.0,Roma,Texas,2013,3,Pedestrian,26516.0
+2301.0,Brownsville,Texas,2013,3,Pedestrian,190903.0
+2310.0,Roma,Texas,2013,3,Truck,623.0
+2406.0,Columbus,New Mexico,2013,3,Truck,188.0
+2604.0,Nogales,Arizona,2013,4,Personal Vehicle,472177.0
+2303.0,Eagle Pass,Texas,2013,2,Train,0.0
+2603.0,Naco,Arizona,2013,4,Bus,45.0
+2403.0,Presidio,Texas,2013,2,Truck,807.0
+2403.0,Presidio,Texas,2013,1,Truck,831.0
+2305.0,Hidalgo,Texas,2013,2,Bus,20803.0
+2310.0,Roma,Texas,2013,1,Personal Vehicle,110234.0
+2406.0,Columbus,New Mexico,2013,2,Personal Vehicle,37713.0
+2507.0,Calexico East,California,2013,2,Train,20.0
+2507.0,Calexico East,California,2013,2,Pedestrian,28657.0
+2310.0,Roma,Texas,2013,4,Bus,398.0
+2601.0,Douglas,Arizona,2013,2,Train,0.0
+2505.0,Tecate,California,2013,1,Personal Vehicle,116384.0
+2408.0,Santa Teresa,New Mexico,2013,5,Bus,174.0
+2406.0,Columbus,New Mexico,2013,3,Bus,1440.0
+2402.0,El Paso,Texas,2013,1,Pedestrian,462826.0
+2406.0,Columbus,New Mexico,2013,4,Train,0.0
+2406.0,Columbus,New Mexico,2013,2,Pedestrian,21558.0
+2601.0,Douglas,Arizona,2013,1,Train,0.0
+2602.0,Lukeville,Arizona,2013,4,Train,0.0
+2504.0,San Ysidro,California,2013,3,Train,0.0
+2507.0,Calexico East,California,2013,4,Pedestrian,29839.0
+2302.0,Del Rio,Texas,2013,1,Train,0.0
+2301.0,Brownsville,Texas,2013,1,Personal Vehicle,682509.0
+2305.0,Hidalgo,Texas,2013,3,Personal Vehicle,816352.0
+2309.0,Progreso,Texas,2013,3,Pedestrian,108005.0
+2504.0,San Ysidro,California,2013,2,Bus,39262.0
+2406.0,Columbus,New Mexico,2013,4,Pedestrian,20584.0
+2402.0,El Paso,Texas,2013,2,Personal Vehicle,1247667.0
+2502.0,Andrade,California,2013,2,Pedestrian,127383.0
+2404.0,Tornillo,Texas,2013,2,Train,0.0
+2303.0,Eagle Pass,Texas,2013,3,Train,0.0
+2304.0,Laredo,Texas,2013,5,Truck,158405.0
+2502.0,Andrade,California,2013,4,Pedestrian,74463.0
+2307.0,Rio Grande City,Texas,2013,1,Train,0.0
+2601.0,Douglas,Arizona,2013,4,Pedestrian,133791.0
+2606.0,Sasabe,Arizona,2013,2,Pedestrian,28.0
+2408.0,Santa Teresa,New Mexico,2013,3,Train,0.0
+2603.0,Naco,Arizona,2013,3,Truck,288.0
+2307.0,Rio Grande City,Texas,2013,5,Truck,2254.0
+2301.0,Brownsville,Texas,2013,1,Bus,4793.0
+2507.0,Calexico East,California,2013,1,Bus,6680.0
+2502.0,Andrade,California,2013,2,Personal Vehicle,65002.0
+2604.0,Nogales,Arizona,2013,4,Bus,12213.0
+2301.0,Brownsville,Texas,2013,1,Train,0.0
+2408.0,Santa Teresa,New Mexico,2013,3,Pedestrian,13343.0
+2604.0,Nogales,Arizona,2013,1,Truck,31560.0
+2301.0,Brownsville,Texas,2013,4,Personal Vehicle,687585.0
+2502.0,Andrade,California,2013,1,Pedestrian,118174.0
+2309.0,Progreso,Texas,2013,1,Pedestrian,85700.0
+2507.0,Calexico East,California,2013,1,Truck,26626.0
+2310.0,Roma,Texas,2013,2,Personal Vehicle,101792.0
+2604.0,Nogales,Arizona,2013,3,Truck,31908.0
+2505.0,Tecate,California,2013,3,Train,0.0
+2307.0,Rio Grande City,Texas,2013,2,Truck,2401.0
+2502.0,Andrade,California,2013,3,Bus,0.0
+2502.0,Andrade,California,2013,4,Train,0.0
+2503.0,Calexico,California,2013,1,Personal Vehicle,606876.0
+2505.0,Tecate,California,2013,4,Personal Vehicle,116662.0
+2402.0,El Paso,Texas,2013,4,Truck,65406.0
+2302.0,Del Rio,Texas,2013,1,Truck,5641.0
+2608.0,San Luis,Arizona,2013,4,Personal Vehicle,415059.0
+2310.0,Roma,Texas,2013,2,Train,0.0
+2606.0,Sasabe,Arizona,2013,2,Truck,0.0
+2305.0,Hidalgo,Texas,2013,1,Train,0.0
+2506.0,Otay Mesa,California,2013,2,Truck,55640.0
+2608.0,San Luis,Arizona,2013,2,Pedestrian,210322.0
+2505.0,Tecate,California,2013,5,Personal Vehicle,121832.0
+2506.0,Otay Mesa,California,2013,1,Train,36.0
+2404.0,Tornillo,Texas,2013,2,Bus,0.0
+2309.0,Progreso,Texas,2013,4,Personal Vehicle,190536.0
+2503.0,Calexico,California,2013,1,Pedestrian,403691.0
+2305.0,Hidalgo,Texas,2013,2,Personal Vehicle,702243.0
+2601.0,Douglas,Arizona,2013,2,Pedestrian,128476.0
+2604.0,Nogales,Arizona,2013,2,Train,268.0
+2304.0,Laredo,Texas,2013,2,Pedestrian,266783.0
+2604.0,Nogales,Arizona,2013,2,Bus,9617.0
+2603.0,Naco,Arizona,2013,4,Train,0.0
+2601.0,Douglas,Arizona,2013,2,Personal Vehicle,200834.0
+2504.0,San Ysidro,California,2013,1,Truck,0.0
+2505.0,Tecate,California,2013,4,Train,0.0
+2506.0,Otay Mesa,California,2013,4,Bus,12622.0
+2301.0,Brownsville,Texas,2013,2,Personal Vehicle,645802.0
+2603.0,Naco,Arizona,2013,1,Bus,0.0
+2403.0,Presidio,Texas,2013,3,Personal Vehicle,111583.0
+2309.0,Progreso,Texas,2013,4,Truck,4666.0
+2603.0,Naco,Arizona,2013,4,Truck,397.0
+2309.0,Progreso,Texas,2013,2,Personal Vehicle,189254.0
+2302.0,Del Rio,Texas,2013,4,Personal Vehicle,212514.0
+2502.0,Andrade,California,2013,3,Pedestrian,123272.0
+2608.0,San Luis,Arizona,2013,2,Bus,0.0
+2603.0,Naco,Arizona,2013,2,Train,0.0
+2302.0,Del Rio,Texas,2013,3,Train,0.0
+2408.0,Santa Teresa,New Mexico,2013,4,Bus,229.0
+2402.0,El Paso,Texas,2013,1,Truck,60035.0
+2301.0,Brownsville,Texas,2013,4,Bus,3976.0
+2602.0,Lukeville,Arizona,2013,3,Bus,287.0
+2608.0,San Luis,Arizona,2003,12,Bus,37.0
+2303.0,Eagle Pass,Texas,2003,12,Train,532.0
+2301.0,Brownsville,Texas,2003,12,Pedestrian,303629.0
+2406.0,Columbus,New Mexico,2003,12,Train,0.0
+2302.0,Del Rio,Texas,2003,12,Pedestrian,15560.0
+2608.0,San Luis,Arizona,2003,12,Personal Vehicle,577130.0
+2603.0,Naco,Arizona,2003,12,Truck,434.0
+2402.0,El Paso,Texas,2003,12,Pedestrian,881717.0
+2506.0,Otay Mesa,California,2003,12,Bus,24266.0
+2602.0,Lukeville,Arizona,2003,12,Train,0.0
+2403.0,Presidio,Texas,2003,12,Pedestrian,1958.0
+2403.0,Presidio,Texas,2003,12,Personal Vehicle,156595.0
+2502.0,Andrade,California,2003,12,Truck,194.0
+2504.0,San Ysidro,California,2003,12,Bus,91681.0
+2404.0,Tornillo,Texas,2003,12,Personal Vehicle,124087.0
+2604.0,Nogales,Arizona,2003,12,Bus,14294.0
+2507.0,Calexico East,California,2003,12,Truck,17994.0
+2302.0,Del Rio,Texas,2003,12,Truck,3991.0
+2505.0,Tecate,California,2003,12,Bus,395.0
+2404.0,Tornillo,Texas,2003,12,Bus,0.0
+2307.0,Rio Grande City,Texas,2003,12,Bus,0.0
+2606.0,Sasabe,Arizona,2003,12,Personal Vehicle,9919.0
+2302.0,Del Rio,Texas,2003,12,Bus,5.0
+2408.0,Santa Teresa,New Mexico,2003,12,Personal Vehicle,62687.0
+2602.0,Lukeville,Arizona,2003,12,Bus,1092.0
+2608.0,San Luis,Arizona,2003,12,Truck,3516.0
+2606.0,Sasabe,Arizona,2003,12,Pedestrian,159.0
+2304.0,Laredo,Texas,2003,12,Pedestrian,447548.0
+2404.0,Tornillo,Texas,2003,12,Truck,0.0
+2505.0,Tecate,California,2003,12,Pedestrian,59874.0
+2606.0,Sasabe,Arizona,2003,12,Truck,71.0
+2503.0,Calexico,California,2003,12,Truck,0.0
+2506.0,Otay Mesa,California,2003,12,Personal Vehicle,1167367.0
+2301.0,Brownsville,Texas,2003,12,Personal Vehicle,1441285.0
+2507.0,Calexico East,California,2003,12,Personal Vehicle,709195.0
+2310.0,Roma,Texas,2003,12,Bus,3596.0
+2505.0,Tecate,California,2003,12,Personal Vehicle,311122.0
+2305.0,Hidalgo,Texas,2003,3,Train,0.0
+2504.0,San Ysidro,California,2003,8,Train,0.0
+2604.0,Nogales,Arizona,2003,11,Train,132.0
+2504.0,San Ysidro,California,2003,6,Bus,117323.0
+2507.0,Calexico East,California,2003,11,Bus,1401.0
+2307.0,Rio Grande City,Texas,2003,7,Train,0.0
+2406.0,Columbus,New Mexico,2003,7,Personal Vehicle,91183.0
+2301.0,Brownsville,Texas,2003,2,Pedestrian,216532.0
+2301.0,Brownsville,Texas,2003,11,Train,0.0
+2502.0,Andrade,California,2003,4,Pedestrian,164398.0
+2305.0,Hidalgo,Texas,2003,10,Personal Vehicle,1172365.0
+2304.0,Laredo,Texas,2003,8,Personal Vehicle,1337475.0
+2305.0,Hidalgo,Texas,2003,10,Train,0.0
+2601.0,Douglas,Arizona,2003,2,Pedestrian,57869.0
+2406.0,Columbus,New Mexico,2003,6,Truck,229.0
+2608.0,San Luis,Arizona,2003,1,Personal Vehicle,617520.0
+2309.0,Progreso,Texas,2003,7,Bus,851.0
+2505.0,Tecate,California,2003,6,Truck,5693.0
+2503.0,Calexico,California,2003,4,Personal Vehicle,802904.0
+2503.0,Calexico,California,2003,9,Pedestrian,559129.0
+2402.0,El Paso,Texas,2003,2,Truck,53807.0
+2504.0,San Ysidro,California,2003,2,Train,0.0
+2309.0,Progreso,Texas,2003,8,Pedestrian,79437.0
+2503.0,Calexico,California,2003,4,Truck,0.0
+2305.0,Hidalgo,Texas,2003,3,Truck,37542.0
+2310.0,Roma,Texas,2003,5,Personal Vehicle,269806.0
+2402.0,El Paso,Texas,2003,9,Personal Vehicle,2096800.0
+2601.0,Douglas,Arizona,2003,12,Personal Vehicle,363543.0
+2602.0,Lukeville,Arizona,2003,4,Bus,408.0
+2603.0,Naco,Arizona,2003,4,Bus,0.0
+2606.0,Sasabe,Arizona,2003,8,Personal Vehicle,10057.0
+2403.0,Presidio,Texas,2003,7,Truck,373.0
+2604.0,Nogales,Arizona,2003,1,Train,160.0
+2310.0,Roma,Texas,2003,3,Train,0.0
+2304.0,Laredo,Texas,2003,7,Bus,95987.0
+2507.0,Calexico East,California,2003,4,Personal Vehicle,525769.0
+2503.0,Calexico,California,2003,8,Train,0.0
+2305.0,Hidalgo,Texas,2003,7,Truck,32439.0
+2504.0,San Ysidro,California,2003,12,Pedestrian,877113.0
+2304.0,Laredo,Texas,2003,8,Pedestrian,383729.0
+2402.0,El Paso,Texas,2003,8,Train,162.0
+2408.0,Santa Teresa,New Mexico,2003,2,Truck,2396.0
+2603.0,Naco,Arizona,2003,5,Bus,0.0
+2307.0,Rio Grande City,Texas,2003,4,Bus,0.0
+2606.0,Sasabe,Arizona,2003,11,Train,0.0
+2504.0,San Ysidro,California,2003,8,Truck,0.0
+2502.0,Andrade,California,2003,9,Personal Vehicle,134154.0
+2406.0,Columbus,New Mexico,2003,10,Truck,887.0
+2608.0,San Luis,Arizona,2003,2,Pedestrian,241650.0
+2603.0,Naco,Arizona,2003,8,Pedestrian,6602.0
+2301.0,Brownsville,Texas,2003,12,Bus,5251.0
+2608.0,San Luis,Arizona,2003,3,Personal Vehicle,584404.0
+2608.0,San Luis,Arizona,2003,10,Truck,3072.0
+2408.0,Santa Teresa,New Mexico,2003,12,Truck,2115.0
+2506.0,Otay Mesa,California,2003,9,Bus,19424.0
+2303.0,Eagle Pass,Texas,2003,3,Personal Vehicle,765910.0
+2504.0,San Ysidro,California,2003,4,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,3,Personal Vehicle,35769.0
+2310.0,Roma,Texas,2003,1,Bus,5871.0
+2506.0,Otay Mesa,California,2003,6,Personal Vehicle,826933.0
+2406.0,Columbus,New Mexico,2003,8,Truck,669.0
+2301.0,Brownsville,Texas,2003,10,Personal Vehicle,1210578.0
+2604.0,Nogales,Arizona,2003,5,Personal Vehicle,770502.0
+2505.0,Tecate,California,2003,7,Truck,5814.0
+2606.0,Sasabe,Arizona,2003,1,Truck,143.0
+2603.0,Naco,Arizona,2003,10,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,8,Personal Vehicle,51393.0
+2303.0,Eagle Pass,Texas,2003,4,Bus,822.0
+2504.0,San Ysidro,California,2003,11,Bus,76277.0
+2507.0,Calexico East,California,2003,11,Personal Vehicle,580330.0
+2307.0,Rio Grande City,Texas,2003,1,Pedestrian,10334.0
+2310.0,Roma,Texas,2003,7,Pedestrian,21891.0
+2309.0,Progreso,Texas,2003,10,Train,0.0
+2404.0,Tornillo,Texas,2003,3,Personal Vehicle,123182.0
+2603.0,Naco,Arizona,2003,11,Truck,309.0
+2602.0,Lukeville,Arizona,2003,11,Pedestrian,6396.0
+2507.0,Calexico East,California,2003,10,Train,147.0
+2502.0,Andrade,California,2003,7,Pedestrian,67013.0
+2403.0,Presidio,Texas,2003,4,Personal Vehicle,137134.0
+2506.0,Otay Mesa,California,2003,2,Bus,21850.0
+2310.0,Roma,Texas,2003,8,Bus,4716.0
+2503.0,Calexico,California,2003,2,Truck,0.0
+2403.0,Presidio,Texas,2003,1,Pedestrian,2866.0
+2603.0,Naco,Arizona,2003,2,Pedestrian,6280.0
+2603.0,Naco,Arizona,2003,6,Bus,425.0
+2503.0,Calexico,California,2003,11,Truck,0.0
+2309.0,Progreso,Texas,2003,3,Train,0.0
+2302.0,Del Rio,Texas,2003,12,Train,0.0
+2602.0,Lukeville,Arizona,2003,12,Pedestrian,8120.0
+2604.0,Nogales,Arizona,2003,7,Pedestrian,394421.0
+2505.0,Tecate,California,2003,8,Truck,4938.0
+2606.0,Sasabe,Arizona,2003,5,Truck,101.0
+2305.0,Hidalgo,Texas,2003,7,Train,0.0
+2301.0,Brownsville,Texas,2003,7,Train,0.0
+2603.0,Naco,Arizona,2003,1,Pedestrian,6569.0
+2402.0,El Paso,Texas,2003,11,Pedestrian,717791.0
+2307.0,Rio Grande City,Texas,2003,9,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,7,Personal Vehicle,71400.0
+2305.0,Hidalgo,Texas,2003,11,Personal Vehicle,1329865.0
+2403.0,Presidio,Texas,2003,7,Pedestrian,1565.0
+2307.0,Rio Grande City,Texas,2003,9,Truck,2911.0
+2403.0,Presidio,Texas,2003,7,Bus,260.0
+2406.0,Columbus,New Mexico,2003,9,Train,0.0
+2602.0,Lukeville,Arizona,2003,4,Train,0.0
+2302.0,Del Rio,Texas,2003,1,Train,0.0
+2404.0,Tornillo,Texas,2003,2,Train,0.0
+2404.0,Tornillo,Texas,2003,11,Train,0.0
+2305.0,Hidalgo,Texas,2003,5,Bus,53960.0
+2310.0,Roma,Texas,2003,4,Bus,4679.0
+2608.0,San Luis,Arizona,2003,4,Bus,38.0
+2505.0,Tecate,California,2003,7,Personal Vehicle,222273.0
+2507.0,Calexico East,California,2003,2,Train,133.0
+2505.0,Tecate,California,2003,4,Truck,5156.0
+2402.0,El Paso,Texas,2003,6,Truck,54515.0
+2505.0,Tecate,California,2003,5,Truck,5700.0
+2301.0,Brownsville,Texas,2003,3,Truck,19323.0
+2606.0,Sasabe,Arizona,2003,10,Personal Vehicle,8783.0
+2305.0,Hidalgo,Texas,2003,11,Pedestrian,172805.0
+2601.0,Douglas,Arizona,2003,8,Train,0.0
+2506.0,Otay Mesa,California,2003,3,Pedestrian,109352.0
+2301.0,Brownsville,Texas,2003,9,Truck,19166.0
+2507.0,Calexico East,California,2003,1,Truck,25475.0
+2502.0,Andrade,California,2003,11,Pedestrian,178010.0
+2309.0,Progreso,Texas,2003,3,Bus,1789.0
+2506.0,Otay Mesa,California,2003,9,Personal Vehicle,950941.0
+2502.0,Andrade,California,2003,3,Personal Vehicle,151945.0
+2408.0,Santa Teresa,New Mexico,2003,2,Personal Vehicle,58993.0
+2601.0,Douglas,Arizona,2003,2,Truck,1809.0
+2603.0,Naco,Arizona,2003,1,Truck,207.0
+2603.0,Naco,Arizona,2003,10,Pedestrian,6875.0
+2303.0,Eagle Pass,Texas,2003,6,Train,516.0
+2404.0,Tornillo,Texas,2003,2,Pedestrian,3493.0
+2303.0,Eagle Pass,Texas,2003,7,Bus,996.0
+2302.0,Del Rio,Texas,2003,8,Truck,5800.0
+2502.0,Andrade,California,2003,1,Truck,246.0
+2506.0,Otay Mesa,California,2003,6,Train,42.0
+2302.0,Del Rio,Texas,2003,11,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,7,Truck,2455.0
+2606.0,Sasabe,Arizona,2003,7,Truck,101.0
+2301.0,Brownsville,Texas,2003,5,Personal Vehicle,1432013.0
+2606.0,Sasabe,Arizona,2003,10,Bus,0.0
+2310.0,Roma,Texas,2003,4,Truck,704.0
+2404.0,Tornillo,Texas,2003,10,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,2,Bus,867.0
+2310.0,Roma,Texas,2003,10,Truck,764.0
+2402.0,El Paso,Texas,2003,9,Truck,58140.0
+2606.0,Sasabe,Arizona,2003,5,Pedestrian,171.0
+2606.0,Sasabe,Arizona,2003,4,Pedestrian,180.0
+2403.0,Presidio,Texas,2003,4,Bus,240.0
+2507.0,Calexico East,California,2003,11,Truck,24255.0
+2604.0,Nogales,Arizona,2003,1,Pedestrian,515366.0
+2606.0,Sasabe,Arizona,2003,3,Personal Vehicle,10080.0
+2403.0,Presidio,Texas,2003,3,Train,0.0
+2307.0,Rio Grande City,Texas,2003,5,Personal Vehicle,214232.0
+2301.0,Brownsville,Texas,2003,2,Truck,17689.0
+2301.0,Brownsville,Texas,2003,6,Pedestrian,238319.0
+2307.0,Rio Grande City,Texas,2003,5,Pedestrian,9812.0
+2507.0,Calexico East,California,2003,12,Train,147.0
+2504.0,San Ysidro,California,2003,3,Personal Vehicle,3098181.0
+2303.0,Eagle Pass,Texas,2003,9,Truck,7197.0
+2601.0,Douglas,Arizona,2003,7,Bus,2372.0
+2507.0,Calexico East,California,2003,3,Truck,25164.0
+2604.0,Nogales,Arizona,2003,12,Pedestrian,368201.0
+2404.0,Tornillo,Texas,2003,6,Train,0.0
+2305.0,Hidalgo,Texas,2003,2,Bus,69940.0
+2305.0,Hidalgo,Texas,2003,2,Pedestrian,162535.0
+2502.0,Andrade,California,2003,4,Train,0.0
+2301.0,Brownsville,Texas,2003,9,Personal Vehicle,1136826.0
+2503.0,Calexico,California,2003,12,Pedestrian,477082.0
+2406.0,Columbus,New Mexico,2003,11,Train,0.0
+2604.0,Nogales,Arizona,2003,9,Truck,11457.0
+2506.0,Otay Mesa,California,2003,1,Truck,51979.0
+2302.0,Del Rio,Texas,2003,4,Train,0.0
+2601.0,Douglas,Arizona,2003,6,Pedestrian,76288.0
+2504.0,San Ysidro,California,2003,8,Personal Vehicle,3296368.0
+2406.0,Columbus,New Mexico,2003,11,Personal Vehicle,88637.0
+2303.0,Eagle Pass,Texas,2003,6,Personal Vehicle,707943.0
+2502.0,Andrade,California,2003,6,Truck,191.0
+2502.0,Andrade,California,2003,2,Truck,226.0
+2309.0,Progreso,Texas,2003,7,Train,0.0
+2502.0,Andrade,California,2003,8,Pedestrian,67459.0
+2601.0,Douglas,Arizona,2003,5,Truck,2250.0
+2608.0,San Luis,Arizona,2003,4,Pedestrian,206176.0
+2302.0,Del Rio,Texas,2003,6,Truck,6054.0
+2302.0,Del Rio,Texas,2003,8,Bus,342.0
+2301.0,Brownsville,Texas,2003,11,Pedestrian,234094.0
+2403.0,Presidio,Texas,2003,1,Truck,505.0
+2503.0,Calexico,California,2003,9,Train,0.0
+2305.0,Hidalgo,Texas,2003,4,Truck,37481.0
+2408.0,Santa Teresa,New Mexico,2003,3,Train,0.0
+2402.0,El Paso,Texas,2003,3,Bus,32951.0
+2301.0,Brownsville,Texas,2003,5,Truck,19693.0
+2303.0,Eagle Pass,Texas,2003,12,Personal Vehicle,808496.0
+2402.0,El Paso,Texas,2003,7,Personal Vehicle,2395040.0
+2503.0,Calexico,California,2003,6,Pedestrian,566378.0
+2503.0,Calexico,California,2003,1,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,7,Bus,362.0
+2604.0,Nogales,Arizona,2003,10,Bus,8629.0
+2302.0,Del Rio,Texas,2003,2,Train,0.0
+2503.0,Calexico,California,2003,10,Bus,1536.0
+2305.0,Hidalgo,Texas,2003,8,Personal Vehicle,1317123.0
+2408.0,Santa Teresa,New Mexico,2003,4,Personal Vehicle,55883.0
+2502.0,Andrade,California,2003,9,Pedestrian,77225.0
+2408.0,Santa Teresa,New Mexico,2003,4,Pedestrian,1370.0
+2603.0,Naco,Arizona,2003,9,Personal Vehicle,64042.0
+2608.0,San Luis,Arizona,2003,5,Bus,235.0
+2304.0,Laredo,Texas,2003,9,Bus,50974.0
+2404.0,Tornillo,Texas,2003,8,Pedestrian,1956.0
+2406.0,Columbus,New Mexico,2003,10,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,6,Personal Vehicle,46624.0
+2402.0,El Paso,Texas,2003,4,Personal Vehicle,1652555.0
+2307.0,Rio Grande City,Texas,2003,8,Train,0.0
+2406.0,Columbus,New Mexico,2003,12,Bus,1121.0
+2602.0,Lukeville,Arizona,2003,5,Truck,105.0
+2504.0,San Ysidro,California,2003,9,Pedestrian,637388.0
+2506.0,Otay Mesa,California,2003,11,Pedestrian,115720.0
+2504.0,San Ysidro,California,2003,6,Pedestrian,603478.0
+2303.0,Eagle Pass,Texas,2003,12,Truck,7539.0
+2310.0,Roma,Texas,2003,5,Pedestrian,20205.0
+2402.0,El Paso,Texas,2003,2,Train,144.0
+2307.0,Rio Grande City,Texas,2003,6,Bus,0.0
+2507.0,Calexico East,California,2003,10,Truck,26446.0
+2601.0,Douglas,Arizona,2003,3,Pedestrian,58869.0
+2408.0,Santa Teresa,New Mexico,2003,5,Train,0.0
+2506.0,Otay Mesa,California,2003,1,Train,38.0
+2502.0,Andrade,California,2003,9,Train,0.0
+2404.0,Tornillo,Texas,2003,4,Truck,0.0
+2307.0,Rio Grande City,Texas,2003,1,Train,0.0
+2304.0,Laredo,Texas,2003,4,Truck,112947.0
+2310.0,Roma,Texas,2003,11,Pedestrian,20282.0
+2402.0,El Paso,Texas,2003,10,Personal Vehicle,2432612.0
+2403.0,Presidio,Texas,2003,2,Bus,240.0
+2603.0,Naco,Arizona,2003,12,Bus,575.0
+2503.0,Calexico,California,2003,11,Personal Vehicle,914986.0
+2406.0,Columbus,New Mexico,2003,7,Bus,908.0
+2406.0,Columbus,New Mexico,2003,12,Pedestrian,22366.0
+2602.0,Lukeville,Arizona,2003,1,Personal Vehicle,92385.0
+2505.0,Tecate,California,2003,8,Bus,652.0
+2402.0,El Paso,Texas,2003,7,Truck,52598.0
+2604.0,Nogales,Arizona,2003,2,Pedestrian,464045.0
+2310.0,Roma,Texas,2003,9,Truck,677.0
+2608.0,San Luis,Arizona,2003,11,Pedestrian,242135.0
+2604.0,Nogales,Arizona,2003,7,Train,104.0
+2309.0,Progreso,Texas,2003,6,Personal Vehicle,222370.0
+2307.0,Rio Grande City,Texas,2003,10,Pedestrian,10139.0
+2608.0,San Luis,Arizona,2003,12,Pedestrian,274043.0
+2503.0,Calexico,California,2003,11,Train,0.0
+2307.0,Rio Grande City,Texas,2003,6,Pedestrian,10016.0
+2403.0,Presidio,Texas,2003,9,Bus,300.0
+2603.0,Naco,Arizona,2003,5,Pedestrian,6687.0
+2302.0,Del Rio,Texas,2003,1,Personal Vehicle,357891.0
+2506.0,Otay Mesa,California,2003,8,Pedestrian,134777.0
+2406.0,Columbus,New Mexico,2003,10,Pedestrian,24821.0
+2601.0,Douglas,Arizona,2003,3,Bus,5224.0
+2505.0,Tecate,California,2003,2,Train,16.0
+2403.0,Presidio,Texas,2003,5,Personal Vehicle,142378.0
+2504.0,San Ysidro,California,2003,9,Personal Vehicle,3157152.0
+2406.0,Columbus,New Mexico,2003,6,Bus,659.0
+2506.0,Otay Mesa,California,2003,5,Pedestrian,124353.0
+2504.0,San Ysidro,California,2003,5,Pedestrian,688733.0
+2408.0,Santa Teresa,New Mexico,2003,10,Train,0.0
+2603.0,Naco,Arizona,2003,8,Train,0.0
+2505.0,Tecate,California,2003,10,Train,8.0
+2603.0,Naco,Arizona,2003,12,Personal Vehicle,213122.0
+2505.0,Tecate,California,2003,2,Bus,747.0
+2604.0,Nogales,Arizona,2003,3,Bus,9394.0
+2504.0,San Ysidro,California,2003,2,Bus,100528.0
+2403.0,Presidio,Texas,2003,10,Pedestrian,1480.0
+2303.0,Eagle Pass,Texas,2003,1,Train,568.0
+2303.0,Eagle Pass,Texas,2003,9,Personal Vehicle,607155.0
+2301.0,Brownsville,Texas,2003,12,Train,0.0
+2305.0,Hidalgo,Texas,2003,2,Truck,32148.0
+2307.0,Rio Grande City,Texas,2003,9,Pedestrian,10116.0
+2601.0,Douglas,Arizona,2003,10,Truck,2418.0
+2505.0,Tecate,California,2003,7,Pedestrian,33780.0
+2608.0,San Luis,Arizona,2003,4,Personal Vehicle,490599.0
+2601.0,Douglas,Arizona,2003,11,Pedestrian,57215.0
+2403.0,Presidio,Texas,2003,2,Train,0.0
+2309.0,Progreso,Texas,2003,5,Personal Vehicle,226187.0
+2503.0,Calexico,California,2003,8,Truck,0.0
+2602.0,Lukeville,Arizona,2003,12,Truck,30.0
+2503.0,Calexico,California,2003,9,Truck,0.0
+2601.0,Douglas,Arizona,2003,8,Pedestrian,72739.0
+2604.0,Nogales,Arizona,2003,12,Personal Vehicle,839740.0
+2310.0,Roma,Texas,2003,4,Pedestrian,21098.0
+2503.0,Calexico,California,2003,3,Personal Vehicle,951368.0
+2408.0,Santa Teresa,New Mexico,2003,6,Bus,763.0
+2505.0,Tecate,California,2003,11,Bus,560.0
+2406.0,Columbus,New Mexico,2003,6,Personal Vehicle,83562.0
+2506.0,Otay Mesa,California,2003,3,Truck,57819.0
+2303.0,Eagle Pass,Texas,2003,3,Train,532.0
+2503.0,Calexico,California,2003,3,Train,0.0
+2506.0,Otay Mesa,California,2003,3,Bus,22551.0
+2307.0,Rio Grande City,Texas,2003,5,Bus,0.0
+2502.0,Andrade,California,2003,3,Truck,236.0
+2408.0,Santa Teresa,New Mexico,2003,1,Pedestrian,2606.0
+2307.0,Rio Grande City,Texas,2003,4,Pedestrian,10112.0
+2303.0,Eagle Pass,Texas,2003,7,Pedestrian,63506.0
+2506.0,Otay Mesa,California,2003,11,Train,32.0
+2608.0,San Luis,Arizona,2003,4,Train,0.0
+2604.0,Nogales,Arizona,2003,3,Personal Vehicle,705666.0
+2606.0,Sasabe,Arizona,2003,10,Pedestrian,198.0
+2310.0,Roma,Texas,2003,5,Train,0.0
+2304.0,Laredo,Texas,2003,10,Pedestrian,369388.0
+2608.0,San Luis,Arizona,2003,8,Truck,2418.0
+2507.0,Calexico East,California,2003,6,Truck,23249.0
+2503.0,Calexico,California,2003,5,Pedestrian,574298.0
+2310.0,Roma,Texas,2003,11,Bus,3236.0
+2601.0,Douglas,Arizona,2003,10,Pedestrian,55409.0
+2305.0,Hidalgo,Texas,2003,5,Personal Vehicle,1335294.0
+2606.0,Sasabe,Arizona,2003,8,Bus,0.0
+2606.0,Sasabe,Arizona,2003,5,Train,0.0
+2506.0,Otay Mesa,California,2003,11,Truck,56541.0
+2603.0,Naco,Arizona,2003,3,Truck,280.0
+2301.0,Brownsville,Texas,2003,7,Pedestrian,260652.0
+2504.0,San Ysidro,California,2003,10,Bus,80755.0
+2404.0,Tornillo,Texas,2003,8,Truck,0.0
+2503.0,Calexico,California,2003,3,Bus,876.0
+2604.0,Nogales,Arizona,2003,9,Pedestrian,395392.0
+2310.0,Roma,Texas,2003,10,Pedestrian,17829.0
+2506.0,Otay Mesa,California,2003,10,Truck,66054.0
+2304.0,Laredo,Texas,2003,4,Train,0.0
+2305.0,Hidalgo,Texas,2003,1,Pedestrian,146714.0
+2307.0,Rio Grande City,Texas,2003,5,Train,0.0
+2303.0,Eagle Pass,Texas,2003,4,Pedestrian,61300.0
+2606.0,Sasabe,Arizona,2003,2,Pedestrian,168.0
+2301.0,Brownsville,Texas,2003,3,Pedestrian,270412.0
+2601.0,Douglas,Arizona,2003,11,Bus,4248.0
+2608.0,San Luis,Arizona,2003,10,Personal Vehicle,551034.0
+2504.0,San Ysidro,California,2003,2,Personal Vehicle,2833789.0
+2604.0,Nogales,Arizona,2003,11,Pedestrian,629746.0
+2502.0,Andrade,California,2003,11,Train,0.0
+2304.0,Laredo,Texas,2003,2,Personal Vehicle,1129997.0
+2304.0,Laredo,Texas,2003,2,Train,0.0
+2302.0,Del Rio,Texas,2003,2,Truck,5730.0
+2507.0,Calexico East,California,2003,5,Pedestrian,151.0
+2606.0,Sasabe,Arizona,2003,4,Truck,156.0
+2604.0,Nogales,Arizona,2003,10,Train,148.0
+2406.0,Columbus,New Mexico,2003,1,Bus,561.0
+2404.0,Tornillo,Texas,2003,1,Train,0.0
+2310.0,Roma,Texas,2003,11,Train,0.0
+2305.0,Hidalgo,Texas,2003,4,Personal Vehicle,1219814.0
+2601.0,Douglas,Arizona,2003,12,Truck,2171.0
+2301.0,Brownsville,Texas,2003,8,Train,0.0
+2505.0,Tecate,California,2003,12,Train,6.0
+2403.0,Presidio,Texas,2003,9,Train,0.0
+2303.0,Eagle Pass,Texas,2003,2,Truck,6811.0
+2506.0,Otay Mesa,California,2003,7,Pedestrian,142128.0
+2505.0,Tecate,California,2003,4,Personal Vehicle,237263.0
+2506.0,Otay Mesa,California,2003,10,Pedestrian,124075.0
+2505.0,Tecate,California,2003,2,Pedestrian,34732.0
+2301.0,Brownsville,Texas,2003,8,Personal Vehicle,1353559.0
+2310.0,Roma,Texas,2003,6,Personal Vehicle,255816.0
+2402.0,El Paso,Texas,2003,1,Truck,55642.0
+2305.0,Hidalgo,Texas,2003,9,Pedestrian,164406.0
+2506.0,Otay Mesa,California,2003,6,Pedestrian,138371.0
+2601.0,Douglas,Arizona,2003,2,Train,0.0
+2301.0,Brownsville,Texas,2003,4,Truck,19087.0
+2606.0,Sasabe,Arizona,2003,3,Bus,0.0
+2307.0,Rio Grande City,Texas,2003,2,Truck,2303.0
+2601.0,Douglas,Arizona,2003,9,Truck,2301.0
+2608.0,San Luis,Arizona,2003,10,Train,0.0
+2606.0,Sasabe,Arizona,2003,12,Bus,0.0
+2403.0,Presidio,Texas,2003,3,Personal Vehicle,145166.0
+2309.0,Progreso,Texas,2003,10,Truck,2124.0
+2402.0,El Paso,Texas,2003,6,Train,150.0
+2608.0,San Luis,Arizona,2003,8,Train,0.0
+2505.0,Tecate,California,2003,5,Pedestrian,36359.0
+2403.0,Presidio,Texas,2003,8,Pedestrian,1552.0
+2304.0,Laredo,Texas,2003,2,Truck,107787.0
+2406.0,Columbus,New Mexico,2003,5,Pedestrian,19039.0
+2503.0,Calexico,California,2003,1,Personal Vehicle,977456.0
+2302.0,Del Rio,Texas,2003,11,Bus,0.0
+2310.0,Roma,Texas,2003,8,Pedestrian,24947.0
+2507.0,Calexico East,California,2003,7,Pedestrian,0.0
+2602.0,Lukeville,Arizona,2003,2,Pedestrian,5870.0
+2305.0,Hidalgo,Texas,2003,3,Bus,58740.0
+2503.0,Calexico,California,2003,3,Pedestrian,620472.0
+2304.0,Laredo,Texas,2003,8,Truck,109357.0
+2502.0,Andrade,California,2003,5,Train,0.0
+2608.0,San Luis,Arizona,2003,8,Pedestrian,171360.0
+2502.0,Andrade,California,2003,3,Train,0.0
+2604.0,Nogales,Arizona,2003,2,Personal Vehicle,650468.0
+2406.0,Columbus,New Mexico,2003,10,Personal Vehicle,80860.0
+2305.0,Hidalgo,Texas,2003,10,Truck,37172.0
+2301.0,Brownsville,Texas,2003,4,Personal Vehicle,1400257.0
+2307.0,Rio Grande City,Texas,2003,10,Train,0.0
+2301.0,Brownsville,Texas,2003,11,Truck,17873.0
+2606.0,Sasabe,Arizona,2003,5,Bus,0.0
+2304.0,Laredo,Texas,2003,7,Train,0.0
+2310.0,Roma,Texas,2003,7,Train,0.0
+2302.0,Del Rio,Texas,2003,7,Truck,4272.0
+2505.0,Tecate,California,2003,6,Bus,619.0
+2310.0,Roma,Texas,2003,9,Pedestrian,20737.0
+2404.0,Tornillo,Texas,2003,2,Bus,0.0
+2304.0,Laredo,Texas,2003,5,Pedestrian,410533.0
+2507.0,Calexico East,California,2003,1,Train,147.0
+2404.0,Tornillo,Texas,2003,1,Bus,0.0
+2404.0,Tornillo,Texas,2003,4,Personal Vehicle,118892.0
+2403.0,Presidio,Texas,2003,3,Pedestrian,3257.0
+2406.0,Columbus,New Mexico,2003,5,Bus,576.0
+2406.0,Columbus,New Mexico,2003,5,Personal Vehicle,90428.0
+2505.0,Tecate,California,2003,2,Truck,3852.0
+2305.0,Hidalgo,Texas,2003,4,Pedestrian,162957.0
+2304.0,Laredo,Texas,2003,12,Bus,68568.0
+2305.0,Hidalgo,Texas,2003,12,Bus,50440.0
+2305.0,Hidalgo,Texas,2003,8,Bus,50640.0
+2310.0,Roma,Texas,2003,12,Pedestrian,25373.0
+2603.0,Naco,Arizona,2003,8,Personal Vehicle,181762.0
+2303.0,Eagle Pass,Texas,2003,3,Bus,1082.0
+2608.0,San Luis,Arizona,2003,6,Bus,28.0
+2603.0,Naco,Arizona,2003,9,Bus,450.0
+2402.0,El Paso,Texas,2003,6,Personal Vehicle,2323197.0
+2403.0,Presidio,Texas,2003,9,Truck,394.0
+2604.0,Nogales,Arizona,2003,2,Train,0.0
+2301.0,Brownsville,Texas,2003,4,Pedestrian,243908.0
+2305.0,Hidalgo,Texas,2003,9,Personal Vehicle,1254040.0
+2404.0,Tornillo,Texas,2003,8,Bus,0.0
+2502.0,Andrade,California,2003,3,Pedestrian,261687.0
+2305.0,Hidalgo,Texas,2003,9,Bus,53820.0
+2606.0,Sasabe,Arizona,2003,1,Pedestrian,110.0
+2302.0,Del Rio,Texas,2003,7,Pedestrian,11992.0
+2309.0,Progreso,Texas,2003,9,Pedestrian,59005.0
+2506.0,Otay Mesa,California,2003,1,Personal Vehicle,851078.0
+2302.0,Del Rio,Texas,2003,4,Pedestrian,11556.0
+2307.0,Rio Grande City,Texas,2003,9,Bus,0.0
+2404.0,Tornillo,Texas,2003,9,Train,0.0
+2606.0,Sasabe,Arizona,2003,6,Truck,77.0
+2310.0,Roma,Texas,2003,11,Truck,370.0
+2604.0,Nogales,Arizona,2003,12,Train,164.0
+2301.0,Brownsville,Texas,2003,2,Personal Vehicle,1104717.0
+2408.0,Santa Teresa,New Mexico,2003,4,Truck,2139.0
+2502.0,Andrade,California,2003,8,Train,0.0
+2606.0,Sasabe,Arizona,2003,6,Train,0.0
+2603.0,Naco,Arizona,2003,4,Pedestrian,6427.0
+2403.0,Presidio,Texas,2003,8,Truck,331.0
+2307.0,Rio Grande City,Texas,2003,12,Train,0.0
+2309.0,Progreso,Texas,2003,12,Bus,904.0
+2301.0,Brownsville,Texas,2003,6,Bus,4584.0
+2403.0,Presidio,Texas,2003,3,Bus,270.0
+2404.0,Tornillo,Texas,2003,12,Pedestrian,2616.0
+2404.0,Tornillo,Texas,2003,7,Pedestrian,1709.0
+2303.0,Eagle Pass,Texas,2003,5,Personal Vehicle,733725.0
+2302.0,Del Rio,Texas,2003,9,Personal Vehicle,363742.0
+2408.0,Santa Teresa,New Mexico,2003,11,Pedestrian,1403.0
+2403.0,Presidio,Texas,2003,2,Pedestrian,2535.0
+2309.0,Progreso,Texas,2003,11,Pedestrian,103274.0
+2603.0,Naco,Arizona,2003,5,Truck,290.0
+2502.0,Andrade,California,2003,9,Bus,124.0
+2606.0,Sasabe,Arizona,2003,2,Truck,156.0
+2303.0,Eagle Pass,Texas,2003,2,Bus,1031.0
+2602.0,Lukeville,Arizona,2003,8,Truck,29.0
+2506.0,Otay Mesa,California,2003,11,Bus,16096.0
+2307.0,Rio Grande City,Texas,2003,7,Personal Vehicle,195920.0
+2305.0,Hidalgo,Texas,2003,9,Train,0.0
+2503.0,Calexico,California,2003,5,Personal Vehicle,1037882.0
+2505.0,Tecate,California,2003,3,Bus,726.0
+2402.0,El Paso,Texas,2003,11,Train,156.0
+2504.0,San Ysidro,California,2003,8,Bus,123162.0
+2505.0,Tecate,California,2003,6,Train,8.0
+2507.0,Calexico East,California,2003,6,Train,147.0
+2307.0,Rio Grande City,Texas,2003,8,Bus,0.0
+2504.0,San Ysidro,California,2003,7,Pedestrian,535903.0
+2408.0,Santa Teresa,New Mexico,2003,10,Personal Vehicle,43777.0
+2404.0,Tornillo,Texas,2003,4,Train,0.0
+2502.0,Andrade,California,2003,12,Bus,0.0
+2505.0,Tecate,California,2003,12,Truck,4963.0
+2310.0,Roma,Texas,2003,2,Personal Vehicle,239163.0
+2503.0,Calexico,California,2003,9,Personal Vehicle,899368.0
+2403.0,Presidio,Texas,2003,11,Pedestrian,1655.0
+2403.0,Presidio,Texas,2003,7,Train,0.0
+2304.0,Laredo,Texas,2003,6,Bus,58256.0
+2604.0,Nogales,Arizona,2003,4,Truck,25200.0
+2402.0,El Paso,Texas,2003,9,Bus,27043.0
+2302.0,Del Rio,Texas,2003,5,Train,0.0
+2309.0,Progreso,Texas,2003,3,Pedestrian,178368.0
+2304.0,Laredo,Texas,2003,10,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,9,Truck,2790.0
+2507.0,Calexico East,California,2003,11,Train,140.0
+2309.0,Progreso,Texas,2003,11,Personal Vehicle,250600.0
+2303.0,Eagle Pass,Texas,2003,11,Train,624.0
+2304.0,Laredo,Texas,2003,1,Bus,70391.0
+2503.0,Calexico,California,2003,10,Truck,0.0
+2403.0,Presidio,Texas,2003,10,Truck,466.0
+2502.0,Andrade,California,2003,4,Personal Vehicle,117757.0
+2303.0,Eagle Pass,Texas,2003,9,Pedestrian,54592.0
+2602.0,Lukeville,Arizona,2003,1,Bus,298.0
+2602.0,Lukeville,Arizona,2003,1,Truck,109.0
+2303.0,Eagle Pass,Texas,2003,11,Pedestrian,61280.0
+2302.0,Del Rio,Texas,2003,9,Truck,4656.0
+2404.0,Tornillo,Texas,2003,6,Personal Vehicle,107768.0
+2310.0,Roma,Texas,2003,9,Personal Vehicle,223613.0
+2507.0,Calexico East,California,2003,5,Personal Vehicle,604630.0
+2604.0,Nogales,Arizona,2003,6,Personal Vehicle,923461.0
+2303.0,Eagle Pass,Texas,2003,11,Personal Vehicle,703320.0
+2604.0,Nogales,Arizona,2003,6,Train,148.0
+2608.0,San Luis,Arizona,2003,5,Pedestrian,204978.0
+2502.0,Andrade,California,2003,1,Pedestrian,275705.0
+2603.0,Naco,Arizona,2003,10,Personal Vehicle,174164.0
+2505.0,Tecate,California,2003,4,Bus,369.0
+2608.0,San Luis,Arizona,2003,5,Train,0.0
+2403.0,Presidio,Texas,2003,9,Pedestrian,1681.0
+2403.0,Presidio,Texas,2003,10,Personal Vehicle,131906.0
+2304.0,Laredo,Texas,2003,10,Bus,46994.0
+2403.0,Presidio,Texas,2003,5,Bus,280.0
+2402.0,El Paso,Texas,2003,6,Bus,34837.0
+2402.0,El Paso,Texas,2003,8,Bus,39091.0
+2608.0,San Luis,Arizona,2003,3,Train,0.0
+2502.0,Andrade,California,2003,4,Bus,282.0
+2601.0,Douglas,Arizona,2003,5,Personal Vehicle,484945.0
+2304.0,Laredo,Texas,2003,8,Train,0.0
+2304.0,Laredo,Texas,2003,8,Bus,79502.0
+2504.0,San Ysidro,California,2003,3,Truck,0.0
+2504.0,San Ysidro,California,2003,2,Truck,0.0
+2603.0,Naco,Arizona,2003,4,Truck,282.0
+2502.0,Andrade,California,2003,10,Train,0.0
+2302.0,Del Rio,Texas,2003,12,Personal Vehicle,389386.0
+2309.0,Progreso,Texas,2003,6,Bus,1137.0
+2304.0,Laredo,Texas,2003,7,Truck,115012.0
+2310.0,Roma,Texas,2003,8,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,9,Personal Vehicle,42313.0
+2506.0,Otay Mesa,California,2003,10,Personal Vehicle,966508.0
+2302.0,Del Rio,Texas,2003,8,Train,0.0
+2302.0,Del Rio,Texas,2003,9,Train,0.0
+2304.0,Laredo,Texas,2003,3,Pedestrian,396288.0
+2601.0,Douglas,Arizona,2003,8,Personal Vehicle,418121.0
+2606.0,Sasabe,Arizona,2003,8,Pedestrian,219.0
+2603.0,Naco,Arizona,2003,2,Truck,251.0
+2304.0,Laredo,Texas,2003,1,Train,0.0
+2309.0,Progreso,Texas,2003,8,Train,0.0
+2402.0,El Paso,Texas,2003,12,Truck,51963.0
+2502.0,Andrade,California,2003,10,Truck,262.0
+2507.0,Calexico East,California,2003,6,Bus,258.0
+2403.0,Presidio,Texas,2003,2,Truck,377.0
+2602.0,Lukeville,Arizona,2003,11,Truck,29.0
+2302.0,Del Rio,Texas,2003,9,Bus,0.0
+2307.0,Rio Grande City,Texas,2003,8,Pedestrian,10140.0
+2606.0,Sasabe,Arizona,2003,6,Pedestrian,186.0
+2604.0,Nogales,Arizona,2003,6,Pedestrian,486238.0
+2305.0,Hidalgo,Texas,2003,4,Train,0.0
+2504.0,San Ysidro,California,2003,7,Truck,0.0
+2502.0,Andrade,California,2003,9,Truck,203.0
+2603.0,Naco,Arizona,2003,9,Pedestrian,6528.0
+2602.0,Lukeville,Arizona,2003,11,Train,0.0
+2602.0,Lukeville,Arizona,2003,5,Bus,147.0
+2506.0,Otay Mesa,California,2003,2,Train,34.0
+2603.0,Naco,Arizona,2003,1,Bus,0.0
+2507.0,Calexico East,California,2003,2,Truck,23309.0
+2506.0,Otay Mesa,California,2003,12,Train,42.0
+2307.0,Rio Grande City,Texas,2003,1,Bus,0.0
+2301.0,Brownsville,Texas,2003,8,Truck,20254.0
+2303.0,Eagle Pass,Texas,2003,2,Personal Vehicle,643739.0
+2302.0,Del Rio,Texas,2003,2,Personal Vehicle,325726.0
+2603.0,Naco,Arizona,2003,7,Pedestrian,5759.0
+2301.0,Brownsville,Texas,2003,3,Train,0.0
+2302.0,Del Rio,Texas,2003,10,Bus,1.0
+2601.0,Douglas,Arizona,2003,4,Truck,2291.0
+2502.0,Andrade,California,2003,12,Personal Vehicle,153331.0
+2402.0,El Paso,Texas,2003,9,Pedestrian,709811.0
+2602.0,Lukeville,Arizona,2003,6,Train,0.0
+2504.0,San Ysidro,California,2003,9,Bus,92199.0
+2502.0,Andrade,California,2003,8,Truck,161.0
+2505.0,Tecate,California,2003,6,Personal Vehicle,206128.0
+2502.0,Andrade,California,2003,8,Personal Vehicle,127415.0
+2507.0,Calexico East,California,2003,6,Personal Vehicle,526068.0
+2404.0,Tornillo,Texas,2003,9,Bus,0.0
+2309.0,Progreso,Texas,2003,10,Bus,2240.0
+2608.0,San Luis,Arizona,2003,9,Bus,39.0
+2602.0,Lukeville,Arizona,2003,11,Bus,295.0
+2408.0,Santa Teresa,New Mexico,2003,1,Bus,359.0
+2301.0,Brownsville,Texas,2003,1,Pedestrian,226185.0
+2507.0,Calexico East,California,2003,10,Bus,565.0
+2408.0,Santa Teresa,New Mexico,2003,4,Train,0.0
+2603.0,Naco,Arizona,2003,6,Train,0.0
+2309.0,Progreso,Texas,2003,1,Personal Vehicle,230105.0
+2601.0,Douglas,Arizona,2003,1,Train,0.0
+2502.0,Andrade,California,2003,10,Pedestrian,118563.0
+2403.0,Presidio,Texas,2003,5,Pedestrian,1746.0
+2602.0,Lukeville,Arizona,2003,3,Pedestrian,6868.0
+2303.0,Eagle Pass,Texas,2003,10,Bus,990.0
+2601.0,Douglas,Arizona,2003,11,Train,0.0
+2505.0,Tecate,California,2003,10,Bus,403.0
+2604.0,Nogales,Arizona,2003,5,Bus,9662.0
+2408.0,Santa Teresa,New Mexico,2003,6,Train,0.0
+2608.0,San Luis,Arizona,2003,10,Pedestrian,223430.0
+2606.0,Sasabe,Arizona,2003,1,Personal Vehicle,7428.0
+2406.0,Columbus,New Mexico,2003,9,Pedestrian,23488.0
+2602.0,Lukeville,Arizona,2003,6,Pedestrian,8227.0
+2608.0,San Luis,Arizona,2003,1,Pedestrian,274185.0
+2402.0,El Paso,Texas,2003,3,Pedestrian,721989.0
+2310.0,Roma,Texas,2003,7,Bus,4773.0
+2502.0,Andrade,California,2003,7,Truck,168.0
+2603.0,Naco,Arizona,2003,5,Train,0.0
+2603.0,Naco,Arizona,2003,10,Bus,325.0
+2307.0,Rio Grande City,Texas,2003,3,Truck,2951.0
+2504.0,San Ysidro,California,2003,8,Pedestrian,637145.0
+2402.0,El Paso,Texas,2003,2,Personal Vehicle,1958480.0
+2301.0,Brownsville,Texas,2003,10,Pedestrian,221476.0
+2303.0,Eagle Pass,Texas,2003,6,Bus,726.0
+2406.0,Columbus,New Mexico,2003,3,Personal Vehicle,67247.0
+2403.0,Presidio,Texas,2003,10,Bus,270.0
+2404.0,Tornillo,Texas,2003,10,Pedestrian,1463.0
+2601.0,Douglas,Arizona,2003,10,Bus,4320.0
+2608.0,San Luis,Arizona,2003,7,Train,0.0
+2606.0,Sasabe,Arizona,2003,2,Personal Vehicle,8648.0
+2402.0,El Paso,Texas,2003,11,Personal Vehicle,2109336.0
+2305.0,Hidalgo,Texas,2003,2,Personal Vehicle,1209299.0
+2606.0,Sasabe,Arizona,2003,9,Personal Vehicle,8380.0
+2307.0,Rio Grande City,Texas,2003,11,Bus,0.0
+2505.0,Tecate,California,2003,8,Pedestrian,30006.0
+2307.0,Rio Grande City,Texas,2003,12,Personal Vehicle,230318.0
+2604.0,Nogales,Arizona,2003,1,Personal Vehicle,742040.0
+2301.0,Brownsville,Texas,2003,5,Train,0.0
+2301.0,Brownsville,Texas,2003,11,Bus,4000.0
+2608.0,San Luis,Arizona,2003,9,Pedestrian,196687.0
+2406.0,Columbus,New Mexico,2003,2,Train,0.0
+2307.0,Rio Grande City,Texas,2003,2,Train,0.0
+2602.0,Lukeville,Arizona,2003,9,Truck,40.0
+2307.0,Rio Grande City,Texas,2003,7,Bus,0.0
+2507.0,Calexico East,California,2003,12,Pedestrian,376.0
+2307.0,Rio Grande City,Texas,2003,6,Truck,3085.0
+2304.0,Laredo,Texas,2003,6,Pedestrian,376499.0
+2309.0,Progreso,Texas,2003,9,Personal Vehicle,186965.0
+2310.0,Roma,Texas,2003,6,Bus,3428.0
+2608.0,San Luis,Arizona,2003,10,Bus,51.0
+2402.0,El Paso,Texas,2003,3,Truck,52858.0
+2507.0,Calexico East,California,2003,11,Pedestrian,180.0
+2307.0,Rio Grande City,Texas,2003,1,Personal Vehicle,206861.0
+2303.0,Eagle Pass,Texas,2003,8,Pedestrian,59386.0
+2309.0,Progreso,Texas,2003,3,Truck,1580.0
+2601.0,Douglas,Arizona,2003,9,Pedestrian,54100.0
+2502.0,Andrade,California,2003,5,Truck,0.0
+2608.0,San Luis,Arizona,2003,9,Train,0.0
+2402.0,El Paso,Texas,2003,12,Personal Vehicle,2350448.0
+2507.0,Calexico East,California,2003,7,Bus,0.0
+2507.0,Calexico East,California,2003,7,Truck,0.0
+2406.0,Columbus,New Mexico,2003,1,Pedestrian,19861.0
+2302.0,Del Rio,Texas,2003,6,Train,0.0
+2304.0,Laredo,Texas,2003,11,Personal Vehicle,1333681.0
+2303.0,Eagle Pass,Texas,2003,7,Personal Vehicle,721556.0
+2602.0,Lukeville,Arizona,2003,7,Pedestrian,9139.0
+2601.0,Douglas,Arizona,2003,4,Personal Vehicle,465031.0
+2604.0,Nogales,Arizona,2003,9,Train,132.0
+2503.0,Calexico,California,2003,10,Personal Vehicle,875142.0
+2504.0,San Ysidro,California,2003,11,Train,0.0
+2309.0,Progreso,Texas,2003,9,Bus,897.0
+2307.0,Rio Grande City,Texas,2003,12,Pedestrian,10511.0
+2608.0,San Luis,Arizona,2003,5,Truck,3035.0
+2505.0,Tecate,California,2003,5,Personal Vehicle,290207.0
+2503.0,Calexico,California,2003,7,Personal Vehicle,0.0
+2608.0,San Luis,Arizona,2003,6,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,6,Pedestrian,1449.0
+2302.0,Del Rio,Texas,2003,11,Personal Vehicle,362413.0
+2403.0,Presidio,Texas,2003,6,Personal Vehicle,143220.0
+2602.0,Lukeville,Arizona,2003,2,Truck,83.0
+2406.0,Columbus,New Mexico,2003,11,Truck,346.0
+2402.0,El Paso,Texas,2003,12,Bus,38418.0
+2309.0,Progreso,Texas,2003,5,Pedestrian,76115.0
+2608.0,San Luis,Arizona,2003,2,Truck,3957.0
+2310.0,Roma,Texas,2003,4,Personal Vehicle,257711.0
+2305.0,Hidalgo,Texas,2003,5,Truck,33399.0
+2604.0,Nogales,Arizona,2003,4,Personal Vehicle,812495.0
+2505.0,Tecate,California,2003,9,Pedestrian,33148.0
+2503.0,Calexico,California,2003,4,Bus,1236.0
+2603.0,Naco,Arizona,2003,9,Train,0.0
+2310.0,Roma,Texas,2003,4,Train,0.0
+2503.0,Calexico,California,2003,4,Train,0.0
+2602.0,Lukeville,Arizona,2003,9,Pedestrian,6251.0
+2606.0,Sasabe,Arizona,2003,6,Bus,0.0
+2602.0,Lukeville,Arizona,2003,10,Pedestrian,6699.0
+2602.0,Lukeville,Arizona,2003,2,Personal Vehicle,91451.0
+2305.0,Hidalgo,Texas,2003,5,Train,0.0
+2304.0,Laredo,Texas,2003,9,Train,0.0
+2602.0,Lukeville,Arizona,2003,7,Bus,0.0
+2505.0,Tecate,California,2003,10,Pedestrian,32159.0
+2604.0,Nogales,Arizona,2003,3,Pedestrian,427902.0
+2603.0,Naco,Arizona,2003,7,Truck,318.0
+2408.0,Santa Teresa,New Mexico,2003,7,Train,0.0
+2602.0,Lukeville,Arizona,2003,2,Bus,407.0
+2403.0,Presidio,Texas,2003,12,Truck,710.0
+2402.0,El Paso,Texas,2003,11,Bus,29485.0
+2310.0,Roma,Texas,2003,6,Train,0.0
+2309.0,Progreso,Texas,2003,12,Pedestrian,135479.0
+2601.0,Douglas,Arizona,2003,2,Bus,4760.0
+2303.0,Eagle Pass,Texas,2003,9,Bus,789.0
+2404.0,Tornillo,Texas,2003,12,Train,0.0
+2503.0,Calexico,California,2003,2,Personal Vehicle,858705.0
+2404.0,Tornillo,Texas,2003,5,Train,0.0
+2506.0,Otay Mesa,California,2003,8,Train,42.0
+2507.0,Calexico East,California,2003,8,Bus,275.0
+2402.0,El Paso,Texas,2003,9,Train,156.0
+2302.0,Del Rio,Texas,2003,4,Bus,541.0
+2503.0,Calexico,California,2003,6,Personal Vehicle,1019916.0
+2603.0,Naco,Arizona,2003,6,Truck,282.0
+2606.0,Sasabe,Arizona,2003,7,Pedestrian,174.0
+2603.0,Naco,Arizona,2003,8,Truck,293.0
+2504.0,San Ysidro,California,2003,5,Bus,106964.0
+2305.0,Hidalgo,Texas,2003,5,Pedestrian,169661.0
+2408.0,Santa Teresa,New Mexico,2003,2,Train,0.0
+2301.0,Brownsville,Texas,2003,8,Bus,6424.0
+2507.0,Calexico East,California,2003,1,Pedestrian,172.0
+2601.0,Douglas,Arizona,2003,10,Personal Vehicle,346376.0
+2602.0,Lukeville,Arizona,2003,10,Personal Vehicle,106435.0
+2601.0,Douglas,Arizona,2003,9,Bus,2616.0
+2404.0,Tornillo,Texas,2003,9,Personal Vehicle,113125.0
+2504.0,San Ysidro,California,2003,5,Personal Vehicle,3309009.0
+2602.0,Lukeville,Arizona,2003,4,Pedestrian,7355.0
+2604.0,Nogales,Arizona,2003,4,Pedestrian,486353.0
+2304.0,Laredo,Texas,2003,9,Pedestrian,311897.0
+2406.0,Columbus,New Mexico,2003,8,Pedestrian,20591.0
+2302.0,Del Rio,Texas,2003,1,Bus,560.0
+2503.0,Calexico,California,2003,3,Truck,0.0
+2507.0,Calexico East,California,2003,2,Pedestrian,192.0
+2309.0,Progreso,Texas,2003,5,Truck,1485.0
+2604.0,Nogales,Arizona,2003,7,Personal Vehicle,877984.0
+2303.0,Eagle Pass,Texas,2003,6,Truck,7401.0
+2606.0,Sasabe,Arizona,2003,9,Train,0.0
+2504.0,San Ysidro,California,2003,1,Truck,0.0
+2406.0,Columbus,New Mexico,2003,4,Truck,280.0
+2504.0,San Ysidro,California,2003,1,Pedestrian,654727.0
+2505.0,Tecate,California,2003,1,Personal Vehicle,182683.0
+2602.0,Lukeville,Arizona,2003,3,Bus,958.0
+2406.0,Columbus,New Mexico,2003,3,Truck,264.0
+2310.0,Roma,Texas,2003,3,Personal Vehicle,283568.0
+2505.0,Tecate,California,2003,3,Personal Vehicle,167099.0
+2603.0,Naco,Arizona,2003,3,Personal Vehicle,89410.0
+2604.0,Nogales,Arizona,2003,10,Truck,15205.0
+2402.0,El Paso,Texas,2003,5,Bus,31918.0
+2305.0,Hidalgo,Texas,2003,6,Personal Vehicle,1268523.0
+2307.0,Rio Grande City,Texas,2003,9,Personal Vehicle,184783.0
+2307.0,Rio Grande City,Texas,2003,2,Pedestrian,9318.0
+2602.0,Lukeville,Arizona,2003,5,Personal Vehicle,127675.0
+2402.0,El Paso,Texas,2003,2,Pedestrian,664557.0
+2603.0,Naco,Arizona,2003,8,Bus,200.0
+2603.0,Naco,Arizona,2003,5,Personal Vehicle,213912.0
+2608.0,San Luis,Arizona,2003,6,Truck,2751.0
+2310.0,Roma,Texas,2003,3,Pedestrian,20334.0
+2602.0,Lukeville,Arizona,2003,4,Personal Vehicle,114602.0
+2602.0,Lukeville,Arizona,2003,1,Train,0.0
+2503.0,Calexico,California,2003,2,Pedestrian,567960.0
+2302.0,Del Rio,Texas,2003,2,Bus,508.0
+2303.0,Eagle Pass,Texas,2003,5,Truck,7524.0
+2307.0,Rio Grande City,Texas,2003,11,Train,0.0
+2309.0,Progreso,Texas,2003,6,Truck,1294.0
+2309.0,Progreso,Texas,2003,5,Train,0.0
+2506.0,Otay Mesa,California,2003,12,Pedestrian,138673.0
+2502.0,Andrade,California,2003,11,Bus,0.0
+2404.0,Tornillo,Texas,2003,11,Personal Vehicle,119870.0
+2507.0,Calexico East,California,2003,2,Personal Vehicle,550443.0
+2601.0,Douglas,Arizona,2003,1,Truck,1895.0
+2507.0,Calexico East,California,2003,9,Personal Vehicle,459530.0
+2506.0,Otay Mesa,California,2003,8,Personal Vehicle,997541.0
+2602.0,Lukeville,Arizona,2003,8,Pedestrian,8582.0
+2608.0,San Luis,Arizona,2003,2,Bus,134.0
+2305.0,Hidalgo,Texas,2003,6,Train,0.0
+2506.0,Otay Mesa,California,2003,8,Truck,60513.0
+2608.0,San Luis,Arizona,2003,3,Pedestrian,248218.0
+2602.0,Lukeville,Arizona,2003,10,Bus,269.0
+2604.0,Nogales,Arizona,2003,11,Truck,18488.0
+2502.0,Andrade,California,2003,2,Train,0.0
+2406.0,Columbus,New Mexico,2003,12,Truck,240.0
+2503.0,Calexico,California,2003,6,Train,0.0
+2602.0,Lukeville,Arizona,2003,9,Bus,39.0
+2608.0,San Luis,Arizona,2003,8,Personal Vehicle,610422.0
+2406.0,Columbus,New Mexico,2003,1,Truck,123.0
+2309.0,Progreso,Texas,2003,1,Truck,1634.0
+2606.0,Sasabe,Arizona,2003,3,Pedestrian,145.0
+2402.0,El Paso,Texas,2003,5,Personal Vehicle,2338119.0
+2506.0,Otay Mesa,California,2003,10,Bus,27876.0
+2602.0,Lukeville,Arizona,2003,5,Pedestrian,8643.0
+2503.0,Calexico,California,2003,12,Bus,1206.0
+2408.0,Santa Teresa,New Mexico,2003,2,Pedestrian,1492.0
+2603.0,Naco,Arizona,2003,1,Train,0.0
+2309.0,Progreso,Texas,2003,1,Bus,1218.0
+2403.0,Presidio,Texas,2003,6,Truck,320.0
+2302.0,Del Rio,Texas,2003,5,Bus,558.0
+2408.0,Santa Teresa,New Mexico,2003,7,Pedestrian,1298.0
+2505.0,Tecate,California,2003,2,Personal Vehicle,162826.0
+2307.0,Rio Grande City,Texas,2003,10,Truck,3456.0
+2302.0,Del Rio,Texas,2003,3,Pedestrian,15579.0
+2502.0,Andrade,California,2003,6,Train,0.0
+2506.0,Otay Mesa,California,2003,7,Train,46.0
+2309.0,Progreso,Texas,2003,2,Personal Vehicle,232355.0
+2608.0,San Luis,Arizona,2003,5,Personal Vehicle,638098.0
+2404.0,Tornillo,Texas,2003,9,Truck,0.0
+2301.0,Brownsville,Texas,2003,6,Truck,18868.0
+2601.0,Douglas,Arizona,2003,3,Truck,2086.0
+2402.0,El Paso,Texas,2003,1,Bus,20543.0
+2504.0,San Ysidro,California,2003,12,Train,0.0
+2309.0,Progreso,Texas,2003,8,Personal Vehicle,222406.0
+2603.0,Naco,Arizona,2003,7,Personal Vehicle,184906.0
+2406.0,Columbus,New Mexico,2003,3,Pedestrian,20630.0
+2402.0,El Paso,Texas,2003,1,Pedestrian,697889.0
+2302.0,Del Rio,Texas,2003,3,Truck,5808.0
+2301.0,Brownsville,Texas,2003,7,Truck,20616.0
+2404.0,Tornillo,Texas,2003,5,Pedestrian,1954.0
+2307.0,Rio Grande City,Texas,2003,3,Train,0.0
+2506.0,Otay Mesa,California,2003,2,Pedestrian,99540.0
+2506.0,Otay Mesa,California,2003,6,Truck,60000.0
+2404.0,Tornillo,Texas,2003,4,Bus,0.0
+2608.0,San Luis,Arizona,2003,6,Personal Vehicle,608603.0
+2602.0,Lukeville,Arizona,2003,11,Personal Vehicle,92614.0
+2301.0,Brownsville,Texas,2003,3,Bus,5742.0
+2504.0,San Ysidro,California,2003,11,Personal Vehicle,3593252.0
+2305.0,Hidalgo,Texas,2003,11,Truck,32495.0
+2503.0,Calexico,California,2003,12,Train,0.0
+2304.0,Laredo,Texas,2003,3,Personal Vehicle,1259726.0
+2303.0,Eagle Pass,Texas,2003,1,Pedestrian,55032.0
+2303.0,Eagle Pass,Texas,2003,1,Bus,1206.0
+2502.0,Andrade,California,2003,7,Bus,0.0
+2402.0,El Paso,Texas,2003,7,Bus,43704.0
+2309.0,Progreso,Texas,2003,5,Bus,1133.0
+2403.0,Presidio,Texas,2003,1,Train,0.0
+2307.0,Rio Grande City,Texas,2003,4,Truck,2642.0
+2506.0,Otay Mesa,California,2003,4,Pedestrian,112207.0
+2507.0,Calexico East,California,2003,2,Bus,880.0
+2302.0,Del Rio,Texas,2003,11,Pedestrian,8857.0
+2408.0,Santa Teresa,New Mexico,2003,5,Personal Vehicle,36064.0
+2504.0,San Ysidro,California,2003,4,Pedestrian,674254.0
+2601.0,Douglas,Arizona,2003,3,Personal Vehicle,500822.0
+2602.0,Lukeville,Arizona,2003,2,Train,0.0
+2304.0,Laredo,Texas,2003,6,Truck,114784.0
+2505.0,Tecate,California,2003,7,Bus,628.0
+2503.0,Calexico,California,2003,6,Truck,0.0
+2408.0,Santa Teresa,New Mexico,2003,10,Truck,2737.0
+2606.0,Sasabe,Arizona,2003,9,Bus,0.0
+2504.0,San Ysidro,California,2003,4,Bus,100281.0
+2404.0,Tornillo,Texas,2003,4,Pedestrian,2234.0
+2604.0,Nogales,Arizona,2003,8,Pedestrian,422411.0
+2301.0,Brownsville,Texas,2003,6,Personal Vehicle,1092107.0
+2406.0,Columbus,New Mexico,2003,2,Bus,464.0
+2309.0,Progreso,Texas,2003,10,Pedestrian,74295.0
+2603.0,Naco,Arizona,2003,4,Personal Vehicle,96464.0
+2503.0,Calexico,California,2003,4,Pedestrian,585823.0
+2303.0,Eagle Pass,Texas,2003,8,Bus,896.0
+2309.0,Progreso,Texas,2003,8,Bus,388.0
+2408.0,Santa Teresa,New Mexico,2003,9,Bus,279.0
+2305.0,Hidalgo,Texas,2003,1,Bus,55340.0
+2505.0,Tecate,California,2003,1,Train,64.0
+2310.0,Roma,Texas,2003,9,Bus,3178.0
+2502.0,Andrade,California,2003,11,Personal Vehicle,151483.0
+2502.0,Andrade,California,2003,5,Bus,0.0
+2309.0,Progreso,Texas,2003,1,Train,0.0
+2505.0,Tecate,California,2003,5,Train,12.0
+2603.0,Naco,Arizona,2003,3,Train,0.0
+2404.0,Tornillo,Texas,2003,3,Pedestrian,2552.0
+2310.0,Roma,Texas,2003,1,Train,0.0
+2503.0,Calexico,California,2003,8,Personal Vehicle,949431.0
+2309.0,Progreso,Texas,2003,4,Pedestrian,87033.0
+2608.0,San Luis,Arizona,2003,4,Truck,3193.0
+2406.0,Columbus,New Mexico,2003,3,Bus,533.0
+2602.0,Lukeville,Arizona,2003,10,Train,0.0
+2310.0,Roma,Texas,2003,2,Bus,4892.0
+2404.0,Tornillo,Texas,2003,8,Train,0.0
+2301.0,Brownsville,Texas,2003,1,Truck,19282.0
+2606.0,Sasabe,Arizona,2003,2,Bus,0.0
+2303.0,Eagle Pass,Texas,2003,10,Train,596.0
+2301.0,Brownsville,Texas,2003,9,Pedestrian,218754.0
+2502.0,Andrade,California,2003,3,Bus,318.0
+2406.0,Columbus,New Mexico,2003,12,Personal Vehicle,93761.0
+2601.0,Douglas,Arizona,2003,4,Pedestrian,61279.0
+2503.0,Calexico,California,2003,1,Truck,0.0
+2310.0,Roma,Texas,2003,11,Personal Vehicle,257357.0
+2301.0,Brownsville,Texas,2003,1,Bus,6579.0
+2403.0,Presidio,Texas,2003,11,Personal Vehicle,145046.0
+2301.0,Brownsville,Texas,2003,5,Pedestrian,243722.0
+2307.0,Rio Grande City,Texas,2003,2,Bus,0.0
+2507.0,Calexico East,California,2003,9,Bus,485.0
+2505.0,Tecate,California,2003,9,Bus,413.0
+2403.0,Presidio,Texas,2003,12,Train,0.0
+2304.0,Laredo,Texas,2003,9,Personal Vehicle,1151628.0
+2406.0,Columbus,New Mexico,2003,2,Pedestrian,19233.0
+2505.0,Tecate,California,2003,7,Train,8.0
+2309.0,Progreso,Texas,2003,12,Personal Vehicle,278538.0
+2302.0,Del Rio,Texas,2003,1,Pedestrian,11998.0
+2608.0,San Luis,Arizona,2003,7,Pedestrian,161753.0
+2408.0,Santa Teresa,New Mexico,2003,8,Train,0.0
+2402.0,El Paso,Texas,2003,3,Train,159.0
+2505.0,Tecate,California,2003,3,Truck,4835.0
+2602.0,Lukeville,Arizona,2003,7,Personal Vehicle,98730.0
+2305.0,Hidalgo,Texas,2003,11,Train,0.0
+2403.0,Presidio,Texas,2003,7,Personal Vehicle,145358.0
+2503.0,Calexico,California,2003,7,Pedestrian,0.0
+2601.0,Douglas,Arizona,2003,6,Train,0.0
+2506.0,Otay Mesa,California,2003,7,Truck,64577.0
+2406.0,Columbus,New Mexico,2003,11,Pedestrian,20260.0
+2309.0,Progreso,Texas,2003,11,Bus,2361.0
+2507.0,Calexico East,California,2003,12,Bus,600.0
+2305.0,Hidalgo,Texas,2003,10,Pedestrian,161127.0
+2603.0,Naco,Arizona,2003,12,Pedestrian,6752.0
+2502.0,Andrade,California,2003,10,Bus,0.0
+2506.0,Otay Mesa,California,2003,4,Bus,23869.0
+2603.0,Naco,Arizona,2003,1,Personal Vehicle,77630.0
+2507.0,Calexico East,California,2003,5,Truck,22804.0
+2603.0,Naco,Arizona,2003,2,Bus,0.0
+2310.0,Roma,Texas,2003,10,Train,0.0
+2507.0,Calexico East,California,2003,1,Personal Vehicle,712850.0
+2604.0,Nogales,Arizona,2003,9,Personal Vehicle,864713.0
+2307.0,Rio Grande City,Texas,2003,7,Truck,3529.0
+2408.0,Santa Teresa,New Mexico,2003,8,Bus,213.0
+2404.0,Tornillo,Texas,2003,1,Personal Vehicle,118929.0
+2309.0,Progreso,Texas,2003,2,Train,0.0
+2505.0,Tecate,California,2003,1,Pedestrian,33123.0
+2504.0,San Ysidro,California,2003,10,Pedestrian,783691.0
+2601.0,Douglas,Arizona,2003,6,Personal Vehicle,438132.0
+2404.0,Tornillo,Texas,2003,10,Bus,0.0
+2604.0,Nogales,Arizona,2003,8,Bus,10678.0
+2303.0,Eagle Pass,Texas,2003,3,Truck,7475.0
+2304.0,Laredo,Texas,2003,3,Bus,60573.0
+2503.0,Calexico,California,2003,8,Bus,1541.0
+2403.0,Presidio,Texas,2003,5,Train,0.0
+2505.0,Tecate,California,2003,1,Bus,703.0
+2406.0,Columbus,New Mexico,2003,8,Train,0.0
+2507.0,Calexico East,California,2003,4,Pedestrian,128.0
+2502.0,Andrade,California,2003,2,Pedestrian,262550.0
+2606.0,Sasabe,Arizona,2003,11,Truck,66.0
+2601.0,Douglas,Arizona,2003,6,Bus,4880.0
+2504.0,San Ysidro,California,2003,4,Personal Vehicle,3086332.0
+2309.0,Progreso,Texas,2003,7,Personal Vehicle,239120.0
+2403.0,Presidio,Texas,2003,8,Train,0.0
+2310.0,Roma,Texas,2003,2,Truck,610.0
+2304.0,Laredo,Texas,2003,5,Bus,56446.0
+2503.0,Calexico,California,2003,8,Pedestrian,576902.0
+2301.0,Brownsville,Texas,2003,9,Train,0.0
+2507.0,Calexico East,California,2003,10,Personal Vehicle,534337.0
+2403.0,Presidio,Texas,2003,4,Pedestrian,3142.0
+2408.0,Santa Teresa,New Mexico,2003,12,Train,0.0
+2309.0,Progreso,Texas,2003,6,Pedestrian,82484.0
+2309.0,Progreso,Texas,2003,8,Truck,1815.0
+2601.0,Douglas,Arizona,2003,11,Personal Vehicle,422295.0
+2506.0,Otay Mesa,California,2003,11,Personal Vehicle,1129342.0
+2604.0,Nogales,Arizona,2003,5,Pedestrian,552689.0
+2604.0,Nogales,Arizona,2003,4,Bus,11701.0
+2408.0,Santa Teresa,New Mexico,2003,5,Bus,934.0
+2408.0,Santa Teresa,New Mexico,2003,3,Pedestrian,1609.0
+2408.0,Santa Teresa,New Mexico,2003,9,Pedestrian,918.0
+2507.0,Calexico East,California,2003,3,Train,140.0
+2604.0,Nogales,Arizona,2003,10,Pedestrian,440769.0
+2406.0,Columbus,New Mexico,2003,6,Pedestrian,14872.0
+2406.0,Columbus,New Mexico,2003,4,Bus,732.0
+2502.0,Andrade,California,2003,12,Train,0.0
+2403.0,Presidio,Texas,2003,8,Personal Vehicle,142217.0
+2606.0,Sasabe,Arizona,2003,10,Train,0.0
+2404.0,Tornillo,Texas,2003,11,Pedestrian,1815.0
+2603.0,Naco,Arizona,2003,10,Truck,389.0
+2304.0,Laredo,Texas,2003,1,Pedestrian,367927.0
+2304.0,Laredo,Texas,2003,1,Truck,117773.0
+2303.0,Eagle Pass,Texas,2003,12,Pedestrian,77840.0
+2502.0,Andrade,California,2003,6,Bus,129.0
+2302.0,Del Rio,Texas,2003,1,Truck,6014.0
+2606.0,Sasabe,Arizona,2003,11,Bus,0.0
+2309.0,Progreso,Texas,2003,4,Train,0.0
+2604.0,Nogales,Arizona,2003,7,Bus,15389.0
+2505.0,Tecate,California,2003,8,Personal Vehicle,229163.0
+2310.0,Roma,Texas,2003,12,Truck,607.0
+2504.0,San Ysidro,California,2003,2,Pedestrian,596919.0
+2403.0,Presidio,Texas,2003,1,Personal Vehicle,141434.0
+2310.0,Roma,Texas,2003,6,Truck,616.0
+2310.0,Roma,Texas,2003,12,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,1,Truck,2189.0
+2408.0,Santa Teresa,New Mexico,2003,8,Truck,2400.0
+2504.0,San Ysidro,California,2003,1,Personal Vehicle,3247611.0
+2406.0,Columbus,New Mexico,2003,2,Truck,168.0
+2608.0,San Luis,Arizona,2003,9,Truck,2574.0
+2604.0,Nogales,Arizona,2003,5,Train,164.0
+2505.0,Tecate,California,2003,3,Pedestrian,41153.0
+2601.0,Douglas,Arizona,2003,5,Bus,1966.0
+2601.0,Douglas,Arizona,2003,12,Train,0.0
+2305.0,Hidalgo,Texas,2003,6,Pedestrian,164995.0
+2603.0,Naco,Arizona,2003,7,Bus,375.0
+2402.0,El Paso,Texas,2003,10,Train,162.0
+2507.0,Calexico East,California,2003,3,Pedestrian,161.0
+2309.0,Progreso,Texas,2003,2,Truck,1433.0
+2408.0,Santa Teresa,New Mexico,2003,12,Pedestrian,1363.0
+2507.0,Calexico East,California,2003,4,Truck,25209.0
+2504.0,San Ysidro,California,2003,5,Train,0.0
+2305.0,Hidalgo,Texas,2003,10,Bus,56170.0
+2606.0,Sasabe,Arizona,2003,5,Personal Vehicle,10130.0
+2302.0,Del Rio,Texas,2003,9,Pedestrian,6696.0
+2310.0,Roma,Texas,2003,3,Truck,690.0
+2304.0,Laredo,Texas,2003,11,Pedestrian,379615.0
+2302.0,Del Rio,Texas,2003,7,Train,0.0
+2406.0,Columbus,New Mexico,2003,3,Train,0.0
+2603.0,Naco,Arizona,2003,2,Train,0.0
+2307.0,Rio Grande City,Texas,2003,1,Truck,2587.0
+2305.0,Hidalgo,Texas,2003,9,Truck,32250.0
+2504.0,San Ysidro,California,2003,12,Personal Vehicle,3755585.0
+2302.0,Del Rio,Texas,2003,10,Personal Vehicle,360258.0
+2402.0,El Paso,Texas,2003,4,Pedestrian,750543.0
+2503.0,Calexico,California,2003,5,Train,0.0
+2309.0,Progreso,Texas,2003,1,Pedestrian,146395.0
+2502.0,Andrade,California,2003,7,Personal Vehicle,118091.0
+2303.0,Eagle Pass,Texas,2003,12,Bus,1581.0
+2602.0,Lukeville,Arizona,2003,7,Truck,28.0
+2304.0,Laredo,Texas,2003,6,Train,0.0
+2309.0,Progreso,Texas,2003,12,Train,0.0
+2604.0,Nogales,Arizona,2003,1,Bus,9132.0
+2507.0,Calexico East,California,2003,5,Train,0.0
+2404.0,Tornillo,Texas,2003,11,Truck,0.0
+2603.0,Naco,Arizona,2003,3,Pedestrian,6889.0
+2604.0,Nogales,Arizona,2003,8,Train,164.0
+2505.0,Tecate,California,2003,9,Truck,4859.0
+2304.0,Laredo,Texas,2003,5,Train,0.0
+2404.0,Tornillo,Texas,2003,6,Bus,0.0
+2604.0,Nogales,Arizona,2003,11,Bus,11733.0
+2402.0,El Paso,Texas,2003,1,Train,135.0
+2608.0,San Luis,Arizona,2003,11,Bus,57.0
+2504.0,San Ysidro,California,2003,10,Train,0.0
+2601.0,Douglas,Arizona,2003,9,Personal Vehicle,399862.0
+2601.0,Douglas,Arizona,2003,4,Bus,2203.0
+2506.0,Otay Mesa,California,2003,5,Train,40.0
+2602.0,Lukeville,Arizona,2003,5,Train,0.0
+2301.0,Brownsville,Texas,2003,2,Bus,4662.0
+2307.0,Rio Grande City,Texas,2003,8,Personal Vehicle,205577.0
+2305.0,Hidalgo,Texas,2003,7,Pedestrian,179254.0
+2304.0,Laredo,Texas,2003,11,Bus,54811.0
+2503.0,Calexico,California,2003,7,Train,0.0
+2310.0,Roma,Texas,2003,2,Train,0.0
+2606.0,Sasabe,Arizona,2003,8,Train,0.0
+2404.0,Tornillo,Texas,2003,1,Truck,0.0
+2310.0,Roma,Texas,2003,6,Pedestrian,16571.0
+2303.0,Eagle Pass,Texas,2003,10,Pedestrian,55843.0
+2403.0,Presidio,Texas,2003,6,Train,0.0
+2608.0,San Luis,Arizona,2003,12,Train,0.0
+2602.0,Lukeville,Arizona,2003,12,Personal Vehicle,78607.0
+2601.0,Douglas,Arizona,2003,7,Pedestrian,68836.0
+2305.0,Hidalgo,Texas,2003,3,Personal Vehicle,1293065.0
+2606.0,Sasabe,Arizona,2003,10,Truck,76.0
+2406.0,Columbus,New Mexico,2003,1,Train,0.0
+2601.0,Douglas,Arizona,2003,7,Truck,2396.0
+2504.0,San Ysidro,California,2003,9,Truck,0.0
+2602.0,Lukeville,Arizona,2003,3,Truck,105.0
+2310.0,Roma,Texas,2003,10,Bus,2802.0
+2603.0,Naco,Arizona,2003,11,Bus,275.0
+2404.0,Tornillo,Texas,2003,3,Train,0.0
+2304.0,Laredo,Texas,2003,7,Pedestrian,401038.0
+2502.0,Andrade,California,2003,1,Bus,315.0
+2403.0,Presidio,Texas,2003,3,Truck,483.0
+2505.0,Tecate,California,2003,6,Pedestrian,44573.0
+2502.0,Andrade,California,2003,4,Truck,200.0
+2601.0,Douglas,Arizona,2003,5,Train,0.0
+2606.0,Sasabe,Arizona,2003,4,Personal Vehicle,9370.0
+2307.0,Rio Grande City,Texas,2003,11,Pedestrian,10070.0
+2502.0,Andrade,California,2003,6,Pedestrian,79346.0
+2603.0,Naco,Arizona,2003,12,Train,0.0
+2309.0,Progreso,Texas,2003,4,Bus,1510.0
+2307.0,Rio Grande City,Texas,2003,3,Bus,0.0
+2404.0,Tornillo,Texas,2003,2,Personal Vehicle,110246.0
+2408.0,Santa Teresa,New Mexico,2003,10,Bus,893.0
+2303.0,Eagle Pass,Texas,2003,2,Train,480.0
+2503.0,Calexico,California,2003,10,Pedestrian,561703.0
+2406.0,Columbus,New Mexico,2003,9,Truck,846.0
+2305.0,Hidalgo,Texas,2003,8,Pedestrian,166097.0
+2302.0,Del Rio,Texas,2003,3,Train,0.0
+2309.0,Progreso,Texas,2003,4,Truck,1465.0
+2602.0,Lukeville,Arizona,2003,6,Truck,93.0
+2303.0,Eagle Pass,Texas,2003,4,Truck,7422.0
+2304.0,Laredo,Texas,2003,2,Pedestrian,349821.0
+2404.0,Tornillo,Texas,2003,7,Bus,0.0
+2303.0,Eagle Pass,Texas,2003,7,Truck,7122.0
+2305.0,Hidalgo,Texas,2003,11,Bus,56280.0
+2505.0,Tecate,California,2003,4,Train,9.0
+2303.0,Eagle Pass,Texas,2003,6,Pedestrian,45120.0
+2302.0,Del Rio,Texas,2003,6,Bus,543.0
+2406.0,Columbus,New Mexico,2003,8,Personal Vehicle,95218.0
+2303.0,Eagle Pass,Texas,2003,4,Train,460.0
+2603.0,Naco,Arizona,2003,4,Train,0.0
+2601.0,Douglas,Arizona,2003,1,Bus,4744.0
+2304.0,Laredo,Texas,2003,1,Personal Vehicle,1307670.0
+2504.0,San Ysidro,California,2003,6,Personal Vehicle,3153005.0
+2604.0,Nogales,Arizona,2003,2,Truck,25418.0
+2606.0,Sasabe,Arizona,2003,7,Personal Vehicle,10384.0
+2403.0,Presidio,Texas,2003,11,Bus,190.0
+2302.0,Del Rio,Texas,2003,10,Truck,6295.0
+2608.0,San Luis,Arizona,2003,9,Personal Vehicle,558736.0
+2601.0,Douglas,Arizona,2003,12,Bus,3720.0
+2408.0,Santa Teresa,New Mexico,2003,3,Bus,1085.0
+2305.0,Hidalgo,Texas,2003,12,Train,0.0
+2402.0,El Paso,Texas,2003,12,Train,168.0
+2506.0,Otay Mesa,California,2003,9,Pedestrian,123496.0
+2601.0,Douglas,Arizona,2003,1,Personal Vehicle,393994.0
+2402.0,El Paso,Texas,2003,4,Train,153.0
+2602.0,Lukeville,Arizona,2003,1,Pedestrian,7544.0
+2503.0,Calexico,California,2003,6,Bus,862.0
+2402.0,El Paso,Texas,2003,10,Pedestrian,697104.0
+2404.0,Tornillo,Texas,2003,3,Truck,0.0
+2302.0,Del Rio,Texas,2003,5,Pedestrian,10342.0
+2302.0,Del Rio,Texas,2003,8,Pedestrian,9648.0
+2608.0,San Luis,Arizona,2003,6,Pedestrian,181292.0
+2404.0,Tornillo,Texas,2003,5,Truck,0.0
+2301.0,Brownsville,Texas,2003,11,Personal Vehicle,1507692.0
+2304.0,Laredo,Texas,2003,11,Truck,107250.0
+2406.0,Columbus,New Mexico,2003,7,Train,0.0
+2504.0,San Ysidro,California,2003,1,Train,0.0
+2406.0,Columbus,New Mexico,2003,8,Bus,878.0
+2608.0,San Luis,Arizona,2003,11,Train,0.0
+2608.0,San Luis,Arizona,2003,7,Truck,2393.0
+2608.0,San Luis,Arizona,2003,11,Personal Vehicle,565874.0
+2303.0,Eagle Pass,Texas,2003,3,Pedestrian,60433.0
+2301.0,Brownsville,Texas,2003,3,Personal Vehicle,1309740.0
+2603.0,Naco,Arizona,2003,7,Train,0.0
+2402.0,El Paso,Texas,2003,7,Pedestrian,782051.0
+2309.0,Progreso,Texas,2003,4,Personal Vehicle,227227.0
+2408.0,Santa Teresa,New Mexico,2003,9,Train,0.0
+2601.0,Douglas,Arizona,2003,8,Truck,2274.0
+2307.0,Rio Grande City,Texas,2003,11,Personal Vehicle,213175.0
+2606.0,Sasabe,Arizona,2003,6,Personal Vehicle,9012.0
+2608.0,San Luis,Arizona,2003,1,Bus,133.0
+2503.0,Calexico,California,2003,10,Train,0.0
+2303.0,Eagle Pass,Texas,2003,2,Pedestrian,50702.0
+2302.0,Del Rio,Texas,2003,7,Personal Vehicle,389707.0
+2403.0,Presidio,Texas,2003,4,Truck,543.0
+2505.0,Tecate,California,2003,10,Truck,5006.0
+2408.0,Santa Teresa,New Mexico,2003,11,Personal Vehicle,45567.0
+2503.0,Calexico,California,2003,5,Truck,0.0
+2601.0,Douglas,Arizona,2003,9,Train,0.0
+2601.0,Douglas,Arizona,2003,1,Pedestrian,64180.0
+2302.0,Del Rio,Texas,2003,4,Truck,5856.0
+2604.0,Nogales,Arizona,2003,4,Train,164.0
+2507.0,Calexico East,California,2003,8,Truck,22506.0
+2307.0,Rio Grande City,Texas,2003,3,Pedestrian,10546.0
+2505.0,Tecate,California,2003,11,Truck,4331.0
+2606.0,Sasabe,Arizona,2003,4,Bus,0.0
+2506.0,Otay Mesa,California,2003,9,Truck,57277.0
+2304.0,Laredo,Texas,2003,7,Personal Vehicle,1546236.0
+2606.0,Sasabe,Arizona,2003,2,Train,0.0
+2604.0,Nogales,Arizona,2003,6,Bus,10200.0
+2504.0,San Ysidro,California,2003,7,Train,0.0
+2406.0,Columbus,New Mexico,2003,10,Bus,1253.0
+2502.0,Andrade,California,2003,5,Personal Vehicle,0.0
+2309.0,Progreso,Texas,2003,12,Truck,1401.0
+2504.0,San Ysidro,California,2003,7,Personal Vehicle,3343490.0
+2309.0,Progreso,Texas,2003,10,Personal Vehicle,227280.0
+2406.0,Columbus,New Mexico,2003,6,Train,0.0
+2403.0,Presidio,Texas,2003,9,Personal Vehicle,130882.0
+2302.0,Del Rio,Texas,2003,10,Pedestrian,7349.0
+2604.0,Nogales,Arizona,2003,5,Truck,24494.0
+2504.0,San Ysidro,California,2003,7,Bus,121279.0
+2302.0,Del Rio,Texas,2003,3,Personal Vehicle,397346.0
+2503.0,Calexico,California,2003,7,Bus,0.0
+2507.0,Calexico East,California,2003,8,Pedestrian,72.0
+2406.0,Columbus,New Mexico,2003,4,Pedestrian,19270.0
+2502.0,Andrade,California,2003,10,Personal Vehicle,123778.0
+2601.0,Douglas,Arizona,2003,7,Personal Vehicle,386236.0
+2507.0,Calexico East,California,2003,7,Train,0.0
+2601.0,Douglas,Arizona,2003,10,Train,0.0
+2301.0,Brownsville,Texas,2003,9,Bus,3914.0
+2302.0,Del Rio,Texas,2003,10,Train,0.0
+2309.0,Progreso,Texas,2003,9,Train,0.0
+2402.0,El Paso,Texas,2003,5,Pedestrian,770901.0
+2402.0,El Paso,Texas,2003,3,Personal Vehicle,2162278.0
+2301.0,Brownsville,Texas,2003,2,Train,0.0
+2303.0,Eagle Pass,Texas,2003,5,Train,488.0
+2507.0,Calexico East,California,2003,8,Personal Vehicle,345824.0
+2303.0,Eagle Pass,Texas,2003,4,Personal Vehicle,559909.0
+2302.0,Del Rio,Texas,2003,3,Bus,560.0
+2305.0,Hidalgo,Texas,2003,7,Personal Vehicle,1470604.0
+2402.0,El Paso,Texas,2003,11,Truck,55716.0
+2303.0,Eagle Pass,Texas,2003,8,Truck,7049.0
+2505.0,Tecate,California,2003,5,Bus,492.0
+2307.0,Rio Grande City,Texas,2003,3,Personal Vehicle,220998.0
+2604.0,Nogales,Arizona,2003,8,Truck,11987.0
+2502.0,Andrade,California,2003,7,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,8,Pedestrian,901.0
+2506.0,Otay Mesa,California,2003,6,Bus,29138.0
+2504.0,San Ysidro,California,2003,3,Pedestrian,660116.0
+2606.0,Sasabe,Arizona,2003,11,Pedestrian,162.0
+2602.0,Lukeville,Arizona,2003,9,Personal Vehicle,76218.0
+2603.0,Naco,Arizona,2003,11,Personal Vehicle,71394.0
+2604.0,Nogales,Arizona,2003,7,Truck,12755.0
+2303.0,Eagle Pass,Texas,2003,1,Personal Vehicle,700939.0
+2406.0,Columbus,New Mexico,2003,11,Bus,834.0
+2305.0,Hidalgo,Texas,2003,12,Truck,33664.0
+2303.0,Eagle Pass,Texas,2003,8,Personal Vehicle,692849.0
+2507.0,Calexico East,California,2003,9,Train,147.0
+2604.0,Nogales,Arizona,2003,1,Truck,28689.0
+2505.0,Tecate,California,2003,11,Train,8.0
+2307.0,Rio Grande City,Texas,2003,11,Truck,2691.0
+2304.0,Laredo,Texas,2003,10,Truck,122554.0
+2307.0,Rio Grande City,Texas,2003,10,Personal Vehicle,191734.0
+2504.0,San Ysidro,California,2003,9,Train,0.0
+2402.0,El Paso,Texas,2003,8,Truck,54987.0
+2507.0,Calexico East,California,2003,10,Pedestrian,0.0
+2302.0,Del Rio,Texas,2003,5,Truck,5895.0
+2310.0,Roma,Texas,2003,10,Personal Vehicle,220795.0
+2310.0,Roma,Texas,2003,1,Truck,531.0
+2604.0,Nogales,Arizona,2003,6,Truck,19252.0
+2304.0,Laredo,Texas,2003,4,Personal Vehicle,1068010.0
+2602.0,Lukeville,Arizona,2003,10,Truck,52.0
+2403.0,Presidio,Texas,2003,11,Train,0.0
+2304.0,Laredo,Texas,2003,11,Train,0.0
+2507.0,Calexico East,California,2003,4,Bus,703.0
+2506.0,Otay Mesa,California,2003,3,Personal Vehicle,786398.0
+2305.0,Hidalgo,Texas,2003,3,Pedestrian,271338.0
+2506.0,Otay Mesa,California,2003,2,Truck,48112.0
+2307.0,Rio Grande City,Texas,2003,4,Personal Vehicle,207603.0
+2507.0,Calexico East,California,2003,6,Pedestrian,83.0
+2504.0,San Ysidro,California,2003,11,Truck,0.0
+2307.0,Rio Grande City,Texas,2003,12,Truck,3062.0
+2504.0,San Ysidro,California,2003,3,Train,0.0
+2604.0,Nogales,Arizona,2003,2,Bus,36330.0
+2402.0,El Paso,Texas,2003,10,Bus,28301.0
+2603.0,Naco,Arizona,2003,6,Pedestrian,5193.0
+2404.0,Tornillo,Texas,2003,7,Train,0.0
+2403.0,Presidio,Texas,2003,10,Train,0.0
+2402.0,El Paso,Texas,2003,2,Bus,33859.0
+2602.0,Lukeville,Arizona,2003,6,Bus,195.0
+2601.0,Douglas,Arizona,2003,11,Truck,2102.0
+2304.0,Laredo,Texas,2003,3,Truck,113783.0
+2408.0,Santa Teresa,New Mexico,2003,5,Truck,2253.0
+2506.0,Otay Mesa,California,2003,5,Bus,25120.0
+2404.0,Tornillo,Texas,2003,2,Truck,0.0
+2601.0,Douglas,Arizona,2003,5,Pedestrian,101106.0
+2503.0,Calexico,California,2003,11,Pedestrian,509399.0
+2603.0,Naco,Arizona,2003,9,Truck,308.0
+2603.0,Naco,Arizona,2003,11,Train,0.0
+2506.0,Otay Mesa,California,2003,4,Personal Vehicle,772112.0
+2305.0,Hidalgo,Texas,2003,6,Truck,32365.0
+2608.0,San Luis,Arizona,2003,3,Truck,4093.0
+2305.0,Hidalgo,Texas,2003,7,Bus,53480.0
+2602.0,Lukeville,Arizona,2003,4,Truck,118.0
+2503.0,Calexico,California,2003,2,Train,0.0
+2303.0,Eagle Pass,Texas,2003,9,Train,572.0
+2305.0,Hidalgo,Texas,2003,4,Bus,44340.0
+2406.0,Columbus,New Mexico,2003,7,Truck,240.0
+2406.0,Columbus,New Mexico,2003,2,Personal Vehicle,80829.0
+2304.0,Laredo,Texas,2003,3,Train,0.0
+2503.0,Calexico,California,2003,1,Pedestrian,630977.0
+2305.0,Hidalgo,Texas,2003,1,Personal Vehicle,1281311.0
+2301.0,Brownsville,Texas,2003,1,Personal Vehicle,1207598.0
+2408.0,Santa Teresa,New Mexico,2003,1,Train,0.0
+2506.0,Otay Mesa,California,2003,5,Personal Vehicle,840004.0
+2302.0,Del Rio,Texas,2003,2,Pedestrian,10594.0
+2305.0,Hidalgo,Texas,2003,1,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,6,Truck,2148.0
+2502.0,Andrade,California,2003,2,Bus,414.0
+2408.0,Santa Teresa,New Mexico,2003,11,Bus,730.0
+2402.0,El Paso,Texas,2003,4,Bus,32568.0
+2309.0,Progreso,Texas,2003,11,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,10,Pedestrian,1373.0
+2604.0,Nogales,Arizona,2003,10,Personal Vehicle,843038.0
+2310.0,Roma,Texas,2003,2,Pedestrian,15693.0
+2504.0,San Ysidro,California,2003,6,Truck,0.0
+2307.0,Rio Grande City,Texas,2003,10,Bus,0.0
+2505.0,Tecate,California,2003,11,Pedestrian,30874.0
+2310.0,Roma,Texas,2003,8,Truck,717.0
+2606.0,Sasabe,Arizona,2003,7,Bus,0.0
+2406.0,Columbus,New Mexico,2003,9,Personal Vehicle,90353.0
+2406.0,Columbus,New Mexico,2003,9,Bus,701.0
+2506.0,Otay Mesa,California,2003,9,Train,38.0
+2302.0,Del Rio,Texas,2003,5,Personal Vehicle,381264.0
+2310.0,Roma,Texas,2003,5,Truck,629.0
+2301.0,Brownsville,Texas,2003,1,Train,0.0
+2404.0,Tornillo,Texas,2003,7,Truck,0.0
+2608.0,San Luis,Arizona,2003,1,Truck,4076.0
+2505.0,Tecate,California,2003,11,Personal Vehicle,242388.0
+2608.0,San Luis,Arizona,2003,8,Bus,1.0
+2403.0,Presidio,Texas,2003,6,Bus,110.0
+2505.0,Tecate,California,2003,9,Personal Vehicle,342450.0
+2303.0,Eagle Pass,Texas,2003,7,Train,540.0
+2304.0,Laredo,Texas,2003,2,Bus,46665.0
+2406.0,Columbus,New Mexico,2003,7,Pedestrian,18017.0
+2403.0,Presidio,Texas,2003,5,Truck,379.0
+2506.0,Otay Mesa,California,2003,7,Personal Vehicle,977341.0
+2310.0,Roma,Texas,2003,3,Bus,5359.0
+2505.0,Tecate,California,2003,8,Train,2.0
+2403.0,Presidio,Texas,2003,6,Pedestrian,1750.0
+2502.0,Andrade,California,2003,11,Truck,166.0
+2504.0,San Ysidro,California,2003,1,Bus,128396.0
+2507.0,Calexico East,California,2003,9,Pedestrian,71.0
+2606.0,Sasabe,Arizona,2003,1,Train,0.0
+2604.0,Nogales,Arizona,2003,9,Bus,9264.0
+2502.0,Andrade,California,2003,1,Personal Vehicle,146729.0
+2406.0,Columbus,New Mexico,2003,4,Personal Vehicle,84838.0
+2502.0,Andrade,California,2003,1,Train,0.0
+2505.0,Tecate,California,2003,9,Train,4.0
+2404.0,Tornillo,Texas,2003,3,Bus,0.0
+2606.0,Sasabe,Arizona,2003,12,Train,0.0
+2406.0,Columbus,New Mexico,2003,4,Train,0.0
+2310.0,Roma,Texas,2003,5,Bus,3991.0
+2309.0,Progreso,Texas,2003,2,Bus,1246.0
+2503.0,Calexico,California,2003,12,Personal Vehicle,857258.0
+2603.0,Naco,Arizona,2003,3,Bus,0.0
+2303.0,Eagle Pass,Texas,2003,5,Pedestrian,53568.0
+2303.0,Eagle Pass,Texas,2003,10,Truck,8235.0
+2504.0,San Ysidro,California,2003,6,Train,0.0
+2310.0,Roma,Texas,2003,7,Truck,718.0
+2601.0,Douglas,Arizona,2003,8,Bus,4496.0
+2507.0,Calexico East,California,2003,3,Personal Vehicle,606029.0
+2602.0,Lukeville,Arizona,2003,3,Train,0.0
+2301.0,Brownsville,Texas,2003,10,Bus,3802.0
+2603.0,Naco,Arizona,2003,6,Personal Vehicle,172859.0
+2507.0,Calexico East,California,2003,8,Train,154.0
+2505.0,Tecate,California,2003,1,Truck,4216.0
+2604.0,Nogales,Arizona,2003,11,Personal Vehicle,782514.0
+2305.0,Hidalgo,Texas,2003,8,Train,0.0
+2404.0,Tornillo,Texas,2003,5,Personal Vehicle,122556.0
+2310.0,Roma,Texas,2003,1,Personal Vehicle,268466.0
+2402.0,El Paso,Texas,2003,6,Pedestrian,718266.0
+2309.0,Progreso,Texas,2003,2,Pedestrian,159958.0
+2408.0,Santa Teresa,New Mexico,2003,12,Bus,790.0
+2304.0,Laredo,Texas,2003,4,Bus,59477.0
+2307.0,Rio Grande City,Texas,2003,8,Truck,3140.0
+2604.0,Nogales,Arizona,2003,3,Train,184.0
+2606.0,Sasabe,Arizona,2003,9,Pedestrian,176.0
+2504.0,San Ysidro,California,2003,10,Personal Vehicle,3306745.0
+2307.0,Rio Grande City,Texas,2003,6,Train,0.0
+2303.0,Eagle Pass,Texas,2003,11,Truck,7341.0
+2304.0,Laredo,Texas,2003,5,Truck,114213.0
+2301.0,Brownsville,Texas,2003,7,Personal Vehicle,1476833.0
+2303.0,Eagle Pass,Texas,2003,11,Bus,1184.0
+2404.0,Tornillo,Texas,2003,11,Bus,0.0
+2606.0,Sasabe,Arizona,2003,4,Train,0.0
+2301.0,Brownsville,Texas,2003,10,Truck,20333.0
+2301.0,Brownsville,Texas,2003,8,Pedestrian,242672.0
+2506.0,Otay Mesa,California,2003,4,Truck,58614.0
+2301.0,Brownsville,Texas,2003,6,Train,0.0
+2603.0,Naco,Arizona,2003,11,Pedestrian,6957.0
+2506.0,Otay Mesa,California,2003,8,Bus,28639.0
+2307.0,Rio Grande City,Texas,2003,4,Train,0.0
+2601.0,Douglas,Arizona,2003,6,Truck,2129.0
+2604.0,Nogales,Arizona,2003,8,Personal Vehicle,831214.0
+2504.0,San Ysidro,California,2003,4,Truck,0.0
+2506.0,Otay Mesa,California,2003,3,Train,24.0
+2304.0,Laredo,Texas,2003,12,Train,0.0
+2602.0,Lukeville,Arizona,2003,8,Personal Vehicle,75204.0
+2608.0,San Luis,Arizona,2003,2,Train,0.0
+2307.0,Rio Grande City,Texas,2003,7,Pedestrian,10035.0
+2604.0,Nogales,Arizona,2003,12,Truck,22097.0
+2301.0,Brownsville,Texas,2003,4,Train,0.0
+2503.0,Calexico,California,2003,5,Bus,1274.0
+2507.0,Calexico East,California,2003,7,Personal Vehicle,0.0
+2402.0,El Paso,Texas,2003,7,Train,150.0
+2402.0,El Paso,Texas,2003,5,Train,174.0
+2404.0,Tornillo,Texas,2003,6,Pedestrian,1877.0
+2606.0,Sasabe,Arizona,2003,7,Train,0.0
+2602.0,Lukeville,Arizona,2003,3,Personal Vehicle,128084.0
+2402.0,El Paso,Texas,2003,10,Truck,63695.0
+2608.0,San Luis,Arizona,2003,1,Train,0.0
+2503.0,Calexico,California,2003,9,Bus,1304.0
+2505.0,Tecate,California,2003,10,Personal Vehicle,187276.0
+2504.0,San Ysidro,California,2003,3,Bus,106128.0
+2606.0,Sasabe,Arizona,2003,1,Bus,0.0
+2305.0,Hidalgo,Texas,2003,8,Truck,32017.0
+2404.0,Tornillo,Texas,2003,5,Bus,0.0
+2601.0,Douglas,Arizona,2003,7,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,11,Train,0.0
+2302.0,Del Rio,Texas,2003,6,Pedestrian,12045.0
+2301.0,Brownsville,Texas,2003,4,Bus,4819.0
+2608.0,San Luis,Arizona,2003,3,Bus,14.0
+2403.0,Presidio,Texas,2003,12,Bus,370.0
+2310.0,Roma,Texas,2003,1,Pedestrian,17434.0
+2303.0,Eagle Pass,Texas,2003,8,Train,588.0
+2507.0,Calexico East,California,2003,1,Bus,154.0
+2504.0,San Ysidro,California,2003,10,Truck,0.0
+2506.0,Otay Mesa,California,2003,10,Train,42.0
+2305.0,Hidalgo,Texas,2003,6,Bus,52280.0
+2302.0,Del Rio,Texas,2003,4,Personal Vehicle,346736.0
+2507.0,Calexico East,California,2003,3,Bus,735.0
+2304.0,Laredo,Texas,2003,12,Personal Vehicle,1363997.0
+2404.0,Tornillo,Texas,2003,1,Pedestrian,2019.0
+2406.0,Columbus,New Mexico,2003,5,Train,0.0
+2503.0,Calexico,California,2003,1,Bus,1493.0
+2402.0,El Paso,Texas,2003,8,Personal Vehicle,2320007.0
+2310.0,Roma,Texas,2003,8,Personal Vehicle,237223.0
+2309.0,Progreso,Texas,2003,3,Personal Vehicle,262114.0
+2302.0,Del Rio,Texas,2003,8,Personal Vehicle,394875.0
+2602.0,Lukeville,Arizona,2003,7,Train,0.0
+2502.0,Andrade,California,2003,12,Pedestrian,195413.0
+2506.0,Otay Mesa,California,2003,12,Truck,56486.0
+2404.0,Tornillo,Texas,2003,6,Truck,0.0
+2506.0,Otay Mesa,California,2003,1,Bus,26557.0
+2502.0,Andrade,California,2003,2,Personal Vehicle,135717.0
+2403.0,Presidio,Texas,2003,2,Personal Vehicle,123274.0
+2606.0,Sasabe,Arizona,2003,11,Personal Vehicle,9259.0
+2608.0,San Luis,Arizona,2003,11,Truck,2897.0
+2507.0,Calexico East,California,2003,9,Truck,24729.0
+2304.0,Laredo,Texas,2003,6,Personal Vehicle,1273794.0
+2408.0,Santa Teresa,New Mexico,2003,3,Truck,2825.0
+2402.0,El Paso,Texas,2003,5,Truck,56239.0
+2601.0,Douglas,Arizona,2003,2,Personal Vehicle,387725.0
+2302.0,Del Rio,Texas,2003,11,Truck,5238.0
+2403.0,Presidio,Texas,2003,8,Bus,210.0
+2404.0,Tornillo,Texas,2003,8,Personal Vehicle,111588.0
+2602.0,Lukeville,Arizona,2003,6,Personal Vehicle,113833.0
+2305.0,Hidalgo,Texas,2003,2,Train,0.0
+2301.0,Brownsville,Texas,2003,10,Train,0.0
+2307.0,Rio Grande City,Texas,2003,2,Personal Vehicle,193883.0
+2606.0,Sasabe,Arizona,2003,3,Train,0.0
+2408.0,Santa Teresa,New Mexico,2003,1,Personal Vehicle,55482.0
+2506.0,Otay Mesa,California,2003,7,Bus,38370.0
+2502.0,Andrade,California,2003,5,Pedestrian,0.0
+2302.0,Del Rio,Texas,2003,6,Personal Vehicle,371469.0
+2304.0,Laredo,Texas,2003,10,Personal Vehicle,1160130.0
+2503.0,Calexico,California,2003,2,Bus,800.0
+2507.0,Calexico East,California,2003,5,Bus,271.0
+2403.0,Presidio,Texas,2003,1,Bus,280.0
+2305.0,Hidalgo,Texas,2003,12,Pedestrian,216343.0
+2504.0,San Ysidro,California,2003,5,Truck,0.0
+2505.0,Tecate,California,2003,4,Pedestrian,35143.0
+2302.0,Del Rio,Texas,2003,7,Bus,560.0
+2304.0,Laredo,Texas,2003,4,Pedestrian,383442.0
+2402.0,El Paso,Texas,2003,1,Personal Vehicle,2178146.0
+2506.0,Otay Mesa,California,2003,5,Truck,59180.0
+2404.0,Tornillo,Texas,2003,10,Personal Vehicle,109887.0
+2505.0,Tecate,California,2003,3,Train,11.0
+2606.0,Sasabe,Arizona,2003,3,Truck,188.0
+2309.0,Progreso,Texas,2003,11,Truck,1500.0
+2406.0,Columbus,New Mexico,2003,5,Truck,297.0
+2608.0,San Luis,Arizona,2003,7,Personal Vehicle,581097.0
+2301.0,Brownsville,Texas,2003,5,Bus,4468.0
+2506.0,Otay Mesa,California,2003,1,Pedestrian,104479.0
+2608.0,San Luis,Arizona,2003,2,Personal Vehicle,453027.0
+2404.0,Tornillo,Texas,2003,9,Pedestrian,1623.0
+2303.0,Eagle Pass,Texas,2003,5,Bus,147.0
+2601.0,Douglas,Arizona,2003,12,Pedestrian,48368.0
+2601.0,Douglas,Arizona,2003,3,Train,0.0
+2303.0,Eagle Pass,Texas,2003,10,Personal Vehicle,640313.0
+2504.0,San Ysidro,California,2003,11,Pedestrian,952643.0
+2309.0,Progreso,Texas,2003,7,Pedestrian,94038.0
+2406.0,Columbus,New Mexico,2003,1,Personal Vehicle,67469.0
+2304.0,Laredo,Texas,2003,5,Personal Vehicle,1276262.0
+2507.0,Calexico East,California,2003,4,Train,154.0
+2309.0,Progreso,Texas,2003,9,Truck,2178.0
+2504.0,San Ysidro,California,2003,12,Truck,0.0
+2403.0,Presidio,Texas,2003,11,Truck,839.0
+2606.0,Sasabe,Arizona,2003,9,Truck,100.0
+2403.0,Presidio,Texas,2003,4,Train,0.0
+2305.0,Hidalgo,Texas,2003,1,Truck,33092.0
+2604.0,Nogales,Arizona,2003,3,Truck,28323.0
+2404.0,Tornillo,Texas,2003,7,Personal Vehicle,103417.0
+2602.0,Lukeville,Arizona,2003,8,Train,0.0
+2310.0,Roma,Texas,2003,12,Personal Vehicle,308908.0
+2408.0,Santa Teresa,New Mexico,2003,11,Truck,2227.0
+2502.0,Andrade,California,2003,6,Personal Vehicle,117579.0
+2503.0,Calexico,California,2003,11,Bus,1141.0
+2602.0,Lukeville,Arizona,2003,9,Train,0.0
+2506.0,Otay Mesa,California,2003,4,Train,40.0
+2502.0,Andrade,California,2003,8,Bus,123.0
+2301.0,Brownsville,Texas,2003,7,Bus,7110.0
+2506.0,Otay Mesa,California,2003,2,Personal Vehicle,753541.0
+2402.0,El Paso,Texas,2003,8,Pedestrian,786549.0
+2309.0,Progreso,Texas,2003,6,Train,0.0
+2303.0,Eagle Pass,Texas,2003,1,Truck,7156.0
+2404.0,Tornillo,Texas,2003,10,Truck,0.0
+2408.0,Santa Teresa,New Mexico,2003,5,Pedestrian,1082.0
+2402.0,El Paso,Texas,2003,4,Truck,49454.0
+2304.0,Laredo,Texas,2003,12,Truck,108052.0
+2603.0,Naco,Arizona,2003,2,Personal Vehicle,89989.0
+2408.0,Santa Teresa,New Mexico,2003,4,Bus,766.0
+2310.0,Roma,Texas,2003,7,Personal Vehicle,214070.0
+2608.0,San Luis,Arizona,2003,7,Bus,62.0
+2301.0,Brownsville,Texas,2003,12,Truck,17205.0
+2601.0,Douglas,Arizona,2003,4,Train,0.0
+2602.0,Lukeville,Arizona,2003,8,Bus,380.0
+2310.0,Roma,Texas,2003,9,Train,0.0
+2503.0,Calexico,California,2003,7,Truck,0.0
+2307.0,Rio Grande City,Texas,2003,5,Truck,3166.0
+2309.0,Progreso,Texas,2003,7,Truck,1662.0
+2305.0,Hidalgo,Texas,2003,12,Personal Vehicle,1436308.0
+2304.0,Laredo,Texas,2003,9,Truck,110717.0
+2307.0,Rio Grande City,Texas,2003,6,Personal Vehicle,206728.0
